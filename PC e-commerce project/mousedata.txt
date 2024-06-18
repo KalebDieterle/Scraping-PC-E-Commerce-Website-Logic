@@ -1,0 +1,199 @@
+Glorious,Glorious Model D 2 Wireless,N/A,127.0,67.0,43.0,66,Ergonomic,Wireless,BAMF 2.0,26000,1000
+Glorious,Glorious Model D 2 Wired,N/A,127.0,67.0,43.0,58,Ergonomic,Wired,BAMF 2.0,26000,1000
+Nyfter,Nyfter Ergolight 4K,N/A,120.0,64.0,37.2,53,Hybrid,Wireless,PAW3395,26000,4000
+MACHENIKE,MACHENIKE L7 Air,N/A,118.6,61.0,39.0,55,Symmetrical,Wireless,PAW3395,26000,4000
+Attack,Attack Shark X11,N/A,128.0,64.0,40.0,63,Symmetrical,Wireless,PAW3311,22000,1000
+Corsair,Corsair Glaive Pro,N/A,124.5,70.0,45.5,115,Ergonomic,Wired,PMW3367,18000,1000
+Corsair,Corsair Glaive RGB,N/A,124.5,70.0,45.5,122,Ergonomic,Wired,PMW3367,16000,1000
+PMM,PMM NITE 8K,99.99,119.1,62.1,38.5,48,Symmetrical,Wireless,Focus Pro 30K,30000,8000
+PMM,PMM TITAN M,99.99,121.9,61.9,39.1,47,Symmetrical,Wireless,HERO 25K,25000,1000
+PMM,PMM TITAN S,99.99,115.3,58.5,37.0,53,Symmetrical,Wireless,HERO 12K,12000,1000
+AJAZZ,AJAZZ AJ159 APEX,99.99,118.1,63.1,37.7,56,Symmetrical,Wireless,PAW3950 APEX,42000,8000
+AJAZZ,AJAZZ AJ159 PRO,99.99,118.1,63.1,37.7,56,Symmetrical,Wireless,PAW3395,26000,8000
+AJAZZ,AJAZZ AJ159P,99.99,118.1,63.1,37.7,56,Symmetrical,Wireless,PAW3395,26000,1000
+AJAZZ,AJAZZ AJ159,99.99,118.1,63.1,37.7,56,Symmetrical,Wireless,PAW3395,26000,1000
+HyperX,HyperX Pulsefire Haste 2 Core Wireless,99.99,124.2,66.8,38.2,68,Symmetrical,Wireless,HyperX Core Sensor,12000,1000
+Nitrite,Nitrite Labs Carbon XT1,99.99,98.4,58.8,37.9,19,Symmetrical,Wireless,PAW3395,26000,8000
+IROK,IROK HE3 PRO,99.99,120.0,61.9,38.9,54,Symmetrical,Wireless,PAW3395,26000,4000
+IROK,IROK HE3,99.99,120.0,61.9,38.9,54,Symmetrical,Wireless,PAW3395,26000,1000
+IROK,IROK HE3 SE,99.99,120.0,61.9,38.9,54,Symmetrical,Wireless,PMW3325,10000,1000
+HyperX,HyperX Pulsefire Surge,99.99,120.2,62.9,40.7,100,Symmetrical,Wired,PMW3389,16000,1000
+Rapoo,Rapoo VT1PRO MAX,99.99,119.0,62.0,38.0,59,Symmetrical,Wireless,PAW3950,30000,8000
+Rapoo,Rapoo VT1Air MAX,99.99,119.0,62.0,38.0,50,Symmetrical,Wireless,PAW3950,30000,8000
+Rapoo,Rapoo VT1PRO,99.99,119.0,62.0,38.0,59,Symmetrical,Wireless,PAW3398,26000,8000
+LAMZU,LAMZU PARO,99.99,120.0,65.0,41.0,48,Ergonomic,Wireless,PAW3395,26000,8000
+Logitech,Logitech G304 Lightspeed,99.99,116.6,62.1,38.2,99,Symmetrical,Wireless,HERO 12K,12000,1000
+Zowie,Zowie MiCO,N/A,98.0,58.0,35.0,68,Symmetrical,Wired,PAN3305DK-H,1600,500
+AJAZZ,AJAZZ AJ199 MC,N/A,118.0,61.6,38.6,53,Symmetrical,Wireless,PAW3338,16000,1000
+Corsair,Corsair Nightsword RGB,N/A,129.0,86.0,43.0,119,Ergonomic,Wired,PMW3391,18000,1000
+Corsair,Corsair Scimitar Elite Wireless,N/A,119.0,76.0,42.0,108,Ergonomic,Wireless,MARKSMAN 26K,26000,2000
+Corsair,Corsair Scimitar RGB Elite,N/A,119.0,76.0,42.0,122,Ergonomic,Wired,PMW3391,18000,1000
+Corsair,Corsair Scimitar Pro RGB,N/A,119.0,76.0,42.0,147,Ergonomic,Wired,PMW3367,16000,1000
+Corsair,Corsair Scimitar RGB,N/A,119.0,76.0,42.0,147,Ergonomic,Wired,SDNS-3988,12000,1000
+Corsair,Corsair Sabre RGB Pro Wireless,19.99,128.2,69.0,42.4,79,Ergonomic,Wireless,MARKSMAN 26K,26000,2000
+Corsair,Corsair Sabre RGB Pro,49.99,128.2,69.0,42.4,74,Ergonomic,Wired,PMW3392,26000,8000
+Corsair,Corsair Sabre Pro,157.95,128.2,69.0,42.4,69,Ergonomic,Wired,PMW3392,18000,8000
+Attack,Attack Shark R3,19.99,119.5,61.0,36.0,46,Symmetrical,Wireless,PAW3395,26000,8000
+Logitech,Logitech G602,119.99,135.0,82.0,43.0,151,Ergonomic,Wireless,Delta Zero,2500,500
+Logitech,Logitech M720 Triathlon,16.99,115.0,74.0,44.0,135,Ergonomic,Wireless,,1000,125
+ATK,ATK X1 Ultra,49.99,127.0,64.0,40.0,54,Symmetrical,Wireless,PAW3950 Ultra,42000,8000
+ATK,ATK X1 Pro Max,129.95,127.0,64.0,40.0,54,Symmetrical,Wireless,PAW3950,36000,8000
+ATK,ATK X1 Pro,19.99,127.0,64.0,40.0,49,Symmetrical,Wireless,PAW3950,36000,8000
+Corsair,Corsair Katar Elite Wireless,39.99,115.8,64.2,37.8,69,Symmetrical,Wireless,MARKSMAN 26K,26000,1000
+Corsair,Corsair Katar Pro Wireless,39.99,115.8,64.2,37.8,96,Symmetrical,Wireless,PMW3325,10000,1000
+Corsair,Corsair Katar Pro XT,39.99,115.8,64.2,37.8,73,Symmetrical,Wired,PMW3391,18000,1000
+ATK,ATK F1 Ultimate,19.99,118.2,62.4,38.8,38,Symmetrical,Wireless,PAW3950 Ultra,42000,8000
+ATK,ATK F1 Pro Max,49.99,118.2,62.4,38.8,50,Symmetrical,Wireless,PAW3950,36000,8000
+ATK,ATK F1 Pro,49.99,118.2,62.4,38.8,45,Symmetrical,Wireless,PAW3950,36000,8000
+Pwnage,Pwnage StormBreaker,16.99,122.0,64.0,42.0,51,Ergonomic,Wireless,PAW3395,26000,2000
+Razer,Razer DeathAdder Elite,16.99,127.0,70.0,42.7,105,Ergonomic,Wired,Razer 5G,16000,1000
+Razer,Razer DeathAdder Chroma,22.99,127.0,70.0,42.7,105,Ergonomic,Wired,Razer 4G,10000,1000
+Razer,Razer DeathAdder Expert,N/A,127.0,70.0,42.7,105,Ergonomic,Wired,Razer 4G,6400,1000
+Razer,Razer Atheris,N/A,99.7,62.8,34.1,66,Symmetrical,Wireless,PMW3330,7200,1000
+Razer,Razer Ouroboros,N/A,122.0,71.0,39.0,135,Symmetrical,Wired,Razer 4G,8200,1000
+PMM,PMM TITAN 8K L,N/A,125.0,63.5,40.0,35,Symmetrical,Wireless,Focus Pro 30K,30000,8000
+PMM,PMM CYBER 8K,N/A,78.7,59.7,30.3,24,Symmetrical,Wireless,Focus Pro 30K,30000,8000
+PMM,PMM AIM 8K,N/A,75.9,50.9,30.3,20,Symmetrical,Wireless,Focus Pro 30K,30000,8000
+Alienware,Alienware Pro Wireless,N/A,124.5,63.5,40.6,60,Symmetrical,Wireless,PAW3395,26000,8000
+Alienware,Alienware AW620M,49.99,131.5,77.8,41.5,99,Ergonomic,Wireless,PAW3395,26000,1000
+Alienware,Alienware AW610M,49.99,132.0,78.7,44.0,120,Symmetrical,Wireless,PMW3389,16000,1000
+Alienware,Alienware AW720M,49.99,125.2,61.7,37.8,89,Symmetrical,Wireless,PAW3395,26000,1000
+Alienware,Alienware AW320M,49.99,125.2,61.7,37.8,74,Symmetrical,Wired,PAW3370,19000,1000
+Turtle,Turtle Beach Kone XP Air,49.99,126.0,76.0,40.0,99,Ergonomic,Wireless,Owl-Eye II,19000,1000
+Razer,Razer Viper V3 Pro,49.99,127.1,63.9,39.9,54,Symmetrical,Wireless,Focus Pro Gen-2,35000,8000
+Turtle,Turtle Beach Burst II Air,49.99,122.2,67.3,39.2,47,Symmetrical,Wireless,Owl-Eye,26000,1000
+Turtle,Turtle Beach Pure Air,49.99,121.1,69.3,38.3,54,Ergonomic,Wireless,PAW3395,26000,1000
+Turtle,Turtle Beach Pure SEL,49.99,121.1,69.3,38.3,49,Ergonomic,Wired,PAW3318,8000,1000
+Santali,Santali Aagaz S1-O,49.99,125.0,65.0,39.0,49,Symmetrical,Wireless,PAW3395,26000,4000
+WLmouse,WLmouse Beast X 8K,49.99,122.0,62.0,37.0,39,Symmetrical,Wireless,PAW3395,26000,8000
+WLmouse,WLmouse Beast X Max,49.99,126.0,65.0,39.0,42,Symmetrical,Wireless,PAW3950 HS,30000,8000
+G-Wolves,G-Wolves HTR 8K,49.99,92.0,57.0,35.0,26,Symmetrical,Wireless,PAW3395,26000,8000
+ASUS,ASUS TUF Gaming M3 Gen II,49.99,123.0,68.0,40.0,59,Ergonomic,Wired,PAW3318,8000,1000
+ASUS,ASUS TUF Gaming M3,49.99,118.2,68.0,40.0,84,Ergonomic,Wired,PAW3325,7000,1000
+Logitech,Logitech Lift Vertical,49.99,108.0,70.0,71.0,125,Ergonomic,Wireless,,4000,125
+Logitech,Logitech MX Vertical,N/A,120.0,75.5,79.0,135,Ergonomic,Wireless,,4000,125
+Delux,Delux M900 Pro,N/A,126.6,69.0,41.8,63,Ergonomic,Wireless,PAW3395,26000,8000
+Logitech,Logitech G102 Lightsync,N/A,116.6,62.1,38.2,85,Symmetrical,Wired,1855,8000,1000
+Rawm,Rawm SA-ML01 Plus,N/A,127.2,66.0,38.5,70,Symmetrical,Wireless,PAW3395,26000,4000
+Rawm,Rawm SA-ML01,N/A,127.2,66.0,38.5,65,Symmetrical,Wireless,PAW3395,26000,4000
+MCHOSE,MCHOSE A5 Ultra,N/A,121.6,61.5,37.7,59,Symmetrical,Wireless,PAW3395,26000,8000
+Corsair,Corsair Ironclaw RGB Wireless,29.99,130.0,80.0,45.0,133,Ergonomic,Wireless,PMW3391,18000,1000
+Corsair,Corsair Ironclaw RGB,29.99,130.0,80.0,45.0,105,Ergonomic,Wired,PMW3391,18000,1000
+AULA,AULA SC680,29.99,123.2,62.4,39.5,58,Symmetrical,Wireless,PAW3395,26000,8000
+ASUS,ASUS ROG Keris II Ace,29.99,121.0,67.0,42.0,54,Ergonomic,Wireless,ROG AimPoint Pro,42000,8000
+Metapanda,Metapanda P1 Pro Max,29.99,123.0,65.1,41.0,65,Ergonomic,Wireless,PAW3395,26000,4000
+Metapanda,Metapanda P1 Pro,29.99,123.0,65.1,41.0,65,Ergonomic,Wireless,PAW3395,26000,4000
+Metapanda,Metapanda P1,29.99,123.0,65.1,41.0,60,Ergonomic,Wireless,PAW3395,26000,1000
+LAMZU,LAMZU MAYA 4K,29.99,119.0,62.0,38.0,45,Symmetrical,Wireless,PAW3395,26000,4000
+AJAZZ,AJAZZ AJ199 Pro 4K,29.99,119.8,63.4,39.7,59,Ergonomic,Wireless,PAW3395,26000,4000
+Darmoshark,Darmoshark M3 XS,29.99,116.0,60.4,36.0,44,Symmetrical,Wireless,PAW3395,26000,4000
+Darmoshark,Darmoshark N5,29.99,123.0,68.0,40.0,54,Ergonomic,Wireless,PAW3395,26000,4000
+Darmoshark,Darmoshark M2,29.99,115.8,60.4,36.1,37,Symmetrical,Wireless,PAW3395,26000,4000
+Corsair,Corsair Harpoon RGB Wireless,29.99,115.3,68.3,40.4,99,Ergonomic,Wireless,PMW3325,1000,1000
+Corsair,Corsair Harpoon RGB Pro,29.99,115.3,68.3,40.4,85,Ergonomic,Wired,PMW3327,12000,1000
+Corsair,Corsair Harpoon RGB,29.99,115.3,68.3,40.4,85,Ergonomic,Wired,PMW3320,6000,1000
+Dareu,Dareu A980 Pro Max,29.99,129.0,72.0,40.0,73,Ergonomic,Wireless,PAW3395,26000,8000
+Dareu,Dareu A980 Pro,N/A,129.0,72.0,40.0,62,Ergonomic,Wireless,PAW3395,26000,8000
+Dareu,Dareu A980,N/A,129.0,72.0,40.0,93,Ergonomic,Wired,PAW3395,26000,8000
+Attack,Attack Shark R1,N/A,123.5,64.0,41.0,59,Ergonomic,Wireless,PAW3311,18000,1000
+Zaopin,Zaopin Z2,N/A,123.0,64.3,39.5,65,Ergonomic,Wireless,PAW3395,26000,4000
+Corsair,Corsair M75 Air Wireless,N/A,128.0,65.0,41.6,60,Symmetrical,Wireless,MARKSMAN 26K,26000,1000
+Corsair,Corsair M75 Wireless,N/A,128.0,65.0,41.6,89,Symmetrical,Wireless,MARKSMAN 26K,26000,1000
+Corsair,Corsair M75,N/A,128.0,65.0,41.6,74,Symmetrical,Wired,MARKSMAN 26K,26000,8000
+RAKK,RAKK Kaptan Trimode,N/A,118.1,63.5,38.6,53,Ergonomic,Wireless,PAW3395,26000,1000
+NZXT,NZXT Lift 2 Ergo,N/A,128.4,65.1,41.4,61,Ergonomic,Wired,PAW3395,26000,8000
+NZXT,NZXT Lift 2 Symm,79.99,126.8,67.1,38.3,58,Symmetrical,Wired,PAW3395,26000,8000
+NZXT,NZXT Lift 2 Starfield,79.99,126.8,67.1,38.3,58,Symmetrical,Wired,PAW3395,26000,8000
+NZXT,NZXT Lift,79.99,126.8,67.1,38.3,67,Symmetrical,Wired,PMW3389,16000,1000
+Pulsar,Pulsar X2A eS,79.99,120.0,63.0,38.0,69,Symmetrical,Wireless,PAW3395,26000,8000
+ROCCAT,ROCCAT Kone XP Air,79.99,126.0,76.0,40.0,99,Ergonomic,Wireless,Owl-Eye II,19000,1000
+LAMZU,LAMZU Tachi,79.99,120.0,63.0,38.0,47,Symmetrical,Wireless,PAW3395,26000,8000
+Incott,Incott GHERO Pro,79.99,118.6,66.0,38.6,64,Hybrid,Wireless,PAW3395,32000,8000
+Incott,Incott GHERO,79.99,118.6,66.0,38.6,60,Hybrid,Wireless,PAW3395,32000,8000
+Rawm,Rawm SA-MH01,79.99,127.2,66.0,40.1,65,Symmetrical,Wireless,PAW3395,26000,1000
+Attack,Attack Shark X3 Pro,79.99,118.5,61.0,39.7,59,Symmetrical,Wireless,PAW3395,26000,8000
+VAXEE,VAXEE ZYGEN NP-01 Wireless 4K,79.99,120.0,66.0,39.0,73,Hybrid,Wireless,PAW3395,3200,4000
+VAXEE,VAXEE ZYGEN NP-01S Wireless 4K,79.99,120.0,63.0,37.0,68,Hybrid,Wireless,PAW3395,3200,4000
+VAXEE,VAXEE XE Wireless 4K,79.99,124.0,66.0,38.7,76,Symmetrical,Wireless,PAW3395,3200,4000
+VAXEE,VAXEE OUTSET AX Wireless 4K,N/A,117.4,66.0,43.0,73,Ergonomic,Wireless,PAW3395,3200,4000
+Ninjutso,Ninjutso Sora V2,N/A,119.2,59.8,37.7,39,Symmetrical,Wireless,PAW3395,26000,8000
+Kysona,Kysona Aztec,N/A,118.3,61.8,39.6,55,Symmetrical,Wireless,PAW3395,26000,1000
+Redragon,Redragon M916 Pro 4K,N/A,120.8,64.3,37.9,49,Symmetrical,Wireless,PAW3395,26000,4000
+Redragon,Redragon M916 Pro,N/A,120.8,64.3,37.9,49,Symmetrical,Wireless,PAW3395,26000,1000
+AJAZZ,AJAZZ AJ199 4K,N/A,118.0,61.6,38.6,65,Symmetrical,Wireless,PAW3395,26000,4000
+Delux,Delux M800 Pro 3395,N/A,124.0,64.0,38.0,68,Symmetrical,Wireless,PAW3395,26000,1000
+Rapoo,Rapoo VT3S,N/A,128.3,66.2,39.0,84,Symmetrical,Wireless,PAW3395,26000,1000
+Rapoo,Rapoo VT900S,99.99,130.1,74.8,41.0,135,Ergonomic,Wired,PMW3389,16000,1000
+ThundeRobot,ThundeRobot ML901,99.99,124.1,63.7,39.7,76,Symmetrical,Wireless,PAW3395,26000,1000
+ThundeRobot,ThundeRobot ML602,99.99,126.6,63.8,39.8,64,Symmetrical,Wireless,PAW3395,26000,1000
+Irocks,Irocks M31R,99.99,123.0,66.5,40.0,66,Ergonomic,Wireless,PAW3395,26000,1000
+Rapoo,Rapoo VT9 Air,99.99,120.1,65.8,37.5,59,Symmetrical,Wireless,PAW3395,26000,8000
+AJAZZ,AJAZZ AJ139 Pro 4K,99.99,125.0,63.3,38.0,65,Symmetrical,Wireless,PAW3395,26000,4000
+Monka,Monka G995W,99.99,123.0,61.0,39.0,58,Symmetrical,Wireless,PAW3395,26000,1000
+Edifier,Edifier Hecate G3M Pro,99.99,118.7,61.0,38.6,63,Symmetrical,Wireless,PAW3395,26000,1000
+Endgame,Endgame Gear OP1 8K,99.99,118.2,60.5,37.2,51,Symmetrical,Wired,PAW3395,26000,8000
+LAMZU,LAMZU x Fnatic Thorn,99.99,119.0,65.0,42.0,52,Ergonomic,Wireless,PAW3395,26000,4000
+LAMZU,LAMZU Thorn 4K,99.99,119.0,65.0,42.0,52,Ergonomic,Wireless,PAW3395,26000,4000
+G-Wolves,G-Wolves HTS Ace Wireless,99.99,113.0,61.0,40.0,56,Symmetrical,Wireless,PAW3370,16000,1000
+G-Wolves,G-Wolves HTM Ace,99.99,124.0,64.0,40.0,53,Symmetrical,Wired,PMW3389,16000,1000
+G-Wolves,G-Wolves HSK Plus 4K,99.99,89.0,58.5,36.0,38,Symmetrical,Wireless,PAW3395,26000,4000
+G-Wolves,G-Wolves HSK Plus Lite,99.99,89.0,58.5,36.0,38,Symmetrical,Wireless,PMW3399,20000,1000
+Fantech,Fantech Helios XD3V2,99.99,120.0,64.0,38.0,83,Symmetrical,Wireless,PAW3370,19000,1000
+Rapoo,Rapoo VT9PRO Air Lite,N/A,120.1,65.8,37.5,49,Symmetrical,Wireless,PAW3398,26000,4000
+Rapoo,Rapoo VT9PRO Mini,N/A,120.1,65.8,37.5,65,Symmetrical,Wireless,PAW3398,26000,4000
+Rapoo,Rapoo VT9PRO,N/A,124.8,67.1,38.7,68,Symmetrical,Wireless,PAW3398,26000,4000
+GITOPER,GITOPER G1,N/A,117.0,67.0,41.5,58,Ergonomic,Wireless,PAW3395,26000,1000
+Attack,Attack Shark X6,N/A,118.3,62.0,37.3,49,Symmetrical,Wireless,PAW3395,26000,1000
+Valkyrie,Valkyrie M1,N/A,119.5,62.0,40.0,58,Symmetrical,Wireless,PAW3395,26000,4000
+Metaphyuni,Metaphyuni Metapanda01,N/A,123.0,65.1,41.0,60,Ergonomic,Wireless,PAW3395,26000,1000
+GITOPER,GITOPER G3,N/A,120.7,64.7,40.5,69,Ergonomic,Wireless,PAW3395,26000,1000
+Zowie,Zowie U2,N/A,124.0,65.0,38.0,60,Symmetrical,Wireless,PAW3395,3200,1000
+ASUS,ASUS ROG Strix Impact III Wireless,39.99,120.0,62.0,39.0,72,Symmetrical,Wireless,ROG AimPoint,36000,1000
+Cherry,Cherry Xtrfy M50 Wireless,39.99,122.0,63.0,39.0,85,Symmetrical,Wireless,PAW3311,12000,1000
+Cherry,Cherry Xtrfy M50,39.99,122.0,63.0,39.0,69,Symmetrical,Wired,PAW3311,12000,1000
+Cherry,Cherry Xtrfy M68 Pro 8K Wireless,39.99,123.3,61.0,39.5,55,Symmetrical,Wireless,PAW3395,26000,8000
+Cherry,Cherry Xtrfy M68 Wireless,39.99,123.3,61.0,39.5,53,Symmetrical,Wireless,PAW3395,26000,1000
+Cherry,Cherry Xtrfy M64 Pro 8K Wireless,39.99,123.3,65.0,39.5,55,Ergonomic,Wireless,PAW3395,26000,8000
+Cherry,Cherry Xtrfy M64 Wireless,39.99,123.3,65.0,39.5,53,Ergonomic,Wireless,PAW3395,26000,1000
+Delux,Delux M600 Pro,39.99,118.0,62.5,38.2,52,Symmetrical,Wireless,PAW3395,26000,4000
+Delux,Delux M600,39.99,118.0,62.5,38.2,49,Symmetrical,Wireless,PAW3311,12000,1000
+HyperX,HyperX Pulsefire Haste 2 Mini,39.99,116.6,61.9,36.7,59,Symmetrical,Wireless,HyperX 26K,26000,1000
+IXILAB,IXILAB X1 Pro Max,39.99,120.0,59.5,39.0,60,Symmetrical,Wireless,PAW3395,26000,4000
+IXILAB,IXILAB X1 Pro,39.99,120.0,59.5,39.0,53,Symmetrical,Wireless,PAW3395,26000,4000
+IXILAB,IXILAB X1,39.99,120.0,59.5,39.0,53,Symmetrical,Wireless,PAW3395,26000,1000
+MCHOSE,MCHOSE AX5 Pro Max,39.99,121.6,61.5,37.7,53,Symmetrical,Wireless,PAW3395,26000,8000
+MCHOSE,MCHOSE AX5 Pro,39.99,121.6,61.5,37.7,53,Symmetrical,Wireless,PAW3395,26000,4000
+MCHOSE,MCHOSE AX5,39.99,121.6,61.5,37.7,49,Symmetrical,Wireless,PAW3395,26000,4000
+Ardor,Ardor Gaming Immortality Pro Wireless,N/A,120.0,63.0,39.0,72,Symmetrical,Wireless,PAW3370,19000,1000
+Ardor,Ardor Gaming Immortality,N/A,120.0,63.0,39.0,56,Symmetrical,Wired,PAW3327,12400,1000
+Ardor,Ardor Gaming Ulta (big back),N/A,120.0,65.0,38.3,69,Symmetrical,Wireless,PAW3395,26000,1000
+Ardor,Ardor Gaming Ulta (mid back),N/A,120.0,65.0,38.3,69,Symmetrical,Wireless,PAW3395,26000,1000
+Ardor,Ardor Gaming Ulta (small back),N/A,120.0,65.0,38.3,69,Symmetrical,Wireless,PAW3395,26000,1000
+Ardor,Ardor Gaming Prime X,N/A,120.0,64.0,39.0,75,Symmetrical,Wireless,PAW3335,16000,1000
+Ardor,Ardor Gaming Prime Wireless,N/A,120.0,64.0,39.0,72,Symmetrical,Wireless,PMW3325,10000,1000
+Ardor,Ardor Gaming Prime,N/A,120.0,64.0,39.0,80,Symmetrical,Wired,PAW3327,12400,1000
+FineMax,FineMax Noah,N/A,122.0,66.0,38.0,48,Symmetrical,Wireless,PAW3395,26000,1000
+Delux,Delux M600 Ultra,N/A,118.0,62.5,38.2,52,Symmetrical,Wireless,PAW3395,26000,4000
+GravaStar,GravaStar Mercury M2,N/A,124.0,65.5,39.5,79,Symmetrical,Wireless,PAW3395,26000,1000
+GravaStar,GravaStar Mercury M1 Pro,N/A,124.0,65.5,39.5,88,Symmetrical,Wireless,PAW3395,26000,4000
+Darmoshark,Darmoshark M5,N/A,91.8,57.1,35.8,37,Symmetrical,Wireless,PAW3395,26000,4000
+Vancer,Vancer Thrash,N/A,123.3,62.3,39.8,49,Symmetrical,Wireless,PAW3395,26000,4000
+Redragon,Redragon G49 Pro,N/A,120.8,64.3,37.9,49,Symmetrical,Wireless,PAW3395,26000,4000
+Vancer,Vancer Groove,N/A,125.0,64.5,38.2,47,Symmetrical,Wireless,PAW3395,26000,4000
+Razer,Razer Pro Click Mini,59.99,100.2,62.7,34.2,88,Symmetrical,Wireless,Razer 5G,12000,1000
+Zowie,Zowie AM,59.99,125.0,64.0,38.0,88,Symmetrical,Wired,Avago ADNS-3090,2300,1000
+WLmouse,WLmouse Beast X Mini,59.99,116.0,58.0,35.0,34,Symmetrical,Wireless,PAW3395,26000,8000
+ROCCAT,ROCCAT Pure SEL,59.99,121.1,69.3,38.3,49,Ergonomic,Wired,PAW3318,8000,1000
+ROCCAT,ROCCAT Pure Air,59.99,121.1,69.3,38.3,54,Ergonomic,Wireless,PAW3395,26000,1000
+Waizowl,Waizowl OGM Cloud,59.99,126.0,68.0,38.0,55,Symmetrical,Wireless,PAW3395,26000,4000
+Pulsar,Pulsar X2H eS,59.99,120.4,65.0,39.1,62,Symmetrical,Wireless,PAW3395,26000,8000
+Darmoshark,Darmoshark M3 Micro,N/A,105.5,54.6,33.5,42,Symmetrical,Wireless,PAW3395,26000,4000
+Darmoshark,Darmoshark M3S Pro,N/A,122.7,62.5,37.8,54,Symmetrical,Wireless,PAW3395,26000,4000
+TenZ,TenZ Secret Mouse,N/A,119.0,63.0,37.0,50,Symmetrical,Wireless,PAW3395,3200,8000
+Darmoshark,Darmoshark M3 Pro,N/A,129.6,66.1,39.2,55,Symmetrical,Wireless,PAW3395,26000,4000
+Keychron,Keychron M4,N/A,86.0,54.0,32.0,35,Symmetrical,Wireless,PAW3395,26000,1000
+Keychron,Keychron M4 4K,N/A,86.0,54.0,32.0,35,Symmetrical,Wireless,PAW3395,26000,4000
+Pulsar,Pulsar Xlite V3 Large,N/A,126.0,69.5,44.5,58,Ergonomic,Wireless,PAW3395,26000,1000
+Pulsar,Pulsar Xlite V3 Mini,42.99,115.6,63.5,40.6,52,Ergonomic,Wireless,PAW3395,26000,1000
+Pulsar,Pulsar Xlite V3 Medium,42.99,122.0,66.0,43.0,55,Ergonomic,Wireless,PAW3395,26000,1000
+Pulsar,Pulsar Xlite V3 eS,42.99,122.0,67.0,43.0,65,Ergonomic,Wireless,PAW3395,26000,8000

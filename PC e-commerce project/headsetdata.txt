@@ -1,0 +1,288 @@
+Genesis,Genesis Argon 400,20.66,Removable,Wired
+Genesis,Genesis Neon 360 Gaming Headset,27.2,Non removable,Wired
+Fury,Fury Wildcat Gaming,10.85,Removable,Wired
+Genesis,Genesis Argon 200 Red,19.57,Non removable,Wired
+Genesis,Genesis Argon 200 Blue,19.57,Non removable,Wired
+Sven,Headset Sven AP-G888MV,28.29,Non removable,Wired
+Sven,Headset Sven AP-U990MV,51.18,Non removable,Wired
+Gembird,Gembird GHS-402 Gaming,10.3,Non removable,Wired
+Genesis,Genesis Neon 350,27.2,Non removable,Wired
+Gembird,Gembird GHS-03 Gaming Black/Red,10.85,Non removable,Wired
+Gembird,Gembird GHS-04 Gaming Black,16.3,Non removable,Wired
+Logitech,Logitech G432 7.1 Surround Sound Gaming headset,87.15,Non removable,Wired
+Genesis,Genesis Radon 610 7.1 Black,38.1,Unknown,Wired
+Logitech,Logitech G332 Symmetra Gaming Black/Red,65.35,Non removable,Wired
+Genesis,Genesis Radon 720 Virtual 7.1 Surround Gaming Black,41.37,Built-in,Wired
+Genesis,Genesis Argon 110 Black,13.03,Non removable,Wired
+Genesis,Genesis Argon 100 Green,13.03,Non removable,Wired
+Razer,Razer Kraken X Black,76.25,Non removable,Wired
+HyperX,HyperX Cloud Stinger PS4 Black,50.09,Non removable,Wired
+Trust,Trust GXT450 BLIZZ RGB Black,43.55,Retractable,Wired
+Trust,Headphones Trust GXT 430 Iron Black,32.65,Non removable,Wired
+Trust,Headphones Trust GXT 414 ZAMAK Black,49.0,Removable,Wired
+Trust,Headphones Trust GXT 4371 WARD Black,29.38,Built-in,Wired
+Trust,Headphones Trust GXT 433K PYLO Grey,40.28,Non removable,Wired
+Trust,Headphones Trust GXT 323C Carus Green,32.65,Non removable,Wired
+Trust,Headphones Trust GXT 323K CARUS Black,29.38,Non removable,Wired
+Trust,Trust GXT 411C Radius Green,23.93,Built-in,Wired
+Trust,Trust GXT 411K Radius Gray,23.93,Built-in,Wired
+Trust,Trust GXT 411P RADIUS Pink,19.57,Non removable,Wired
+Trust,Headphones Trust GXT 1323 Altus Black,29.38,Non removable,Wired
+Trust,Peripheral set GXT 785 RAVIUS Black,28.29,Rotating,Wired
+Trust,Headphones Trust GXT 391 THIAN Black,51.18,Non removable,Wireless
+Trust,Headphones Trust GXT 498 FORTA Black,38.1,Removable,Wired
+Trust,Headphones Trust GXT 498 FORTA White,38.1,Removable,Wired
+Trust,Peripheral set Trust 2-IN-1 GAMING SET WITH HEADSET & MOUSE,27.2,Rotating,Wired
+Trust,Headphones Trust Gaming Headset Black,16.3,Rotating,Wired
+Trust,Headphones Trust GXT 489 FAYZO Black,25.02,Non removable,Wired
+Trust,Headphones Trust GXT 490 Fayzo Black,32.65,Removable,Wired
+Trust,Headphones Trust GXT 415 ZIROX Black,21.75,Rotating,Wired
+Trust,Headphones Trust GXT415B Zerox Blue,21.75,Rotating,Wired
+Trust,Headphones Trust GXT 415P Zirox Pink,21.75,Rotating,Wired
+Trust,Headphones Trust GXT 415PS Zirox for PS5,21.75,Rotating,Wired
+Trust,Headphones Trust GXT 415X ZIROX Black,21.75,Rotating,Wired
+Trust,Peripheral set Trust GXT 790 3-IN-1,32.65,Non removable,Wired
+Trust,Headphones Trust GXT 415W Zerox White,21.75,Rotating,Wired
+Trust,Peripheral set Trust GXT 790 3-IN-1 Pink,32.65,Non removable,Wired
+HyperX,HyperX Cloud Stinger S Black HHSS1S-AA-BK/ G,76.25,Rotating,Wired
+HyperX,HyperX Cloud Alpha Wireless Black / Red,250.65,Removable,Wireless
+HyperX,HyperX Cloud Flight PS5,130.75,Removable,Wireless
+HyperX,Headphones HyperX Cloud PS5 Black / Blue,65.35,Removable,Wired
+HyperX,Headphones HyperX CloudX Stinger Core Xbox Black-Green,108.95,Rotating,Wireless
+HyperX,HyperX Stinger Core PS5 White HHSS1C-KB-WT/ G,92.6,Rotating,Wireless
+HyperX,HyperX Stinger Core PS5 Black HX-HSCSC-BK,43.55,Rotating,Wired
+HyperX,HyperX Cloud Stinger PS5 Black HX-HSCSS-BK/ EM,54.45,Rotating,Wired
+HyperX,HyperX CloudX Stinger Xbox Black HX-HSCSX-BK/ WW,54.45,Rotating,Wired
+HyperX,HyperX Cloud II Wireless Black / Red,185.19,Removable,Wireless
+HyperX,HyperX Cloud Revolver 7.1,174.35,Removable,Wired
+HyperX,HyperX Cloud MIX Wireless Black,217.95,Removable,Wireless
+HyperX,HyperX Cloud Alpha Red HX-HSCA-RD/ EM,108.95,Removable,Wired
+HyperX,HyperX Cloud Alpha S Black HX-HSCAS-BK/ WW,141.65,Removable,Wired
+HyperX,HyperX Cloud Alpha S Blue,130.75,Removable,Wired
+HyperX,Headphones HyperX Cloud Flight Black,108.95,Removable,Wireless
+HyperX,HyperX Cloud II Gunmetal KHX-HSCP-GM,108.95,Removable,Wired
+HyperX,HyperX Cloud II Red KHX-HSCP-RD,108.95,Removable,Wired
+HyperX,Headphones HyperX Cloud Stinger 2 Black,76.25,Non removable,Wired
+SteelSeries,SteelSeries Arctis Pro Black,207.05,Built-in,Wired
+HyperX,Headphones HyperX Cloud Stinger2 Black,130.75,Non removable,Wireless
+HyperX,Headphones HyperX Cloud Stinger2 Core Black,54.45,Non removable,Wired
+HyperX,Headphones HyperX Cloud III Black,119.85,Removable,Wired
+HyperX,Headphones HyperX Cloud III Black / Red,119.85,Removable,Wired
+HyperX,Headphones HyperX CloudX Stinger 2 for Xbox White,76.25,Rotating,Wired
+HyperX,Headphones HyperX CloudX Stinger 2 for PlayStation White,76.25,Rotating,Wired
+HyperX,Headphones HyperX Cloud III Wireless Black,185.25,Removable,Wireless
+HyperX,Headphones HyperX Cloud III Wireless Black / Red,185.25,Removable,Wireless
+Logitech,Logitech G733 Lightspeed Black,174.35,Non removable,Wireless
+Logitech,Logitech PRO X Lightspeed Black,250.65,Non removable,Wireless
+Logitech,Logitech G335 Black,81.7,Rotating,Wired
+Logitech,Logitech G435 Lightspeed Gaming Black,92.6,Built-in,Wireless
+Logitech,Logitech G435 Lightspeed Gaming White,92.6,Built-in,Wireless
+Logitech,Headphones Logitech G PRO X 2 Lightspeed Black,294.25,Removable,Wireless
+Logitech,Headphones Logitech G PRO X 2 Lightspeed White,293.16,Removable,Wireless
+Logitech,Headphones Logitech PRO X2 LIGHTSPEED Pink,294.25,Removable,Wireless
+Sven,Headset Sven AP-G857MV,14.66,Rotating,Wired
+Gembird,Gembird Gaming GHS-05-B Black,10.85,Non removable,Wired
+Gembird,Gembird GHS-05-O,10.85,Non removable,Wired
+Gembird,Gembird GHS-05-R,10.85,Non removable,Wired
+Gembird,Gembird Gaming Headset with LED Light Effect Black,17.39,Rotating,Wired
+Gembird,Gembird USB 7.1 Surround Gaming Headset with RGB Backlight,32.65,Non removable,Wired
+JBL,Headphones JBL Quantum 100P White / Blue,43.55,Non removable,Wired
+JBL,Headphones JBL Quantum 100 Black / Green,43.55,Non removable,Wired
+JBL,Headphones JBL Quantum 350 Black,98.05,Removable,Wireless
+JBL,JBL Quantum 100 Black,43.55,Removable,Wired
+JBL,JBL Quantum 100 Blue,43.55,Removable,Wired
+JBL,JBL Quantum 100 White,43.55,Removable,Wired
+JBL,JBL Quantum 200 Black,65.35,Built-in,Wired
+JBL,JBL Quantum 400 Black,108.95,Built-in,Wired
+Fury,Fury Warhawk RGB Black,15.21,Removable,Wired
+Fury,Fury Phantom Black,20.66,Built-in,Wired
+Genesis,Genesis Oxygen 400 Black,18.48,Removable,Wired
+Genesis,Genesis RADON 300 Gaming Black,27.2,Non removable,Wired
+Genesis,Genesis Neon 200 RGB Gaming Black,25.02,Removable,Wired
+Genesis,Genesis Neon 600 RGB,38.1,Non removable,Wired
+Genesis,Genesis Oxygen 200 Red,14.12,Removable,Wired
+Genesis,Genesis Argon 600 Black,38.1,Retractable,Wired
+Genesis,Genesis Selen 400 Black,83.88,Built-in,Wireless
+Genesis,Headphones Genesis Radon 800,47.91,Removable,Wired
+Genesis,Genesis Neon 750 Black,49.0,Removable,Wired
+Genesis,Genesis Neon 600 RGB White,49.0,Built-in,Wired
+Genesis,Genesis Neon 750 RGB Grey-White,49.0,Removable,Wired
+Genesis,Headphones Genesis Radon 210 Black,29.38,Rotating,Wired
+Genesis,Headphones Genesis Neon 613 RGB Black,32.65,Non removable,Wired
+Genesis,Headphones Genesis Neon 613 RGB White,32.65,Non removable,Wired
+Genesis,Headphones Genesis Toron 531 Black,54.45,Non removable,Wired
+Razer,Razer Kraken Blue,87.15,Retractable,Wired
+Razer,Razer Kraken X for PlayStation White,65.35,Built-in,Wired
+Razer,Razer BlackShark V2 X Black,59.9,Non removable,Wired
+Razer,Razer BlackShark V2 X Green,87.15,Built-in,Wired
+Razer,Razer BlackShark V2 X White,80.61,Non removable,Wired
+Razer,Razer Kraken V3 X Black,98.05,Built-in,Wired
+Razer,Headphones Razer Gaming Kraken V3 X Black,95.87,Non removable,Wired
+Razer,Headphones Razer Esports BlackShark V2 X Black,87.15,Non removable,Wired
+Corsair,Headphones Corsair HS55 Surround White,96.96,Non removable,Wired
+MSI,MSI Immerse GH50 Black,113.31,Removable,Wired
+Lenovo,Lenovo Legion H500 Pro,105.68,Retractable,Wired
+Energy Sistem,Headphones Energy Sistem ESG 4 Surround 7.1 Red,40.28,Rotating,Wired
+Energy Sistem,Energy Sistem ESG 3 Blue Thunder,41.37,Rotating,Wired
+Energy Sistem,Headphones Energy Sistem ESG 2 Sonic Blue,35.92,Non removable,Wireless
+Dell,Headphones Dell Alienware AW920 Lunar Light,212.5,Removable,Wireless
+SteelSeries,Headphones SteelSeries Arctis 7+ Wireless White,166.72,Retractable,Wireless
+SteelSeries,SteelSeries Arctis 1 Black,114.4,Retractable,Wired
+SteelSeries,Headphones SteelSeries Arctis Nova Pro Wireless Black,352.02,Retractable,Wireless
+SteelSeries,Headset SteelSeries Arctis Nova Pro Black,233.21,Retractable,Wired
+SteelSeries,Headset SteelSeries Arctis Nova 7X Black,177.62,Non removable,Wireless
+SteelSeries,Headphones Steelseries Arctis Nova 3 Black,104.59,Non removable,Wired
+Corsair,Corsair Virtuoso RGB Black,328.04,Non removable,Wireless
+Corsair,Corsair Void RGB Elite Wireless Black,160.18,Built-in,Wireless
+Corsair,Corsair Void RGB Elite Wireless White,160.18,Built-in,Wireless
+Corsair,Corsair HS80 RGB White,176.53,Non removable,Wireless
+Corsair,Headphones Corsair HS80 Max Steel Gray,221.22,Non removable,Wired
+Corsair,Headphones Corsair HS80 Max Wireless White,219.04,Non removable,Wireless
+Corsair,Headphones Corsair Virtuoso PRO Carbon,228.85,Non removable,Wired
+Corsair,Headphones Corsair Virtuoso Pro White,228.85,Non removable,Wired
+MSI,Headphones MSI Immerse GH50 Wireless Black,131.84,Built-in,Wireless
+Muse,Muse M-230 GH Blue/Black,35.92,Built-in,Wired
+Razer,Razer Kraken V3 Pro Black,231.03,Non removable,Wireless
+Razer,Razer Kaira Pro Black,163.45,Non removable,Wireless
+Razer,Razer Kraken V3 HyperSense Black,153.64,Non removable,Wired
+Razer,Razer Barracuda Pro Gaming,288.8,Built-in,Wireless
+Razer,Razer Kaira X Black,82.79,Non removable,Wired
+Razer,Razer Kaira X for Xbox - Electric Volt,82.79,Non removable,Wired
+Skullcandy,Headphones Skullcandy Slyr PRO Black,130.75,Removable,Wired
+Logitech,Logitech G935 Black,215.77,Non removable,Wireless
+Logitech,Logitech G733 White,173.26,Non removable,Wireless
+Sony,Sony PlayStation 5 Pulse 3D White,107.86,Built-in,Wireless
+Cougar,Headphones Cougar HX330 Orange,34.83,Rotating,Wired
+Cougar,Cougar VM410 Black,65.35,Non removable,Wired
+Canyon,Canyon Star Raider GH-1A CND-SGHS1A,21.75,Built-in,Wired
+Canyon,Canyon Fobos GH-3A CND-SGHS3A,22.84,Built-in,Wired
+Canyon,Headphones Canyon Shadder GH-6,28.29,Non removable,Wired
+Canyon,Headphones Canyon Darkless GH-9A RGB,35.92,Non removable,Wired
+Lorgar,Headphones Lorgar Noah 701 Black,88.24,Non removable,Wireless
+Genesis,Headphones Genesis Toron 301 Black,46.82,Non removable,Wired
+Genesis,Headphones Genesis Toron 301 White,46.82,Non removable,Wired
+Logitech,Logitech G533 981-000634,93.69,Non removable,Wireless
+Razer,Razer Kraken Kitty Gaming Black,137.29,Non removable,Wired
+Dell,Headphones Dell Alienware AW920 Dark Side of the Moon,165.63,Removable,Wireless
+Alienware,Headphones Alienware AW720H Black,156.91,Retractable,Wireless
+Alienware,Headphones Alienware AW720H White,178.71,Retractable,Wireless
+SteelSeries,Headphones Steelseries Arctis Nova 1 Black,76.25,Non removable,Wired
+SteelSeries,Headphones SteelSeries Arctis Nova 1 White,76.25,Non removable,Wired
+Logitech,Logitech G733 Lightspeed Lilac,150.37,Non removable,Wireless
+Logitech,Logitech G733 Lightspeed Blue,150.37,Non removable,Wireless
+Corsair,Corsair HS35 Carbon Black,69.71,Non removable,Wired
+Corsair,Corsair HS80 RGB Wireless Carbon,180.89,Non removable,Wireless
+Razer,Razer Kraken X Lite Gaming Black,46.82,Non removable,Wired
+Razer,Razer Blackshark V2 Black,152.55,Non removable,Wired
+Razer,Razer Kraken V3 Black,119.85,Removable,Wired
+Razer,Razer Kaira X for Xbox White,70.8,Built-in,Wired
+Razer,Headphones Razer Barracuda X 2022 Black,116.58,Non removable,Wireless
+Fury,Fury Hellcat Backlit,17.39,Non removable,Wired
+JVC,JVC HA-FX7G-A-E Blue,10.85,Built-in,Wired
+JVC,JVC HA-FX7M-B-E Black,14.12,Built-in,Wired
+HyperX,Headphones HyperX Cloud PS5 Black/ Blue,57.72,Non removable,Wired
+HyperX,Headphones HyperX Cloud II Core Wireless,127.48,Built-in,Wireless
+BlitzWolf,BlitzWolf AA-GB1 Black,27.2,Non removable,Wired
+Edifier,Edifier G4 TE Black,60.99,Removable,Wired
+Mars Gaming,Mars Gaming MH220 Black,30.47,Built-in,Wireless
+Mars Gaming,Mars Gaming MH6 Black,63.17,Removable,Wired
+Mars Gaming,Mars Gaming MHCX 2in1 Combo,13.03,In-line,Wired
+Mars Gaming,Headphones Mars Gaming MHX PRO,35.92,Rotating,Wired
+Mars Gaming,Mars Gaming MRH0 Black,13.03,Built-in,Wired
+Niceboy,Niceboy ORYX X210 Black,15.21,Non removable,Wired
+Fury,Fury Warhawk RGB Black,15.21,Removable,Wired
+Fury,Fury Phantom Black,20.66,Built-in,Wired
+Genesis,Genesis Oxygen 400 Black,18.48,Removable,Wired
+Genesis,Genesis RADON 300 Gaming Black,27.2,Non removable,Wired
+Genesis,Genesis Neon 200 RGB Gaming Black,25.02,Removable,Wired
+Genesis,Genesis Neon 600 RGB,38.1,Non removable,Wired
+Genesis,Genesis Oxygen 200 Red,14.12,Removable,Wired
+Genesis,Genesis Argon 600 Black,38.1,Retractable,Wired
+Genesis,Genesis Selen 400 Black,83.88,Built-in,Wireless
+Genesis,Headphones Genesis Radon 800,47.91,Removable,Wired
+Genesis,Genesis Neon 750 Black,49.0,Removable,Wired
+Genesis,Genesis Neon 600 RGB White,49.0,Built-in,Wired
+Genesis,Genesis Neon 750 RGB Grey-White,49.0,Removable,Wired
+Genesis,Headphones Genesis Radon 210 Black,29.38,Rotating,Wired
+Genesis,Headphones Genesis Neon 613 RGB Black,32.65,Non removable,Wired
+Genesis,Headphones Genesis Neon 613 RGB White,32.65,Non removable,Wired
+Genesis,Headphones Genesis Toron 531 Black,54.45,Non removable,Wired
+Razer,Razer Kraken Blue,87.15,Retractable,Wired
+Razer,Razer Kraken X for PlayStation White,65.35,Built-in,Wired
+Razer,Razer BlackShark V2 X Black,59.9,Non removable,Wired
+Razer,Razer BlackShark V2 X Green,87.15,Built-in,Wired
+Razer,Razer BlackShark V2 X White,80.61,Non removable,Wired
+Razer,Razer Kraken V3 X Black,98.05,Built-in,Wired
+Razer,Headphones Razer Gaming Kraken V3 X Black,95.87,Non removable,Wired
+Razer,Headphones Razer Esports BlackShark V2 X Black,87.15,Non removable,Wired
+Corsair,Headphones Corsair HS55 Surround White,96.96,Non removable,Wired
+MSI,MSI Immerse GH50 Black,113.31,Removable,Wired
+Lenovo,Lenovo Legion H500 Pro,105.68,Retractable,Wired
+Energy Sistem,Headphones Energy Sistem ESG 4 Surround 7.1 Red,40.28,Rotating,Wired
+Energy Sistem,Energy Sistem ESG 3 Blue Thunder,41.37,Rotating,Wired
+Energy Sistem,Headphones Energy Sistem ESG 2 Sonic Blue,35.92,Non removable,Wireless
+Dell,Headphones Dell Alienware AW920 Lunar Light,212.5,Removable,Wireless
+SteelSeries,Headphones SteelSeries Arctis 7+ Wireless White,166.72,Retractable,Wireless
+SteelSeries,SteelSeries Arctis 1 Black,114.4,Retractable,Wired
+SteelSeries,Headphones SteelSeries Arctis Nova Pro Wireless Black,352.02,Retractable,Wireless
+SteelSeries,Headset SteelSeries Arctis Nova Pro Black,233.21,Retractable,Wired
+SteelSeries,Headset SteelSeries Arctis Nova 7X Black,177.62,Non removable,Wireless
+SteelSeries,Headphones Steelseries Arctis Nova 3 Black,104.59,Non removable,Wired
+Corsair,Corsair Virtuoso RGB Black,328.04,Non removable,Wireless
+Corsair,Corsair Void RGB Elite Wireless Black,160.18,Built-in,Wireless
+Corsair,Corsair Void RGB Elite Wireless White,160.18,Built-in,Wireless
+Corsair,Corsair HS80 RGB White,176.53,Non removable,Wireless
+Corsair,Headphones Corsair HS80 Max Steel Gray,221.22,Non removable,Wired
+Corsair,Headphones Corsair HS80 Max Wireless White,219.04,Non removable,Wireless
+Corsair,Headphones Corsair Virtuoso PRO Carbon,228.85,Non removable,Wired
+Corsair,Headphones Corsair Virtuoso Pro White,228.85,Non removable,Wired
+MSI,Headphones MSI Immerse GH50 Wireless Black,131.84,Built-in,Wireless
+Muse,Muse M-230 GH Blue/Black,35.92,Built-in,Wired
+Razer,Razer Kraken V3 Pro Black,231.03,Non removable,Wireless
+Razer,Razer Kaira Pro Black,163.45,Non removable,Wireless
+Razer,Razer Kraken V3 HyperSense Black,153.64,Non removable,Wired
+Razer,Razer Barracuda Pro Gaming,288.8,Built-in,Wireless
+Razer,Razer Kaira X Black,82.79,Non removable,Wired
+Razer,Razer Kaira X for Xbox - Electric Volt,82.79,Non removable,Wired
+Skullcandy,Headphones Skullcandy Slyr PRO Black,130.75,Removable,Wired
+Logitech,Logitech G935 Black,215.77,Non removable,Wireless
+Logitech,Logitech G733 White,173.26,Non removable,Wireless
+Sony,Sony PlayStation 5 Pulse 3D White,107.86,Built-in,Wireless
+Cougar,Headphones Cougar HX330 Orange,34.83,Rotating,Wired
+Cougar,Cougar VM410 Black,65.35,Non removable,Wired
+Canyon,Canyon Star Raider GH-1A CND-SGHS1A,21.75,Built-in,Wired
+Canyon,Canyon Fobos GH-3A CND-SGHS3A,22.84,Built-in,Wired
+Canyon,Headphones Canyon Shadder GH-6,28.29,Non removable,Wired
+Canyon,Headphones Canyon Darkless GH-9A RGB,35.92,Non removable,Wired
+Lorgar,Headphones Lorgar Noah 701 Black,88.24,Non removable,Wireless
+Genesis,Headphones Genesis Toron 301 Black,46.82,Non removable,Wired
+Genesis,Headphones Genesis Toron 301 White,46.82,Non removable,Wired
+Logitech,Logitech G533 981-000634,93.69,Non removable,Wireless
+Razer,Razer Kraken Kitty Gaming Black,137.29,Non removable,Wired
+Dell,Headphones Dell Alienware AW920 Dark Side of the Moon,165.63,Removable,Wireless
+Alienware,Headphones Alienware AW720H Black,156.91,Retractable,Wireless
+Alienware,Headphones Alienware AW720H White,178.71,Retractable,Wireless
+SteelSeries,Headphones Steelseries Arctis Nova 1 Black,76.25,Non removable,Wired
+SteelSeries,Headphones SteelSeries Arctis Nova 1 White,76.25,Non removable,Wired
+Logitech,Logitech G733 Lightspeed Lilac,150.37,Non removable,Wireless
+Logitech,Logitech G733 Lightspeed Blue,150.37,Non removable,Wireless
+Corsair,Corsair HS35 Carbon Black,69.71,Non removable,Wired
+Corsair,Corsair HS80 RGB Wireless Carbon,180.89,Non removable,Wireless
+Razer,Razer Kraken X Lite Gaming Black,46.82,Non removable,Wired
+Razer,Razer Blackshark V2 Black,152.55,Non removable,Wired
+Razer,Razer Kraken V3 Black,119.85,Removable,Wired
+Razer,Razer Kaira X for Xbox White,70.8,Built-in,Wired
+Razer,Headphones Razer Barracuda X 2022 Black,116.58,Non removable,Wireless
+Fury,Fury Hellcat Backlit,17.39,Non removable,Wired
+JVC,JVC HA-FX7G-A-E Blue,10.85,Built-in,Wired
+JVC,JVC HA-FX7M-B-E Black,14.12,Built-in,Wired
+HyperX,Headphones HyperX Cloud PS5 Black/ Blue,57.72,Non removable,Wired
+HyperX,Headphones HyperX Cloud II Core Wireless,127.48,Built-in,Wireless
+BlitzWolf,BlitzWolf AA-GB1 Black,27.2,Non removable,Wired
+Edifier,Edifier G4 TE Black,60.99,Removable,Wired
+Mars Gaming,Mars Gaming MH220 Black,30.47,Built-in,Wireless
+Mars Gaming,Mars Gaming MH6 Black,63.17,Removable,Wired
+Mars Gaming,Mars Gaming MHCX 2in1 Combo,13.03,In-line,Wired
+Mars Gaming,Headphones Mars Gaming MHX PRO,35.92,Rotating,Wired
+Mars Gaming,Mars Gaming MRH0 Black,13.03,Built-in,Wired
+Niceboy,Niceboy ORYX X210 Black,15.21,Non removable,Wired

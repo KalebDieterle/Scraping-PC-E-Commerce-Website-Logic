@@ -1,0 +1,1662 @@
+Corsair,Corsair Vengeance LPX Series red DDR4-3200,41.99,16,DDR4-3200,2
+ADATA,ADATA Lancer DDR5-5200,N/A,16,DDR5-5200,1
+ADATA,ADATA Premier DDR5-4800,49.99,16,DDR5-4800,1
+ADATA,ADATA XPG Spectrix D80 red,N/A,32,DDR4-3200,2
+ADATA,ADATA XPG Spectrix D80 black,N/A,16,DDR4-3200,2
+ADATA,ADATA XPG Spectrix RGB D41 grey,N/A,16,DDR4-3200,2
+ADATA,ADATA XPG Spectrix RGB D41 grey,N/A,32,DDR4-3200,2
+ADATA,ADATA XPG Spectrix RGB D41 grey,125.78,16,DDR4-3600,2
+ADATA,ADATA XPG Spectrix RGB D41 red,N/A,16,DDR4-3600,2
+ADATA,ADATA XPG Spectrix RGB D41 red,170.58,16,DDR4-3200,2
+ADATA,ADATA XPG Spectrix RGB D60G grey,N/A,16,DDR4-3200,2
+ADATA,ADATA XPG Spectrix RGB D60G grey,139.18,16,DDR4-3600,2
+Avexir,Avexir Blitz Series, weiße LED, DDR4-3600, CL17 - 16 GB Kit,N/A,16,DDR4-3600,2
+Avexir,Avexir Core Series, blaue LED, DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2400,2
+Avexir,Avexir Core Series, blaue LED, DDR4-2400, CL16 - 8 GB,N/A,8,DDR4-2400,1
+Avexir,Avexir Core Series, blaue LED, DDR4-2400, CL16 - 8 GB Kit,N/A,8,DDR4-2400,2
+Avexir,Avexir Core Series, grüne LED, DDR4-2400, CL16 - 8 GB,N/A,8,DDR4-2400,1
+Avexir,Avexir Core Series, rote LED, DDR4-2400, CL16 - 32 GB Kit,N/A,32,DDR4-2400,4
+Avexir,Avexir Core Series, rote LED, DDR4-2400, CL16 - 8 GB,N/A,8,DDR4-2400,1
+Avexir,Avexir Core Series, rote LED, DDR4-2400, CL16 - 8 GB Kit,N/A,8,DDR4-2400,2
+Avexir,Avexir Core Series, weiße LED, DDR4-2400, CL16 - 8 GB,N/A,8,DDR4-2400,1
+Avexir,Avexir Core Series, weiße LED, DDR4-2400, CL16 - 8 GB Kit,N/A,8,DDR4-2400,2
+Ballistix,Ballistix Sport DDR3-1600 CL9,N/A,8,DDR3-1600,1
+Ballistix,Ballistix Sport DDR3-1600 CL9,N/A,16,DDR3-1600,2
+Ballistix,Ballistix Sport DDR4-2400 CL16,N/A,8,DDR4-2400,1
+Ballistix,Ballistix Sport DDR4-2400 CL16,N/A,4,DDR4-2400,1
+Ballistix,Ballistix Sport LT DDR4-2400 red CL16,N/A,32,DDR4-2400,1
+Ballistix,Ballistix Tactical LP DDR3-1600 CL8 Low Profile,N/A,4,DDR3-1600,1
+Corsair,Corsair Dominator Platinum + AF,179.99,16,DDR4-3600,2
+Corsair,Corsair Dominator Platinum DDR4-2666 CL15,154.99,32,DDR4-2666,1
+Corsair,Corsair Dominator Platinum RGB Series,79.99,16,DDR4-3200,2
+Corsair,Corsair Dominator Platinum RGB Series,80.74,16,DDR4-3200,2
+Corsair,Corsair Dominator Platinum RGB Series,89.99,16,DDR4-3600,2
+Corsair,Corsair Dominator Platinum RGB Series,114.99,32,DDR4-3200,2
+Corsair,Corsair Dominator Platinum RGB Series,159.99,32,DDR4-3200,2
+Corsair,Corsair Dominator Platinum Series 16GB,271.99,16,DDR4-3466,2
+Corsair,Corsair Dominator Platinum Series 16GB,299.95,16,DDR4-3200,2
+Corsair,Corsair Dominator Platinum Series 32GB,182.99,32,DDR4-3200,2
+Corsair,Corsair Dominator Platinum Series DDR4-3200,109.99,16,DDR4-3200,2
+Corsair,Corsair LED 32GB,374.99,32,DDR4-3200,2
+Corsair,Corsair LPX 16GB,N/A,16,DDR4-2800,2
+Corsair,Corsair LPX 16GB,N/A,16,DDR4-3200,2
+Corsair,Corsair LPX 16GB,49.99,16,DDR4-2666,2
+Corsair,Corsair LPX 16GB,54.99,16,DDR4-3000,2
+Corsair,Corsair LPX 16GB,63.58,16,DDR4-2133,2
+Corsair,Corsair LPX 16GB,79.99,16,DDR4-3000,2
+Corsair,Corsair LPX 16GB,94.99,16,DDR4-2400,2
+Corsair,Corsair LPX 32GB,69.99,32,DDR4-2400,2
+Corsair,Corsair LPX 32GB,129.99,32,DDR4-2400,2
+Corsair,Corsair LPX 32GB,147.46,32,DDR4-3200,2
+Corsair,Corsair LPX 32GB,473.99,32,DDR4-3466,2
+Corsair,Corsair RGB 16GB,169.05,16,DDR4-3200,2
+Corsair,Corsair Value Select DDR3-1600 CL11,68.99,16,DDR3-1600,2
+Corsair,Corsair Value Select DDR4-2133 CL15,34.99,16,DDR4-2133,1
+Corsair,Corsair Value Select DDR4-2133 CL15 black,17.46,4,DDR4-2133,1
+Corsair,Corsair ValueSelect DDR3-1600 CL11,24.99,4,DDR3-1600,1
+Corsair,Corsair Vengeance DDR3-1866 CL10,N/A,32,DDR3-1866,4
+Corsair,Corsair Vengeance LED blue DDR4-3000 CL15,875.99,64,DDR4-3000,1
+Corsair,Corsair Vengeance LED blue DDR4-3200 CL16,161.19,16,DDR4-3200,2
+Corsair,Corsair Vengeance LED red DDR4-2666 CL16,117.10,32,DDR4-2666,1
+Corsair,Corsair Vengeance LED red DDR4-2666 CL16,309.99,32,DDR4-2666,4
+Corsair,Corsair Vengeance LED red DDR4-3000 CL15,698.56,64,DDR4-3000,1
+Corsair,Corsair Vengeance LED red DDR4-3200 CL16,168.26,16,DDR4-3200,2
+Corsair,Corsair Vengeance LED white DDR4-2666 CL16,117.10,32,DDR4-2666,1
+Corsair,Corsair Vengeance LED white DDR4-2666 CL16,237.91,32,DDR4-2666,4
+Corsair,Corsair Vengeance LED white DDR4-2666 CL16,619.99,64,DDR4-2666,1
+Corsair,Corsair Vengeance LED white DDR4-3000 CL15,658.75,64,DDR4-3000,1
+Corsair,Corsair Vengeance LED white DDR4-3200 CL16,216.88,16,DDR4-3200,2
+Corsair,Corsair Vengeance Low DDR3-1600 CL10 Low Profile,79.99,16,DDR3-1600,2
+Corsair,Corsair Vengeance Low DDR3-1600 CL9 Low Profile blue,79.99,8,DDR3-1600,2
+Corsair,Corsair Vengeance Low Profile Black DDR3-1600 CL9,65.22,8,DDR3-1600,2
+Corsair,Corsair Vengeance Low Profile DDR3-1600 CL109,125.45,16,DDR3-1600,2
+Corsair,Corsair Vengeance Low Profile DDR3-1600 CL9,79.99,16,DDR3-1600,2
+Corsair,Corsair Vengeance Low Profile DDR3-1600 CL9,105.74,16,DDR3-1600,4
+Corsair,Corsair Vengeance LPX Black DDR4-2133 CL13,76.99,16,DDR4-2133,4
+Corsair,Corsair Vengeance LPX Black DDR4-2133 CL13,274.99,64,DDR4-2133,8
+Corsair,Corsair Vengeance LPX Black DDR4-2133 CL15,299.99,32,DDR4-2133,4
+Corsair,Corsair Vengeance LPX Black DDR4-2666 CL16,349.99,128,DDR4-2666,1
+Corsair,Corsair Vengeance LPX blue DDR4-3000 CL15,129.99,16,DDR4-3000,4
+Corsair,Corsair Vengeance LPX Blue DDR4-2400 CL14,162.73,32,DDR4-2400,4
+Corsair,Corsair Vengeance LPX DDR4-2400 CL16,179.99,32,DDR4-2400,4
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3600, CL 18 - 16 GB Dual Kit,246.29,16,DDR4-3600,2
+Corsair,Corsair Vengeance LPX red DDR4-2400MHz CL14,24.99,4,DDR4-2400,1
+Corsair,Corsair Vengeance LPX red DDR4-2666 CL16,24.99,8,DDR4-2666,1
+Corsair,Corsair Vengeance LPX red DDR4-3000MHz CL15,92.99,8,DDR4-3000,2
+Corsair,Corsair Vengeance LPX black + AF,109.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance LPX black DDR4-2400 CL16,93.99,16,DDR4-2400,4
+Corsair,Corsair Vengeance LPX black DDR4-2400MHz CL14,19.99,4,DDR4-2400,1
+Corsair,Corsair Vengeance LPX black DDR4-2666MHz CL16,24.99,8,DDR4-2666,1
+Corsair,Corsair Vengeance LPX black DDR4-2800 CL14,N/A,16,DDR4-2800,2
+Corsair,Corsair Vengeance LPX black DDR4-3333 CL16,N/A,16,DDR4-3333,2
+Corsair,Corsair Vengeance LPX Series red DDR4-2666, CL15 - 16 GB Kit,N/A,16,DDR4-2666,4
+Corsair,Corsair Vengeance LPX Series red DDR4-3466, CL16 - 16 GB Kit,N/A,16,DDR4-3466,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2400, CL14 - 32 GB Kit,166.99,32,DDR4-2400,4
+Corsair,Corsair Vengeance LPX Series black DDR4-3000, CL15 - 8 GB Kit,82.75,8,DDR4-3000,2
+Corsair,Corsair Vengeance LPX Series black DDR4-3200,39.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance LPX Series black DDR4-3466, CL16 - 16 GB Kit,243.99,16,DDR4-3466,2
+Corsair,Corsair Vengeance LPX Series white,44.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance LPX Series white, DDR4-3200, CL 16 - 32 GB Dual-Kit,167.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series black,54.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series black,69.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro Series black,79.99,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro Series black,125.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series black,127.99,16,DDR4-3466,2
+Corsair,Corsair Vengeance RGB Pro Series black,181.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series black,216.99,32,DDR4-3466,2
+Corsair,Corsair Vengeance RGB Pro Series white,N/A,32,DDR4-3466,2
+Corsair,Corsair Vengeance RGB Pro Series white,54.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series white,69.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Series black,252.99,16,DDR4-3466,2
+Corsair,Corsair Vengeance RGB Series white,235.23,16,DDR4-3600,2
+Corsair,Corsair Vengeance red DDR3-1866 CL10,N/A,32,DDR3-1866,4
+Crucial,Crucial Ballistix Elite series,79.99,16,DDR4-3600,2
+Crucial,Crucial Ballistix Elite Series DDR4-2666, CL16 - 32 GB Kit,N/A,32,DDR4-2666,4
+Crucial,Crucial Ballistix Elite Series DDR4-2666, CL16 - 8 GB,62.99,8,DDR4-2666,1
+Crucial,Crucial Ballistix Elite Series DDR4-3000, CL15 - 16 GB Kit,N/A,16,DDR4-3000,2
+Crucial,Crucial Ballistix Sport AT series,N/A,16,DDR4-3200,2
+Crucial,Crucial Ballistix Sport AT series,156.99,32,DDR4-3200,2
+Ballistix,Crucial Ballistix Sport DDR3-1600 CL9,N/A,4,DDR3-1600,1
+Ballistix,Crucial Ballistix Sport LT DDR4-2400 CL16,119.48,32,DDR4-2400,1
+Ballistix,Crucial Ballistix Sport LT DDR4-2400 red CL16,263.99,64,DDR4-2400,1
+Ballistix,Crucial Ballistix Sport LT grey DDR4-2666 CL16,N/A,16,DDR4-2666,2
+Ballistix,Crucial Ballistix Sport LT grey DDR4-2666 CL16,18.95,4,DDR4-2666,1
+Ballistix,Crucial Ballistix Sport LT grey DDR4-2666 CL16,31.99,8,DDR4-2666,1
+Ballistix,Crucial Ballistix Sport LT grey DDR4-2666 CL16,63.99,16,DDR4-2666,1
+Ballistix,Crucial Ballistix Sport LT red DDR4-2666 CL16,N/A,16,DDR4-2666,2
+Ballistix,Crucial Ballistix Sport LT red DDR4-2666 CL16,49.95,8,DDR4-2666,1
+Crucial,Crucial Ballistix Sport LT series grey,N/A,32,DDR4-3200,2
+Crucial,Crucial Ballistix Sport LT series grey,75.83,16,DDR4-3200,2
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400, CL16 - 32 GB Kit,221.04,32,DDR4-2400,4
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400, CL16 - 8 GB,N/A,8,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400, CL16 - 8 GB Kit,N/A,8,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT series red,77.99,16,DDR4-3200,2
+Crucial,Crucial Ballistix Sport LT series red,156.99,32,DDR4-3200,2
+Crucial,Crucial Ballistix Sport LT Series red, DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series red, DDR4-2400, CL16 - 8 GB,47.99,8,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series red, DDR4-2400, CL16 - 8 GB Kit,38.72,8,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT series white,77.99,16,DDR4-3200,2
+Crucial,Crucial Ballistix Sport LT series white,156.99,32,DDR4-3200,2
+Crucial,Crucial Ballistix Sport LT Series white DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series white DDR4-2400, CL16 - 32 GB Kit,131.99,32,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series white DDR4-2400, CL16 - 8 GB Kit,N/A,8,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series white, DDR4-2400, CL16 - 8 GB,N/A,8,DDR4-2400,1
+Ballistix,Crucial Ballistix Sport LT white DDR4-2666 CL16,N/A,16,DDR4-2666,2
+Ballistix,Crucial Ballistix Sport LT white DDR4-2666 CL16,18.99,4,DDR4-2666,1
+Ballistix,Crucial Ballistix Sport LT white DDR4-2666 CL16,44.99,8,DDR4-2666,1
+Crucial,Crucial Ballistix Sport Series DDR4-2400, CL16 - 8 GB Kit,N/A,8,DDR4-2400,2
+Ballistix,Crucial Ballistix Sport XT DDR3-1866 CL10,N/A,8,DDR3-1866,1
+Ballistix,Crucial Ballistix Sport XT DDR3-1866 CL10,N/A,16,DDR3-1866,2
+Ballistix,Crucial Ballistix Tactical DDR3-1866 CL9,N/A,16,DDR3-1866,2
+Ballistix,Crucial Ballistix Tactical DDR3-1866 CL9,N/A,4,DDR3-1866,1
+Ballistix,Crucial Ballistix Tactical DDR4-2666 CL16,N/A,32,DDR4-2666,4
+Ballistix,Crucial Ballistix Tactical DDR4-3000 CL15,29.62,4,DDR4-3000,1
+Ballistix,Crucial Ballistix Tactical LP DDR3-1600 CL8,N/A,8,DDR3-1600,1
+Crucial,Crucial Ballistix Tactical, DDR4-3000, CL16 - 16 GB Kit,227.53,16,DDR4-3000,2
+Crucial,Crucial DDR4-2133 CL15,N/A,4,DDR4-2133,1
+Crucial,Crucial DDR4-2133 CL15,39.29,8,DDR4-2133,1
+Crucial,Crucial DDR5-4800,22.99,16,DDR5-4800,2
+Crucial,Crucial DDR5-4800,46.99,32,DDR5-4800,2
+Crucial,Crucial DDR5-4800,86.99,64,DDR5-4800,2
+Crucial,Crucial Value Series DDR4-2133, CL15 - 16 GB Kit,N/A,16,DDR4-2133,2
+Crucial,Crucial Value Series DDR4-2133, CL15 - 8 GB,N/A,8,DDR4-2133,1
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 16GB,34.99,16,DDR4-2133,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 32GB,183.93,32,DDR4-2133,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 4GB,17.99,4,DDR4-2133,1
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 8GB,39.99,8,DDR4-2133,1
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 16GB,79.99,16,DDR4-2400,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 32GB,196.31,32,DDR4-2400,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 4GB,19.99,4,DDR4-2400,1
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 8GB,22.99,8,DDR4-2400,1
+G.Skill,G.Skill Aegis DDR4 DDR4-3000 16GB,39.99,16,DDR4-3000,2
+G.Skill,G.Skill Aegis DDR4 DDR4-3000 8GB,23.99,8,DDR4-3000,1
+G.Skill,G.Skill Flare X (for AMD) DDR4-2133 16GB,84.99,16,DDR4-2133,2
+G.Skill,G.Skill Flare X Series,77.99,16,DDR4-3200,2
+G.Skill,G.Skill Fortis Series black, DDR4-2133 für Ryzen, CL 15 - 16 GB Dual-Kit,N/A,16,DDR4-2133,2
+G.Skill,G.Skill Fortis Series black, DDR4-2133 für Ryzen, CL 15 - 32 GB Dual-Kit,N/A,32,DDR4-2133,2
+G.Skill,G.Skill Fortis Series black, DDR4-2133 für Ryzen, CL 15 - 64 GB Quad-Kit,N/A,64,DDR4-2133,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,43.99,16,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,46.99,16,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,63.99,16,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,89.99,16,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,89.99,16,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,89.99,16,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,169.99,32,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,229.99,32,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,229.99,32,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,259.99,32,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 64GB,144.99,64,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 64GB,469.99,64,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 64GB,539.99,64,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 8GB,114.19,8,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3400 16GB,89.99,16,DDR4-3400,2
+G.Skill,G.Skill Ripjaws V DDR4-3400 32GB,214.99,32,DDR4-3400,2
+G.Skill,G.Skill Ripjaws V DDR4-3466 16GB,94.99,16,DDR4-3466,2
+G.Skill,G.Skill Ripjaws V DDR4-3466 16GB,94.99,16,DDR4-3466,2
+G.Skill,G.Skill Ripjaws V DDR4-3600 16GB,119.99,16,DDR4-3600,2
+G.Skill,G.Skill Ripjaws V DDR4-3600 16GB,134.99,16,DDR4-3600,2
+G.Skill,G.Skill RipJaws V Series,46.99,16,DDR4-3200,2
+G.Skill,G.Skill RipJaws V Series,73.99,32,DDR4-3200,2
+G.Skill,G.Skill RipJaws V Series,134.99,16,DDR4-3200,2
+G.Skill,G.Skill RipJaws V Series,139.99,64,DDR4-3200,2
+G.Skill,G.Skill RipJaws V Series,254.99,32,DDR4-3200,2
+G. Skill,G.Skill Sniper DDR3-1866 CL9,N/A,16,DDR3-1866,2
+G. Skill,G.Skill Sniper DDR3-1866 CL9,N/A,8,DDR3-1866,2
+G.Skill,G.Skill Sniper X Series,46.99,16,DDR4-3200,2
+G.Skill,G.Skill Sniper X Series,46.99,16,DDR4-3200,2
+G.Skill,G.Skill Sniper X Series,74.99,32,DDR4-3200,2
+G.Skill,G.Skill Sniper X Series,74.99,32,DDR4-3200,2
+G.Skill,G.Skill Sniper X Series,78.99,32,DDR4-3200,2
+G.Skill,G.Skill Sniper X Series,78.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,N/A,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,N/A,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,N/A,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,N/A,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,N/A,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,54.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,54.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,67.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,74.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,75.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,87.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,104.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,129.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,144.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,144.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,149.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,N/A,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,N/A,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,N/A,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,104.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,169.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,174.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,184.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,229.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,239.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,239.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,239.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,269.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,269.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,269.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,390.43,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,390.43,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,N/A,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,204.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,249.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,369.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,464.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,469.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,549.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,554.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 8GB,105.00,8,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3400 32GB,219.99,32,DDR4-3400,2
+G. Skill,G.Skill Trident Z DDR4-3400 CL16,N/A,16,DDR4-3400,2
+G.Skill,G.Skill Trident Z DDR4-3466 16GB,81.99,16,DDR4-3466,2
+G.Skill,G.Skill Trident Z DDR4-3466 16GB,89.99,16,DDR4-3466,2
+G.Skill,G.Skill Trident Z DDR4-3466 16GB,89.99,16,DDR4-3466,2
+G.Skill,G.Skill Trident Z DDR4-3466 16GB,104.99,16,DDR4-3466,2
+G.Skill,G.Skill Trident Z DDR4-3466 32GB,162.99,32,DDR4-3466,2
+G.Skill,G.Skill Trident Z DDR4-3466 32GB,184.99,32,DDR4-3466,2
+G. Skill,G.Skill Trident Z DDR4-3466 CL16,N/A,8,DDR4-3466,2
+G.Skill,G.Skill Trident Z DDR4-3600 16GB,124.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z DDR4-3600 16GB,129.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z DDR4-3600 16GB,129.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z DDR4-3600 16GB,144.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z DDR4-3600 16GB,144.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,59.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,66.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Neo Series,64.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,92.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z Neo Series,97.99,32,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,117.99,32,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,154.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,169.99,32,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,169.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Neo Series,239.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,299.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB DDR4-3200 16GB,59.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB DDR4-3200 16GB,104.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB DDR4-3200 32GB,77.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB DDR4-3200 64GB,499.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z RGB DDR4-3200 64GB,569.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z RGB DDR4-3466 16GB,124.99,16,DDR4-3466,2
+G.Skill,G.Skill Trident Z RGB DDR4-3600 16GB,149.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z RGB DDR4-3600 16GB,164.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z RGB Series für AMD,66.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB Series für AMD,89.99,32,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,59.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,109.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Royal Series gold,82.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Royal Series gold,129.49,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Royal Series gold,129.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Royal Series gold,174.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Royal Series silver,83.76,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Royal Series silver,102.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Royal Series silver,171.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Royal Series silver,186.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Series,1028.97,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Series silver/red,124.99,16,DDR4-3200,2
+G.Skill,G.Skill Trident Z Series silver/red,144.99,16,DDR4-3600,2
+G.Skill,G.Skill Trident Z Series, DDR4-3000, CL14 - 64 GB Quad-Kit,339.99,64,DDR4-3000,4
+G.Skill,G.Skill Value DDR4-2133 8GB,N/A,8,DDR4-2133,1
+G.Skill,G.Skill Value DDR4-2400 8GB,N/A,8,DDR4-2400,1
+G.Skill,G.Skill Value DDR4-2400 8GB,42.99,8,DDR4-2400,1
+Gigabyte,Gigabyte Aorus RGB Memory,149.99,16,DDR4-3200,2
+Gigabyte,Gigabyte Aorus RGB Memory,169.99,16,DDR4-3200,2
+HyperX,HyperX Fury blue DDR3-1600 CL10,22.99,4,DDR3-1600,1
+HyperX,HyperX Fury blue DDR3-1600 CL10,41.99,8,DDR3-1600,2
+HyperX,HyperX Fury blue DDR3-1600 CL10,68.99,8,DDR3-1600,1
+HyperX,HyperX Fury blue DDR3-1600 CL10,76.99,16,DDR3-1600,2
+HyperX,HyperX Fury blue DDR3-1866 CL10,23.99,4,DDR3-1866,1
+HyperX,HyperX Fury blue DDR3-1866 CL10,44.99,8,DDR3-1866,1
+HyperX,HyperX Fury blue DDR3-1866 CL10,45.99,8,DDR3-1866,2
+HyperX,HyperX Fury blue DDR3-1866 CL10,76.99,16,DDR3-1866,2
+HyperX,HyperX Fury red DDR3-1600 CL10,44.99,8,DDR3-1600,1
+HyperX,HyperX Fury red DDR3-1600 CL10,49.99,8,DDR3-1600,2
+HyperX,HyperX Fury red DDR3-1600 CL10,88.99,16,DDR3-1600,2
+HyperX,HyperX Fury red DDR3-1866 CL10,22.99,4,DDR3-1866,1
+HyperX,HyperX Fury red DDR3-1866 CL10,42.99,8,DDR3-1866,1
+HyperX,HyperX Fury red DDR3-1866 CL10,45.99,8,DDR3-1866,2
+HyperX,HyperX Fury red DDR3-1866 CL10,76.99,16,DDR3-1866,2
+HyperX,HyperX Fury black DDR3-1600 CL10,22.30,4,DDR3-1600,1
+HyperX,HyperX Fury black DDR3-1600 CL10,42.99,8,DDR3-1600,1
+HyperX,HyperX Fury black DDR3-1600 CL10,45.99,8,DDR3-1600,2
+HyperX,HyperX Fury black DDR3-1600 CL10,76.99,16,DDR3-1600,2
+HyperX,HyperX Fury black DDR3-1866 CL10,22.99,4,DDR3-1866,1
+HyperX,HyperX Fury black DDR3-1866 CL10,38.99,8,DDR3-1866,1
+HyperX,HyperX Fury black DDR3-1866 CL10,41.99,8,DDR3-1866,2
+HyperX,HyperX Fury black DDR3-1866 CL10,102.99,16,DDR3-1866,2
+HyperX,HyperX Fury black DDR4-2133 CL14,35.99,4,DDR4-2133,1
+HyperX,HyperX Fury black DDR4-2133 CL14,128.65,8,DDR4-2133,1
+HyperX,HyperX Fury black DDR4-2133 CL14,140.40,16,DDR4-2133,2
+HyperX,HyperX Fury black DDR4-2133 CL14,149.96,16,DDR4-2133,4
+HyperX,HyperX Fury black DDR4-2133 CL14,267.11,32,DDR4-2133,4
+HyperX,HyperX Fury black DDR4-2400 CL15,N/A,32,DDR4-2400,4
+HyperX,HyperX Fury black DDR4-2666 CL15,97.99,16,DDR4-2666,4
+Kingston,HyperX Fury Series,N/A,16,DDR4-3200,2
+HyperX,HyperX Fury Series, DDR4-2666, CL15 - 16 GB Kit,N/A,16,DDR4-2666,2
+HyperX,HyperX Fury Series, DDR4-2666, CL15 - 32 GB Kit,N/A,32,DDR4-2666,4
+HyperX,HyperX Fury white DDR3-1600 CL10,20.99,4,DDR3-1600,1
+HyperX,HyperX Fury white DDR3-1600 CL10,38.99,8,DDR3-1600,1
+HyperX,HyperX Fury white DDR3-1600 CL10,46.99,8,DDR3-1600,2
+HyperX,HyperX Fury white DDR3-1600 CL10,79.36,16,DDR3-1600,2
+HyperX,HyperX Fury white DDR3-1866 CL10,22.99,4,DDR3-1866,1
+HyperX,HyperX Fury white DDR3-1866 CL10,41.99,8,DDR3-1866,2
+HyperX,HyperX Fury white DDR3-1866 CL10,42.99,8,DDR3-1866,1
+HyperX,HyperX Predator DDR3-1866 CL9,N/A,32,DDR3-1866,4
+HyperX,HyperX Predator DDR3-1866 CL9,N/A,16,DDR3-1866,2
+HyperX,HyperX Predator DDR3-1866 CL9,N/A,8,DDR3-1866,2
+HyperX,HyperX Predator DDR4-3000 CL15,149.99,32,DDR4-3000,1
+HyperX,HyperX Predator DDR4-3000 CL15,194.36,32,DDR4-3000,4
+HyperX,HyperX Predator DDR4-3200 CL16,92.00,16,DDR4-3200,2
+HyperX,HyperX Savage DDR4-2666 CL15,N/A,128,DDR4-2666,1
+HyperX,HyperX Savage red DDR3-1600 CL9,N/A,32,DDR3-1600,4
+HyperX,HyperX Savage red DDR3-1866 CL9,N/A,32,DDR3-1866,4
+HyperX,HyperX Savage red DDR3-1866 CL9,N/A,8,DDR3-1866,2
+HyperX,HyperX Savage red DDR3-1866 CL9,N/A,4,DDR3-1866,1
+HyperX,HyperX Savage red DDR3-1866 CL9,133.74,16,DDR3-1866,2
+HyperX,HyperX Savage black DDR4-2133 CL13,N/A,8,DDR4-2133,1
+HyperX,HyperX Savage black DDR4-2133 CL13,N/A,4,DDR4-2133,1
+HyperX,HyperX Savage black DDR4-2400 CL12 XMP,N/A,16,DDR4-2400,2
+HyperX,HyperX Savage black DDR4-2400 CL12 XMP,N/A,8,DDR4-2400,1
+HyperX,HyperX Savage black DDR4-2400 CL12 XMP,N/A,4,DDR4-2400,1
+HyperX,HyperX Savage black DDR4-2400 CL12 XMP,N/A,8,DDR4-2400,2
+HyperX,HyperX Savage black DDR4-2400 CL12 XMP,339.11,32,DDR4-2400,4
+HyperX,HyperX Savage black DDR4-2666 CL13 XMP,N/A,8,DDR4-2666,2
+INNO3D,INNO3D iChill Memory,N/A,16,DDR4-3200,2
+INNO3D,INNO3D iChill Memory,N/A,16,DDR4-3600,2
+Intenso,Intenso Desktop Pro DDR4-2133 CL15,N/A,8,DDR4-2133,1
+Kingston,Kingston Fury Beast,57.99,16,DDR5-4800,1
+Kingston,Kingston Fury Beast,115.99,32,DDR5-4800,2
+Kingston,Kingston Fury Beast Black,58.99,16,DDR5-5200,1
+Kingston,Kingston Fury Beast Black,118.87,32,DDR5-5200,1
+Kingston,Kingston Value DDR3-1600 CL11,21.69,4,DDR3-1600,1
+Kingston,Kingston Value DDR4-2133 CL15,N/A,16,DDR4-2133,1
+Kingston,Kingston Value DDR4-2133 CL15 kit,N/A,32,DDR4-2133,1
+Kingston,Kingston Value DDR4-2133 CL15 reg. ECC,N/A,32,DDR4-2133,1
+Kingston,Kingston Value DDR4-2133 CL15,N/A,8,DDR4-2133,1
+Kingston,Kingston Value DDR4-2400 CL17,39.41,8,DDR4-2400,1
+Kingston,Kingston Value DDR4-2400 CL17,69.50,16,DDR4-2400,1
+Kingston,Kingston Value DDR3-1600 CL11,42.99,8,DDR3-1600,1
+Kingston,Kingston Value DDR3-1600 CL11,73.99,16,DDR3-1600,2
+Kingston,Kingston Value DDR3-1600 CL11 ECC Modul,N/A,8,DDR3-1600,1
+Kingston,Kingston Value DDR4-2133 CL15,N/A,16,DDR4-2133,2
+Kingston,Kingston ValueRAM,N/A,32,DDR5-4800,2
+Kingston,Kingston ValueRAM,N/A,16,DDR5-4800,1
+Team Group,Team Group Dark Pro Series grey, DDR4-3200, CL16 - 8 GB Kit,N/A,8,DDR4-3200,2
+Team Group,Team Group Dark Pro Series red, DDR4-3000, CL15 - 16 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group Dark Pro Series red, DDR4-3000, CL15 - 8 GB Kit,N/A,8,DDR4-3000,2
+Team Group,Team Group Dark Pro Series red, DDR4-3200, CL16 - 8 GB Kit,N/A,8,DDR4-3200,2
+Team Group,Team Group Dark Series blue, DDR4-2666, CL15 - 16 GB Kit,N/A,16,DDR4-2666,4
+Team Group,Team Group Dark Series white, DDR4-3000, CL16 - 16 GB Kit,N/A,16,DDR4-3000,4
+Team Group,Team Group Elite Plus Series black, DDR4-2133, CL15 - 16 GB Kit,N/A,16,DDR4-2133,2
+Team Group,Team Group Elite Plus Series black, DDR4-2400, CL16 - 8 GB,N/A,8,DDR4-2400,1
+Team Group,Team Group T-Force Dark grey, DDR4-3000, CL16 - 16 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group T-Force Dark red, DDR4-3000, CL16 - 16 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group T-Force Nighthawk,N/A,16,DDR4-3200,2
+Team Group,Team Group T-Force Nighthawk, blaue LED, DDR4-3000, CL16 - 16 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group T-Force Nighthawk, blaue LED, DDR4-3200, CL16 - 32 GB Kit,N/A,32,DDR4-3200,2
+Team Group,Team Group T-Force Nighthawk, rote LED, DDR4-3000, CL16 - 16 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group T-Force Nighthawk, rote LED, DDR4-3200, CL16 - 16 GB Kit,N/A,16,DDR4-3200,2
+Team Group,Team Group T-Force Nighthawk, rote LED, DDR4-3200, CL16 - 32 GB Kit,N/A,32,DDR4-3200,2
+Team Group,Team Group T-Force Nighthawk, weiße LED, DDR4-3000, CL16 - 16 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group T-Force Nighthawk, weiße LED, DDR4-3200, CL16 - 32 GB Kit,N/A,32,DDR4-3200,2
+Team Group,Team Group Vulcan Series Gold, DDR4-3000, CL16 - 32 GB Kit,N/A,32,DDR4-3000,4
+Team Group,Team Group Vulcan Series white, DDR4-3000, CL16 - 16 GB Kit,N/A,16,DDR4-3000,4
+Thermaltake,Thermaltake Toughram RGB DDR4-3200 CL16 - 16 GB Dual-Kit,99.99,16,DDR4-3200,2
+Thermaltake,Thermaltake Toughram RGB DDR4-3600 CL18 - 16 GB Dual-Kit,114.99,16,DDR4-3600,2
+Adata,ADATA Premier Series DDR3-1600 CL11,N/A,4,DDR3-1600,1
+Adata,ADATA Premier Series DDR3-1600 CL11,59.99,8,DDR3-1600,1
+Adata,ADATA XPC V1.0 DDR3-1600 CL9,55.32,8,DDR3-1600,2
+Adata,ADATA XPC V1.0 DDR3-1600 CL9,78.13,16,DDR3-1600,2
+ADATA,ADATA XPG Gammix D10,N/A,16,DDR4-3000,2
+ADATA,ADATA XPG Gammix D10,N/A,16,DDR4-2666,2
+ADATA,ADATA XPG Gammix D10,N/A,32,DDR4-2666,2
+ADATA,ADATA XPG Gammix D10,N/A,8,DDR4-3000,1
+ADATA,ADATA XPG Gammix D10,N/A,16,DDR4-3000,1
+ADATA,ADATA XPG Gammix D10,N/A,16,DDR4-2666,2
+ADATA,ADATA XPG Gammix D10,N/A,16,DDR4-2400,2
+ADATA,ADATA XPG Gammix D10,N/A,8,DDR4-2400,1
+ADATA,ADATA XPG Gammix D10,N/A,32,DDR4-2400,2
+ADATA,ADATA XPG Spectrix D40 RGB,N/A,16,DDR4-3000,2
+ADATA,ADATA XPG Spectrix D50 Xtreme,N/A,16,DDR4-5000,2
+ADATA,ADATA XPG Spectrix D50 Xtreme,N/A,16,DDR4-4800,2
+ADATA,ADATA XPG Spectrix D80 red,N/A,16,DDR4-3000,2
+ADATA,ADATA XPG Spectrix D80 red,N/A,32,DDR4-3000,2
+ADATA,ADATA XPG Spectrix D80 black,N/A,32,DDR4-3000,2
+ADATA,ADATA XPG Spectrix D80 black,N/A,16,DDR4-3000,2
+ADATA,ADATA XPG Spectrix RGB D41 grey,N/A,32,DDR4-3000,2
+ADATA,ADATA XPG Spectrix RGB D41 grey,80.18,16,DDR4-3000,2
+ADATA,ADATA XPG Spectrix RGB D41 red,N/A,16,DDR4-3000,2
+ADATA,ADATA XPG Spectrix RGB D60G grey,N/A,16,DDR4-3000,2
+Avexir,Avexir Blitz Series, rote LED, DDR4-3200, CL16 - 16 GB Kit,N/A,16,DDR4-3200,4
+Avexir,Avexir Core Series, blaue LED, DDR4-2400, CL16 - 4 GB,N/A,4,DDR4-2400,1
+Avexir,Avexir Core Series, grüne LED, DDR4-2400, CL16 - 4 GB,N/A,4,DDR4-2400,1
+Avexir,Avexir Core Series, rote LED, DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2400,2
+Avexir,Avexir Core Series, rote LED, DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2400,4
+Avexir,Avexir Core Series, weiße LED, DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2400,2
+Avexir,Avexir Core Series, weiße LED, DDR4-2400, CL16 - 4 GB,N/A,4,DDR4-2400,1
+Ballistix,Ballistix Elite DDR4-2666 CL16,39.95,4,DDR4-2666,1
+Ballistix,Ballistix Sport DDR3-1600 CL9,N/A,8,DDR3-1600,2
+Ballistix,Ballistix Tactical DDR4-3000 CL15,62.99,8,DDR4-3000,1
+Corsair,Corsair 16GB,47.99,16,DDR4-2400,1
+Corsair,Corsair 1GB DDR Memory,18.75,1,DDR1-333,1
+Corsair,Corsair 1GB DDR Memory,24.19,1,DDR1-400,1
+Corsair,Corsair 1GB DDR2 Memory,6.72,1,DDR2-667,1
+Corsair,Corsair 1GB DDR2 Memory,118.88,1,DDR2-533,1
+Corsair,Corsair 1GB Dual Channel DDR Memory Kit,N/A,1,DDR1-400,2
+Corsair,Corsair 2GB DDR2 Memory,30.82,2,DDR2-800,1
+Corsair,Corsair 2GB Dual Channel DDR Memory Kit,40.00,2,DDR1-400,2
+Corsair,Corsair 2GB Dual Channel DDR2 Memory Kit,28.99,2,DDR2-533,2
+Corsair,Corsair 8GB,23.25,8,DDR4-2400,1
+Corsair,Corsair 8GB,43.99,8,DDR3-1600,2
+Corsair,Corsair 8GB DDR3 Memory,39.99,8,DDR3-1600,1
+Corsair,Corsair 8GB Dual Channel DDR3 Memory Kit,47.23,8,DDR3-1333,2
+Corsair,Corsair Dominator DDR3-1600 CL9,N/A,8,DDR3-1600,2
+Corsair,Corsair Dominator Limited Orange DDR4-3400, CL16 - 16 GB Quad Kit,N/A,16,DDR4-3400,4
+Corsair,Corsair Dominator Platinum + AF,114.96,8,DDR4-3600,2
+Corsair,Corsair Dominator Platinum + AF,189.99,8,DDR4-4000,2
+Corsair,Corsair Dominator Platinum + AF, DDR4-3600, CL 16 - 32 GB Quad Kit,554.99,32,DDR4-3600,4
+Corsair,Corsair Dominator Platinum + AF, DDR4-3600, CL 18 - 16 GB Quad Kit,114.21,16,DDR4-3600,4
+Corsair,Corsair Dominator Platinum + AF, DDR4-3733, CL 17 - 8 GB Dual Kit,87.11,8,DDR4-3733,2
+Corsair,Corsair Dominator Platinum + AF, DDR4-3866, CL 18 - 8 GB Dual Kit,158.80,8,DDR4-3866,2
+Corsair,Corsair Dominator Platinum DDR4-2400 CL14,1175.38,128,DDR4-2400,1
+Corsair,Corsair Dominator Platinum DDR4-2666 CL15,264.99,16,DDR4-2666,4
+Corsair,Corsair Dominator Platinum DDR4-2666 CL15,759.99,128,DDR4-2666,1
+Corsair,Corsair Dominator Platinum DDR4-2800 CL14,N/A,128,DDR4-2800,1
+Corsair,Corsair Dominator Platinum DDR4-2800 CL14,617.71,64,DDR4-2800,1
+Corsair,Corsair Dominator Platinum DDR4-2800 CL16,N/A,16,DDR4-2800,4
+Corsair,Corsair Dominator Platinum DDR4-3000 CL15,99.66,8,DDR4-3000,2
+Corsair,Corsair Dominator Platinum DDR4-3000 CL15,109.99,16,DDR4-3000,2
+Corsair,Corsair Dominator Platinum DDR4-3000 CL16,1203.13,128,DDR4-3000,1
+Corsair,Corsair Dominator Platinum DDR4-3200 CL16,N/A,32,DDR4-3200,4
+Corsair,Corsair Dominator Platinum DDR4-3200 CL16,2999.99,8,DDR4-3200,2
+Corsair,Corsair Dominator Platinum RGB,134.99,32,DDR5-5200,2
+Corsair,Corsair Dominator Platinum RGB,149.99,32,DDR5-5600,2
+Corsair,Corsair Dominator Platinum RGB,164.99,32,DDR5-6200,2
+Corsair,Corsair Dominator Platinum RGB,149.99,32,DDR5-6400,2
+Corsair,Corsair Dominator Platinum RGB,189.99,64,DDR5-5200,2
+Corsair,Corsair Dominator Platinum RGB,229.99,64,DDR5-5200,2
+Corsair,Corsair Dominator Platinum RGB,314.99,64,DDR5-6200,4
+Corsair,Corsair Dominator Platinum RGB,234.99,64,DDR5-5600,2
+Corsair,Corsair Dominator Platinum RGB,249.99,64,DDR5-6000,2
+Corsair,Corsair Dominator Platinum RGB,369.99,64,DDR5-6600,4
+Corsair,Corsair Dominator Platinum RGB,418.91,64,DDR5-6400,4
+Corsair,Corsair Dominator Platinum RGB Series,144.99,16,DDR4-3000,2
+Corsair,Corsair Dominator Platinum RGB Series,159.99,32,DDR4-3200,4
+Corsair,Corsair Dominator Platinum RGB Series,179.99,32,DDR4-3600,4
+Corsair,Corsair Dominator Platinum RGB Series,214.99,32,DDR4-3000,2
+Corsair,Corsair Dominator Platinum RGB Series,254.99,64,DDR4-3600,4
+Corsair,Corsair Dominator Platinum RGB Series,282.99,32,DDR4-3000,4
+Corsair,Corsair Dominator Platinum RGB Series,359.99,64,DDR4-3000,4
+Corsair,Corsair Dominator Platinum RGB Series,439.99,64,DDR4-3200,8
+Corsair,Corsair Dominator Platinum RGB Series,481.63,16,DDR4-4266,2
+Corsair,Corsair Dominator Platinum RGB Series,549.99,64,DDR4-3600,8
+Corsair,Corsair Dominator Platinum RGB Series,1199.99,128,DDR4-3600,8
+Corsair,Corsair Dominator Platinum ROG Edition 32GB,449.09,32,DDR4-3200,4
+Corsair,Corsair Dominator Platinum Series,1312.24,64,DDR4-2400,4
+Corsair,Corsair Dominator Platinum Series 128GB,789.99,128,DDR4-3200,8
+Corsair,Corsair Dominator Platinum Series 16GB,N/A,16,DDR4-2800,2
+Corsair,Corsair Dominator Platinum Series 16GB,93.60,16,DDR4-3200,4
+Corsair,Corsair Dominator Platinum Series 16GB,124.28,16,DDR4-3200,4
+Corsair,Corsair Dominator Platinum Series 16GB,141.89,16,DDR4-2666,4
+Corsair,Corsair Dominator Platinum Series 16GB,199.99,16,DDR4-2400,2
+Corsair,Corsair Dominator Platinum Series 16GB,240.98,16,DDR4-3866,2
+Corsair,Corsair Dominator Platinum Series 16GB,259.99,16,DDR4-3733,2
+Corsair,Corsair Dominator Platinum Series 16GB,269.99,16,DDR4-3200,4
+Corsair,Corsair Dominator Platinum Series 16GB,342.99,16,DDR4-4000,2
+Corsair,Corsair Dominator Platinum Series 16GB,5000.00,16,DDR4-2133,4
+Corsair,Corsair Dominator Platinum Series 32GB,N/A,32,DDR4-2800,2
+Corsair,Corsair Dominator Platinum Series 32GB,N/A,32,DDR4-2800,4
+Corsair,Corsair Dominator Platinum Series 32GB,N/A,32,DDR4-2400,4
+Corsair,Corsair Dominator Platinum Series 32GB,117.38,32,DDR4-2400,4
+Corsair,Corsair Dominator Platinum Series 32GB,117.38,32,DDR4-2400,4
+Corsair,Corsair Dominator Platinum Series 32GB,118.88,32,DDR4-3866,4
+Corsair,Corsair Dominator Platinum Series 32GB,123.48,32,DDR4-2133,4
+Corsair,Corsair Dominator Platinum Series 32GB,179.99,32,DDR4-3000,2
+Corsair,Corsair Dominator Platinum Series 32GB,182.99,32,DDR4-2666,4
+Corsair,Corsair Dominator Platinum Series 32GB,236.99,32,DDR4-3000,4
+Corsair,Corsair Dominator Platinum Series 32GB,526.99,32,DDR4-3333,4
+Corsair,Corsair Dominator Platinum Series 32GB,567.99,32,DDR4-3733,4
+Corsair,Corsair Dominator Platinum Series 32GB,629.75,32,DDR4-4000,4
+Corsair,Corsair Dominator Platinum Series 32GB,1385.49,32,DDR4-2800,4
+Corsair,Corsair Dominator Platinum Series 64GB,117.38,64,DDR4-3333,4
+Corsair,Corsair Dominator Platinum Series 64GB,301.99,64,DDR4-2666,4
+Corsair,Corsair Dominator Platinum Series 64GB,329.99,64,DDR4-3000,4
+Corsair,Corsair Dominator Platinum Series 64GB,329.99,64,DDR4-3200,4
+Corsair,Corsair Dominator Platinum Series 64GB,677.06,64,DDR4-2800,8
+Corsair,Corsair Dominator Platinum Series 64GB,718.79,64,DDR4-2800,8
+Corsair,Corsair Dominator Platinum Series 64GB,1011.99,64,DDR4-3466,4
+Corsair,Corsair Dominator Platinum Series 64GB,1026.99,64,DDR4-3200,8
+Corsair,Corsair Dominator Platinum Series 64GB,1074.99,64,DDR4-2666,8
+Corsair,Corsair Dominator Platinum Series DDR4-2666,92.99,16,DDR4-2666,2
+Corsair,Corsair Dominator Platinum Series DDR4-2666,179.99,32,DDR4-2666,4
+Corsair,Corsair Dominator Platinum Series DDR4-3000, CL15 - 16 GB Quad Kit,252.56,16,DDR4-3000,4
+Corsair,Corsair Dominator Platinum Series DDR4-3200, CL15 - 16 GB Quad Kit,N/A,16,DDR4-3200,4
+Corsair,Corsair Dominator Platinum Series DDR4-3200, CL16 - 16 GB Quad Kit,213.98,16,DDR4-3200,4
+Corsair,Corsair Dominator Platinum Series — 16GB,124.28,16,DDR3-2133,4
+Corsair,Corsair Dominator Platinum Series — 16GB,124.28,16,DDR3-2400,4
+Corsair,Corsair Dominator Platinum Series — 16GB,124.28,16,DDR3-2400,4
+Corsair,Corsair Dominator Platinum Series — 16GB,165.35,16,DDR3-2400,2
+Corsair,Corsair Dominator Platinum Series — 16GB,532.00,16,DDR3-1866,4
+Corsair,Corsair Dominator Platinum Series — 16GB,621.60,16,DDR3-1866,2
+Corsair,Corsair Dominator Platinum Series — 16GB,772.69,16,DDR3-2133,4
+Corsair,Corsair Dominator Platinum Series — 16GB,1004.97,16,DDR3-2800,4
+Corsair,Corsair Dominator Platinum Series — 16GB,1032.60,16,DDR3-2666,4
+Corsair,Corsair Dominator Platinum Series — 16GB,1153.75,16,DDR3-1600,2
+Corsair,Corsair Dominator Platinum Series — 16GB,1469.10,16,DDR3-2933,4
+Corsair,Corsair Dominator Platinum Series — 16GB,1860.60,16,DDR3-3000,4
+Corsair,Corsair LED 32GB,471.99,32,DDR4-3200,4
+Corsair,Corsair LED 32GB,692.55,64,DDR4-2666,4
+Corsair,Corsair Low Profile Blue — 16GB Dual Channel DDR3 Memory Kit,311.57,16,DDR3-1600,4
+Corsair,Corsair Low Profile Blue — 4GB Dual Channel DDR3 Memory Kit,116.09,4,DDR3-1600,2
+Corsair,Corsair Low Profile Blue — 8GB Dual Channel DDR3 Memory Kit,N/A,8,DDR3-2133,2
+Corsair,Corsair Low Profile White — 1.35V 8GB Dual Channel DDR3L Memory Kit,168.88,16,DDR3-1600,2
+Corsair,Corsair Low Profile — 16GB Dual Channel DDR3 Memory Kit,83.60,16,DDR3-1600,4
+Corsair,Corsair Low Profile — 16GB Dual/Quad Channel DDR3 Memory Kit,N/A,32,DDR3-1600,4
+Corsair,Corsair Low Profile — 32GB Dual/Quad Channel DDR3 Memory Kit,159.99,32,DDR3-1600,4
+Corsair,Corsair Low Profile — 32GB Dual/Quad Channel DDR3 Memory Kit,245.66,4,DDR3-1600,1
+Corsair,Corsair Low Profile — 4GB DDR3 Memory Kit,N/A,4,DDR3-1600,2
+Corsair,Corsair Low Profile — 4GB Dual Channel DDR3 Memory Kit,39.81,8,DDR3-1600,1
+Corsair,Corsair Low Profile — 8GB DDR3 Memory Kit,64.89,8,DDR3-1600,2
+Corsair,Corsair Low Profile — 8GB Dual Channel DDR3 Memory Kit,N/A,16,DDR3-1866,2
+Corsair,Corsair LP 16GB,137.07,32,DDR3-1866,4
+Corsair,Corsair LP 4GB,43.99,128,DDR4-2133,8
+Corsair,Corsair LP 8GB,72.83,128,DDR4-3333,8
+Corsair,Corsair LP Memory 16GB 1866MHz CL10 DDR3,613.51,128,DDR4-3000,8
+Corsair,Corsair LP Memory 32GB 1866MHz CL10 DDR3 Dual/Quad Kit,1013.33,16,DDR4-2133,4
+Corsair,Corsair LPX 128GB,N/A,16,DDR4-2400,1
+Corsair,Corsair LPX 128GB,N/A,16,DDR4-3200,4
+Corsair,Corsair LPX 128GB,369.99,16,DDR4-2400,1
+Corsair,Corsair LPX 16GB,N/A,16,DDR4-2400,2
+Corsair,Corsair LPX 16GB,39.99,16,DDR4-3000,1
+Corsair,Corsair LPX 16GB,39.99,16,DDR4-2133,4
+Corsair,Corsair LPX 16GB,34.99,16,DDR4-2666,4
+Corsair,Corsair LPX 16GB,39.99,16,DDR4-2400,4
+Corsair,Corsair LPX 16GB,73.99,16,DDR4-2400,2
+Corsair,Corsair LPX 16GB,80.77,16,DDR4-2666,4
+Corsair,Corsair LPX 16GB,84.99,16,DDR4-3000,4
+Corsair,Corsair LPX 16GB,86.99,16,DDR4-2666,4
+Corsair,Corsair LPX 16GB,93.99,16,DDR4-3000,4
+Corsair,Corsair LPX 16GB,109.92,16,DDR4-3200,4
+Corsair,Corsair LPX 16GB,119.98,32,DDR4-2400,2
+Corsair,Corsair LPX 16GB,126.21,16,DDR4-3300,4
+Corsair,Corsair LPX 16GB,129.99,16,DDR4-4000,2
+Corsair,Corsair LPX 16GB,175.89,16,DDR4-4266,2
+Corsair,Corsair LPX 16GB,177.99,16,DDR4-3400,4
+Corsair,Corsair LPX 16GB,225.08,32,DDR4-3400,4
+Corsair,Corsair LPX 16GB,235.50,32,DDR4-3333,2
+Corsair,Corsair LPX 16GB,249.99,32,DDR4-2400,2
+Corsair,Corsair LPX 16GB,464.39,32,DDR4-3866,4
+Corsair,Corsair LPX 32GB,N/A,32,DDR4-4000,4
+Corsair,Corsair LPX 32GB,N/A,32,DDR4-3200,4
+Corsair,Corsair LPX 32GB,69.99,32,DDR3-1866,4
+Corsair,Corsair LPX 32GB,524.99,16,DDR3-1866,2
+Corsair,Corsair LPX 32GB,541.99,16,DDR3-2133,4
+Corsair,Corsair LPX 32GB,1001.99,16,DDR3-2666,2
+Corsair,Corsair Memory — 32GB 1866MHz CL9 DDR3,124.28,16,DDR3-2933,4
+Corsair,Corsair Pro Series 16GB,N/A,16,DDR3-2133,4
+Corsair,Corsair Pro Series 16GB,137.07,16,DDR3-1600,2
+Corsair,Corsair Pro Series 16GB,632.97,16,DDR3-1866,2
+Corsair,Corsair Pro Series 16GB,1180.05,16,DDR3-2400,2
+Corsair,Corsair Pro Series 32GB,N/A,16,DDR3-2133,2
+Corsair,Corsair Pro Series 32GB,124.28,32,DDR3-1600,4
+Corsair,Corsair Pro Series 32GB,1180.89,32,DDR3-1600,4
+Corsair,Corsair Pro Series 8GB,N/A,32,DDR3-1600,4
+Corsair,Corsair Pro Series — 16GB,N/A,32,DDR3-2800,4
+Corsair,Corsair Pro Series — 16GB,N/A,32,DDR3-1866,4
+Corsair,Corsair Pro Series — 16GB,N/A,32,DDR3-2133,4
+Corsair,Corsair Pro Series — 16GB,N/A,64,DDR3-2133,8
+Corsair,Corsair Pro Series — 16GB,N/A,64,DDR3-2400,8
+Corsair,Corsair Pro Series — 16GB,106.14,8,DDR3-2133,2
+Corsair,Corsair Pro Series — 16GB,125.34,8,DDR3-2133,2
+Corsair,Corsair Pro Series — 16GB,146.35,8,DDR3-2800,2
+Corsair,Corsair Pro Series — 16GB,168.99,8,DDR3-2933,2
+Corsair,Corsair Pro Series — 32GB,N/A,8,DDR3-1600,2
+Corsair,Corsair Pro Series — 32GB,182.99,8,DDR3-1600,2
+Corsair,Corsair Pro Series — 32GB,155.71,8,DDR3-1600,2
+Corsair,Corsair Pro Series — 32GB,187.67,8,DDR3-1600,2
+Corsair,Corsair Pro Series — 32GB,189.04,8,DDR3-2133,2
+Corsair,Corsair Pro Series — 32GB,268.02,8,DDR3-1866,2
+Corsair,Corsair Pro Series — 64GB,N/A,8,DDR3-1866,2
+Corsair,Corsair Pro Series — 64GB,350.96,8,DDR3-2133,2
+Corsair,Corsair Pro Series — 8GB,N/A,8,DDR3-2133,2
+Corsair,Corsair Pro Series — 8GB,N/A,8,DDR3-2133,2
+Corsair,Corsair Pro Series — 8GB,N/A,16,DDR4-2666,2
+Corsair,Corsair Pro Series — 8GB,N/A,16,DDR4-3000,2
+Corsair,Corsair Pro Series — 8GB,39.99,32,DDR4-2666,4
+Corsair,Corsair Pro Series — 8GB,42.99,32,DDR4-3000,4
+Corsair,Corsair Pro Series — 8GB,50.23,32,DDR4-3200,4
+Corsair,Corsair Pro Series — 8GB,63.10,32,DDR4-3333,4
+Corsair,Corsair Pro Series — 8GB,91.74,32,DDR4-3600,4
+Corsair,Corsair Pro Series — 8GB,124.28,32,DDR4-3466,4
+Corsair,Corsair Pro Series — 8GB,124.28,64,DDR4-2666,8
+Corsair,Corsair Pro Series — 8GB,258.60,16,DDR4-3000,2
+Corsair,Corsair Pro Series — 8GB,297.96,8,DDR4-2133,1
+Corsair,Corsair Pro Series — 8GB,314.00,4,DDR4-2133,1
+Corsair,Corsair RGB 16GB,86.46,16,DDR4-2133,1
+Corsair,Corsair RGB 16GB,109.99,16,DDR4-2133,2
+Corsair,Corsair RGB 32GB,159.99,32,DDR4-2133,2
+Corsair,Corsair RGB 32GB,212.46,2,DDR3-1333,1
+Corsair,Corsair RGB 32GB,307.83,4,DDR3-1333,1
+Corsair,Corsair RGB 32GB,339.99,8,DDR3-1333,1
+Corsair,Corsair RGB 32GB,454.99,4,DDR3-1333,2
+Corsair,Corsair RGB 32GB,499.13,16,DDR3-1333,2
+Corsair,Corsair RGB 64GB,824.99,8,DDR4-2133,1
+Corsair,Corsair SO-Dimm Vengeance Series DDR4-3000,64.91,32,DDR5-6400,2
+Corsair,Corsair ValueSelect,19.99,32,DDR5-6800,2
+Corsair,Corsair ValueSelect,21.16,48,DDR5-5600,2
+Corsair,Corsair ValueSelect,39.99,48,DDR5-5200,2
+Corsair,Corsair ValueSelect,39.99,48,DDR5-7000,2
+Corsair,Corsair ValueSelect,171.99,64,DDR5-6400,2
+Corsair,Corsair ValueSelect DDR3-1333 CL9,N/A,64,DDR5-5200,2
+Corsair,Corsair ValueSelect DDR3-1333 CL9,22.99,64,DDR5-6600,2
+Corsair,Corsair ValueSelect DDR3-1333 CL9,23.99,32,DDR5-7200,2
+Corsair,Corsair ValueSelect DDR3-1333 CL9,26.50,64,DDR5-6200,2
+Corsair,Corsair ValueSelect DDR3-1333 CL9,71.99,32,DDR5-7000,2
+Corsair,Corsair ValueSelect Series DDR4-2133,19.99,96,DDR5-5200,2
+Corsair,Corsair Vengeance,107.48,64,DDR5-6000,2
+Corsair,Corsair Vengeance,114.99,96,DDR5-5600,2
+Corsair,Corsair Vengeance,171.09,192,DDR5-5200,4
+Corsair,Corsair Vengeance,172.20,4,DDR3-1600,1
+Corsair,Corsair Vengeance,188.09,8,DDR3-1600,2
+Corsair,Corsair Vengeance,209.99,8,DDR3-2133,2
+Corsair,Corsair Vengeance,154.99,8,DDR3-1600,1
+Corsair,Corsair Vengeance,236.45,16,DDR3-1600,2
+Corsair,Corsair Vengeance,164.99,16,DDR3-1600,2
+Corsair,Corsair Vengeance,254.39,32,DDR3-1600,4
+Corsair,Corsair Vengeance,147.99,8,DDR3-1600,1
+Corsair,Corsair Vengeance,269.99,4,DDR3-1600,2
+Corsair,Corsair Vengeance,183.05,12,DDR3-1600,3
+Corsair,Corsair Vengeance,320.28,16,DDR3-1600,4
+Corsair,Corsair Vengeance,625.14,8,DDR3-1600,2
+Corsair,Corsair Vengeance blue DDR3-1600 CL9,29.99,16,DDR4-3000,2
+Corsair,Corsair Vengeance blue DDR3-1600 CL9,49.99,32,DDR4-3000,4
+Corsair,Corsair Vengeance blue DDR3-2133 CL11,123.99,32,DDR4-3000,1
+Corsair,Corsair Vengeance DDR3-1600 CL10,37.95,32,DDR4-3200,4
+Corsair,Corsair Vengeance DDR3-1600 CL10,79.99,32,DDR4-3200,1
+Corsair,Corsair Vengeance DDR3-1600 CL9,N/A,64,DDR4-3200,1
+Corsair,Corsair Vengeance DDR3-1600 CL9,N/A,16,DDR4-2666,2
+Corsair,Corsair Vengeance DDR3-1600 CL9,39.99,16,DDR4-3000,2
+Corsair,Corsair Vengeance DDR3-1600 CL9,42.99,32,DDR4-3000,4
+Corsair,Corsair Vengeance DDR3-1600 CL9,89.99,32,DDR4-3000,1
+Corsair,Corsair Vengeance DDR3-1600 CL9,95.99,32,DDR4-3200,1
+Corsair,Corsair Vengeance DDR3-1600 CL9 Low Profile,49.99,64,DDR4-3200,1
+Corsair,Corsair Vengeance LED blue DDR4-3000 CL15,131.99,32,DDR4-3200,4
+Corsair,Corsair Vengeance LED blue DDR4-3000 CL15,187.74,32,DDR4-3400,4
+Corsair,Corsair Vengeance LED blue DDR4-3000 CL15,249.99,32,DDR4-3466,4
+Corsair,Corsair Vengeance LED blue DDR4-3200 CL16,339.47,16,DDR4-2666,2
+Corsair,Corsair Vengeance LED blue DDR4-3200 CL16,342.00,16,DDR4-3000,2
+Corsair,Corsair Vengeance LED blue DDR4-3200 CL16,632.53,32,DDR4-3000,1
+Corsair,Corsair Vengeance LED red DDR4-2666 CL16,141.99,32,DDR4-3000,4
+Corsair,Corsair Vengeance LED red DDR4-3000 CL15,187.99,64,DDR4-3200,1
+Corsair,Corsair Vengeance LED red DDR4-3000 CL15,289.99,32,DDR4-3400,4
+Corsair,Corsair Vengeance LED red DDR4-3000 CL15,291.75,32,DDR4-3466,4
+Corsair,Corsair Vengeance LED red DDR4-3200 CL16,116.63,8,DDR3-1600,1
+Corsair,Corsair Vengeance LED red DDR4-3200 CL16,876.53,4,DDR3-1600,1
+Corsair,Corsair Vengeance LED red DDR4-3200 CL16,2999.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance LED red DDR4-3400 CL16,1336.80,32,DDR4-2133,4
+Corsair,Corsair Vengeance LED red DDR4-3466 CL16,N/A,32,DDR4-2800,4
+Corsair,Corsair Vengeance LED Series,114.83,32,DDR4-3200,4
+Corsair,Corsair Vengeance LED white DDR4-3000 CL15,109.95,16,DDR4-2133,4
+Corsair,Corsair Vengeance LED white DDR4-3000 CL15,117.10,16,DDR4-2400,4
+Corsair,Corsair Vengeance LED white DDR4-3000 CL15,117.10,64,DDR4-2800,1
+Corsair,Corsair Vengeance LED white DDR4-3200 CL16,945.99,16,DDR4-2800,4
+Corsair,Corsair Vengeance LED white DDR4-3400 CL16,N/A,16,DDR4-2800,4
+Corsair,Corsair Vengeance LED white DDR4-3466 CL16,114.21,16,DDR4-2800,4
+Corsair,Corsair Vengeance LP DDR3-1600 CL10,39.98,8,DDR4-2800,2
+Corsair,Corsair Vengeance LP DDR3-1600 CL9,24.99,8,DDR4-2800,2
+Corsair,Corsair Vengeance LPX,134.95,32,DDR4-2800,1
+Corsair,Corsair Vengeance LPX Black DDR4-2133 CL13,177.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance LPX Black DDR4-2800 CL14,N/A,32,DDR4-3600,4
+Corsair,Corsair Vengeance LPX Black DDR4-3200 CL16,94.99,8,DDR4-3600,2
+Corsair,Corsair Vengeance LPX blue DDR4-2133 CL13,136.87,16,DDR4-3733,2
+Corsair,Corsair Vengeance LPX Blue DDR4-2400 CL14,98.10,32,DDR4-3733,4
+Corsair,Corsair Vengeance LPX DDR4-2800 CL14 black,N/A,16,DDR4-3866,4
+Corsair,Corsair Vengeance LPX DDR4-2800 CL16 - blue,N/A,8,DDR4-3866,2
+Corsair,Corsair Vengeance LPX DDR4-2800 CL16 - red,110.75,16,DDR4-4000,2
+Corsair,Corsair Vengeance LPX DDR4-2800 CL16 - black,124.29,8,DDR4-4000,2
+Corsair,Corsair Vengeance LPX DDR4-2800 red CL16,N/A,8,DDR4-4133,2
+Corsair,Corsair Vengeance LPX DDR4-2800 black CL16,N/A,8,DDR4-4200,2
+Corsair,Corsair Vengeance LPX DDR4-2800 black CL16,278.92,8,DDR4-4266,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3600, CL 16 - 32 GB Quad Kit,526.99,64,DDR4-2133,1
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3600, CL 18 - 32 GB Quad Kit,N/A,8,DDR4-2133,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3600, CL 18 - 8 GB Dual Kit,N/A,32,DDR4-3200,1
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3733, CL 17 - 16 GB Dual Kit,256.99,8,DDR4-3200,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3733, CL 17 - 32 GB Quad Kit,511.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3866, CL 18 - 16 GB Quad Kit,532.79,16,DDR4-3600,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-3866, CL 18 - 8 GB Dual Kit,N/A,16,DDR4-3600,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-4000, CL 19 - 16 GB Dual Kit,N/A,32,DDR4-3200,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-4000, CL 19 - 8 GB Dual Kit,N/A,16,DDR4-2400,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-4133, CL 19 - 8 GB Dual Kit,N/A,64,DDR4-3200,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-4200, CL 19 - 8 GB Dual Kit,N/A,64,DDR4-3000,2
+Corsair,Corsair Vengeance LPX red + AF, DDR4-4266, CL 19 - 8 GB Dual Kit,N/A,64,DDR4-3200,4
+Corsair,Corsair Vengeance LPX red DDR4-2133 CL13,165.42,128,DDR4-2666,4
+Corsair,Corsair Vengeance LPX red DDR4-2133MHz CL13,41.99,64,DDR4-3200,4
+Corsair,Corsair Vengeance LPX red DDR4-3200 CL16,149.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance LPX red DDR4-3200MHz CL16,109.99,16,DDR4-3600,4
+Corsair,Corsair Vengeance LPX black,39.99,8,DDR4-3600,2
+Corsair,Corsair Vengeance LPX black,39.99,16,DDR4-3733,4
+Corsair,Corsair Vengeance LPX black,44.99,8,DDR4-3733,2
+Corsair,Corsair Vengeance LPX black,67.99,8,DDR4-4000,2
+Corsair,Corsair Vengeance LPX black,83.70,8,DDR4-4133,2
+Corsair,Corsair Vengeance LPX black,129.99,8,DDR4-4200,2
+Corsair,Corsair Vengeance LPX black,124.99,64,DDR4-2133,1
+Corsair,Corsair Vengeance LPX black,144.99,8,DDR4-2133,2
+Corsair,Corsair Vengeance LPX black,274.99,32,DDR4-2666,4
+Corsair,Corsair Vengeance LPX black,426.99,32,DDR4-3000,2
+Corsair,Corsair Vengeance LPX black + AF,235.99,8,DDR4-2400,2
+Corsair,Corsair Vengeance LPX black + AF, DDR4-3600, CL 18 - 16 GB Quad Kit,131.56,16,DDR4-2666,2
+Corsair,Corsair Vengeance LPX black + AF, DDR4-3600, CL 18 - 8 GB Dual Kit,136.99,32,DDR4-2666,4
+Corsair,Corsair Vengeance LPX black + AF, DDR4-3733, CL 17 - 16 GB Quad Kit,291.99,8,DDR4-2666,2
+Corsair,Corsair Vengeance LPX black + AF, DDR4-3733, CL 17 - 8 GB Dual Kit,N/A,16,DDR4-3000,2
+Corsair,Corsair Vengeance LPX black + AF, DDR4-4000, CL 19 - 8 GB Dual Kit,N/A,16,DDR4-3200,4
+Corsair,Corsair Vengeance LPX black + AF, DDR4-4133, CL 19 - 8 GB Dual Kit,N/A,16,DDR4-2666,1
+Corsair,Corsair Vengeance LPX black + AF, DDR4-4200, CL 19 - 8 GB Dual Kit,N/A,16,DDR4-3000,2
+Corsair,Corsair Vengeance LPX black DDR4-2133 CL13,405.99,32,DDR4-2666,2
+Corsair,Corsair Vengeance LPX black DDR4-2133MHz CL13,47.83,64,DDR4-2666,2
+Corsair,Corsair Vengeance LPX Series blue DDR4-2666,141.99,16,DDR4-2133,2
+Corsair,Corsair Vengeance LPX Series red,139.99,32,DDR4-2133,2
+Corsair,Corsair Vengeance LPX Series red DDR4-2400,46.99,8,DDR4-2400,2
+Corsair,Corsair Vengeance LPX Series red DDR4-2666,58.99,16,DDR4-2400,2
+Corsair,Corsair Vengeance LPX Series red DDR4-2666,142.99,16,DDR4-2400,4
+Corsair,Corsair Vengeance LPX Series red DDR4-2666, CL16 - 8 GB Kit,34.99,128,DDR4-2400,8
+Corsair,Corsair Vengeance LPX Series red DDR4-3000,95.99,8,DDR4-2666,2
+Corsair,Corsair Vengeance LPX Series red DDR4-3200, CL16 - 16 GB Kit,N/A,16,DDR4-2666,2
+Corsair,Corsair Vengeance LPX Series black,34.99,16,DDR4-2666,4
+Corsair,Corsair Vengeance LPX Series black,44.99,32,DDR4-2666,4
+Corsair,Corsair Vengeance LPX Series black,69.99,8,DDR4-3000,2
+Corsair,Corsair Vengeance LPX Series black,124.99,32,DDR4-3000,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2133,44.99,16,DDR4-3200,4
+Corsair,Corsair Vengeance LPX Series black DDR4-2133,69.99,16,DDR4-2666,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2400,34.99,16,DDR4-3000,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2400,39.99,16,DDR4-3000,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2400,94.99,32,DDR4-3000,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2400,499.99,32,DDR4-2666,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2666,34.99,64,DDR4-2666,4
+Corsair,Corsair Vengeance LPX Series black DDR4-2666,39.99,16,DDR3-1600,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2666,79.99,8,DDR3-2400,2
+Corsair,Corsair Vengeance LPX Series black DDR4-2666,94.99,16,DDR3-2133,2
+Corsair,Corsair Vengeance LPX Series black DDR4-3000,55.99,16,DDR3-2400,2
+Corsair,Corsair Vengeance LPX Series black DDR4-3000,129.99,16,DDR3-1600,2
+Corsair,Corsair Vengeance LPX Series black DDR4-3200, CL16 - 16 GB Kit,199.99,8,DDR3-2400,2
+Corsair,Corsair Vengeance LPX Series white,44.99,16,DDR3-1600,2
+Corsair,Corsair Vengeance LPX Series white,44.99,32,DDR5-6400,2
+Corsair,Corsair Vengeance LPX Series white,66.99,48,DDR5-5600,2
+Corsair,Corsair Vengeance LPX Series white,139.99,48,DDR5-5200,2
+Corsair,Corsair Vengeance LPX Series white,161.50,32,DDR5-6800,2
+Corsair,Corsair Vengeance LPX Series white,278.52,48,DDR5-7000,2
+Corsair,Corsair Vengeance Pro Blue DDR3-1600 CL9,76.57,96,DDR5-5600,2
+Corsair,Corsair Vengeance Pro DDR3-2400 CL11,N/A,64,DDR5-6200,4
+Corsair,Corsair Vengeance Pro Gold DDR3-2133 CL11,N/A,32,DDR5-7000,2
+Corsair,Corsair Vengeance Pro Gold DDR3-2400 CL11,146.35,32,DDR5-7200,2
+Corsair,Corsair Vengeance Pro Red DDR3-1600 CL9,89.99,64,DDR5-6000,2
+Corsair,Corsair Vengeance Pro red DDR3-2400 CL11,N/A,96,DDR5-5200,2
+Corsair,Corsair Vengeance Pro Silver DDR3-1600 CL9,84.99,64,DDR5-6400,4
+Corsair,Corsair Vengeance RGB,109.99,64,DDR5-6600,4
+Corsair,Corsair Vengeance RGB,159.99,192,DDR5-5200,4
+Corsair,Corsair Vengeance RGB,167.12,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB,168.32,32,DDR4-3000,2
+Corsair,Corsair Vengeance RGB,179.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB,254.99,64,DDR4-3600,2
+Corsair,Corsair Vengeance RGB,259.99,64,DDR4-3200,2
+Corsair,Corsair Vengeance RGB,155.99,64,DDR4-3000,2
+Corsair,Corsair Vengeance RGB,134.99,16,DDR4-2666,2
+Corsair,Corsair Vengeance RGB,209.99,16,DDR4-2933,2
+Corsair,Corsair Vengeance RGB,311.20,16,DDR4-3000,2
+Corsair,Corsair Vengeance RGB,322.84,32,DDR4-2666,2
+Corsair,Corsair Vengeance RGB,368.25,32,DDR4-2933,2
+Corsair,Corsair Vengeance RGB,564.99,16,DDR4-4000,2
+Corsair,Corsair Vengeance RGB Pro black,69.99,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro black,79.99,32,DDR4-3000,2
+Corsair,Corsair Vengeance RGB Pro black,79.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance RGB Pro black,139.99,32,DDR4-2933,4
+Corsair,Corsair Vengeance RGB Pro black,129.99,32,DDR4-2666,4
+Corsair,Corsair Vengeance RGB Pro black,354.00,32,DDR4-3000,4
+Corsair,Corsair Vengeance RGB Pro Series black,59.99,64,DDR4-2933,4
+Corsair,Corsair Vengeance RGB Pro Series black,59.99,64,DDR4-3000,4
+Corsair,Corsair Vengeance RGB Pro Series black,59.99,64,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro Series black,89.99,64,DDR4-2666,4
+Corsair,Corsair Vengeance RGB Pro Series black,89.99,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro Series black,109.99,64,DDR4-3466,4
+Corsair,Corsair Vengeance RGB Pro Series black,109.99,64,DDR4-3600,4
+Corsair,Corsair Vengeance RGB Pro Series black,157.99,32,DDR4-3733,4
+Corsair,Corsair Vengeance RGB Pro Series black,139.99,32,DDR4-4266,4
+Corsair,Corsair Vengeance RGB Pro Series black,161.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series black,174.99,64,DDR4-3000,8
+Corsair,Corsair Vengeance RGB Pro Series black,215.99,64,DDR4-3466,4
+Corsair,Corsair Vengeance RGB Pro Series black,264.99,64,DDR4-3000,4
+Corsair,Corsair Vengeance RGB Pro Series black,274.99,16,DDR4-2666,2
+Corsair,Corsair Vengeance RGB Pro Series black,287.99,16,DDR4-3000,2
+Corsair,Corsair Vengeance RGB Pro Series black,369.99,32,DDR4-2666,2
+Corsair,Corsair Vengeance RGB Pro Series black,384.69,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro Series black,455.99,32,DDR4-3000,2
+Corsair,Corsair Vengeance RGB Pro Series black,489.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance RGB Pro Series black,535.89,32,DDR4-2666,4
+Corsair,Corsair Vengeance RGB Pro Series black,642.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series black,1045.00,32,DDR4-3000,4
+Corsair,Corsair Vengeance RGB Pro Series white,N/A,64,DDR4-2666,4
+Corsair,Corsair Vengeance RGB Pro Series white,N/A,64,DDR4-2666,4
+Corsair,Corsair Vengeance RGB Pro Series white,N/A,64,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro Series white,64.99,64,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro Series white,59.99,64,DDR4-3600,4
+Corsair,Corsair Vengeance RGB Pro Series white,94.99,64,DDR4-3600,8
+Corsair,Corsair Vengeance RGB Pro Series white,119.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series white,139.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series white,139.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro Series white,160.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro Series white,171.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series white,223.99,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro Series white,253.53,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro Series white,254.99,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro Series white,287.99,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro Series white,359.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance RGB Pro Series white,494.99,128,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro Series white,672.99,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro SL,54.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro SL,56.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro SL,54.99,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro SL,64.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro SL,74.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro SL,82.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro SL,89.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro SL,84.99,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro SL,114.99,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro SL,124.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance RGB Pro SL,292.88,64,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro SL DDR4-3200,89.99,64,DDR4-3600,2
+Corsair,Corsair Vengeance RGB Pro SL für AMD Ryzen,57.99,64,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro SL für AMD Ryzen,49.99,128,DDR4-3200,4
+Corsair,Corsair Vengeance RGB Pro SL für AMD Ryzen,94.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB Pro SL für AMD Ryzen,79.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB RS,59.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB RS,66.99,16,DDR4-3200,2
+Corsair,Corsair Vengeance RGB RS,83.99,16,DDR4-3600,2
+Corsair,Corsair Vengeance RGB RS,94.99,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB RS,158.37,32,DDR4-3200,2
+Corsair,Corsair Vengeance RGB RS,158.99,16,DDR4-4000,2
+Corsair,Corsair Vengeance RGB RS,174.25,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB RS,178.51,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB RS,277.81,32,DDR4-3600,2
+Corsair,Corsair Vengeance RGB RS,598.49,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB RT,64.74,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB RT,64.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance RGB RT,64.99,32,DDR4-3600,4
+Corsair,Corsair Vengeance RGB RT,74.94,64,DDR4-3200,2
+Corsair,Corsair Vengeance RGB RT,67.99,32,DDR4-4000,2
+Corsair,Corsair Vengeance RGB RT,89.99,32,DDR4-4600,2
+Corsair,Corsair Vengeance RGB RT,89.99,64,DDR4-3200,2
+Corsair,Corsair Vengeance RGB RT,99.99,64,DDR4-3600,2
+Corsair,Corsair Vengeance RGB RT,89.99,64,DDR4-3600,4
+Corsair,Corsair Vengeance RGB RT,94.99,64,DDR4-3200,4
+Corsair,Corsair Vengeance RGB RT,99.99,64,DDR4-3200,4
+Corsair,Corsair Vengeance RGB RT,139.99,128,DDR4-3600,4
+Corsair,Corsair Vengeance RGB RT,139.99,128,DDR4-3200,4
+Corsair,Corsair Vengeance RGB RT,129.99,64,DDR4-3333,4
+Corsair,Corsair Vengeance RGB RT,134.99,32,DDR4-3200,4
+Corsair,Corsair Vengeance RGB RT,149.89,4,DDR3-1600,2
+Corsair,Corsair Vengeance RGB RT,124.99,8,DDR3-1333,1
+Corsair,Corsair Vengeance RGB RT,144.99,4,DDR3-1333,2
+Corsair,Corsair Vengeance RGB RT,154.99,8,DDR3-1333,2
+Corsair,Corsair Vengeance RGB RT,160.51,4,DDR3-1333,1
+Corsair,Corsair Vengeance RGB RT,199.99,8,DDR3-1600,2
+Corsair,Corsair Vengeance RGB RT,204.99,12,DDR3-2000,3
+Corsair,Corsair Vengeance RGB RT,239.99,16,DDR3-1600,2
+Corsair,Corsair Vengeance RGB RT,378.18,16,DDR3-1600,2
+Corsair,Corsair Vengeance RGB RT,459.99,16,DDR3-1866,2
+Corsair,Corsair Vengeance RGB Series black,N/A,16,DDR3-2133,2
+Corsair,Corsair Vengeance RGB Series white,N/A,16,DDR3-1866,2
+Corsair,Corsair XMS DDR3-1600 CL9 für Core i5/i7,33.99,16,DDR3-2133,4
+Corsair,Corsair XMS3 DDR3-1333 CL9,35.95,16,DDR3-1600,4
+Corsair,Corsair XMS3 DDR3-1333 CL9,42.99,16,DDR3-2133,4
+Corsair,Corsair XMS3 DDR3-1333 CL9,52.63,16,DDR3-1866,4
+Corsair,Corsair XMS3 DDR3-1333 CL9 für AMD/Core i3/i5/i7,24.09,16,DDR3-1866,4
+Corsair,Corsair XMS3 DDR3-1600 CL9,45.95,16,DDR3-1600,4
+Corsair,Corsair — 12GB Triple Channel DDR3 Memory Kit,88.77,24,DDR3-1600,6
+Corsair,Corsair — 16GB Dual Channel DDR3 Memory Kit,69.99,32,DDR3-1600,4
+Corsair,Corsair — 16GB Dual Channel DDR3 Memory Kit,70.65,4,DDR3-1600,2
+Corsair,Corsair — 16GB Dual Channel DDR3 Memory Kit,149.97,4,DDR3-2000,2
+Corsair,Corsair — 16GB Dual Channel DDR3 Memory Kit,156.30,4,DDR3-1600,1
+Corsair,Corsair — 16GB Dual Channel DDR3 Memory Kit,5854.62,64,DDR3-1866,8
+Corsair,Corsair — 16GB Dual/Quad Channel DDR3 Memory Kit,N/A,64,DDR3-1600,8
+Corsair,Corsair — 16GB Dual/Quad Channel DDR3 Memory Kit,90.21,8,DDR3-2133,2
+Corsair,Corsair — 16GB Dual/Quad Channel DDR3 Memory Kit,116.09,8,DDR3-1866,1
+Corsair,Corsair — 16GB Dual/Quad Channel DDR3 Memory Kit,117.71,8,DDR3-1600,1
+Corsair,Corsair — 16GB Dual/Quad Channel DDR3 Memory Kit,329.80,8,DDR3-1600,2
+Corsair,Corsair — 16GB Dual/Quad Channel DDR3 Memory Kit,373.14,8,DDR3-1600,2
+Corsair,Corsair — 24GB Triple Channel DDR3 Memory Kit,139.99,8,DDR3-1866,2
+Corsair,Corsair — 32GB Dual/Quad Channel DDR3 Memory Kit,79.99,8,DDR3-1600,2
+Corsair,Corsair — 4GB Dual Channel DDR3 Memory Kit,32.30,8,DDR3-1600,2
+Corsair,Corsair — 4GB Dual Channel DDR3 Memory Kit,115.55,8,DDR3-1600,2
+Corsair,Corsair — 4GB Single Module DDR3 Memory Kit,24.99,8,DDR4-3000,1
+Corsair,Corsair — 64GB Quad Channel DDR3 Memory Kit,N/A,4,DDR4-3200,1
+Corsair,Corsair — 64GB Quad Channel DDR3 Memory Kit,279.99,8,DDR4-4000,1
+Corsair,Corsair — 8GB 1.5V Dual Channel DDR3 Memory Kit,89.61,16,DDR4-4000,2
+Corsair,Corsair — 8GB DDR3 Memory Kit,N/A,32,DDR4-3600,4
+Corsair,Corsair — 8GB DDR3 Memory Kit,67.27,16,DDR4-2666,2
+Corsair,Corsair — 8GB Dual Channel DDR3 Memory Kit,44.66,8,DDR4-2666,2
+Corsair,Corsair — 8GB Dual Channel DDR3 Memory Kit,51.45,8,DDR4-3000,2
+Corsair,Corsair — 8GB Dual Channel DDR3 Memory Kit,80.26,8,DDR4-3200,2
+Corsair,Corsair — 8GB Dual Channel DDR3 Memory Kit,117.71,32,DDR4-4400,2
+Corsair,Corsair — 8GB Dual Channel DDR3 Memory Kit,260.00,16,DDR4-3000,2
+Ballistix,Crucial Ballistix Elite DDR3-1600 CL8,N/A,64,DDR4-2666,4
+Ballistix,Crucial Ballistix Elite DDR4-3000 CL15,68.99,32,DDR4-3000,4
+Ballistix,Crucial Ballistix Elite DDR4-3200 CL16,54.50,16,DDR4-2666,2
+Crucial,Crucial Ballistix Elite series,137.99,16,DDR4-3000,1
+Crucial,Crucial Ballistix Elite series,265.22,8,DDR4-3000,1
+Crucial,Crucial Ballistix Elite series,399.95,8,DDR4-2666,1
+Crucial,Crucial Ballistix Elite Series DDR4-2666, CL16 - 16 GB Kit,N/A,16,DDR4-2666,1
+Crucial,Crucial Ballistix Elite Series DDR4-2666, CL16 - 8 GB Kit,74.99,16,DDR4-2666,2
+Crucial,Crucial Ballistix Elite Series, DDR4-3000, CL15 - 8 GB Kit,72.99,32,DDR4-2666,2
+Crucial,Crucial Ballistix Elite Series, DDR4-3200, CL16 - 8 GB Kit,N/A,32,DDR4-2666,4
+Crucial,Crucial Ballistix Max RGB black,N/A,32,DDR4-3200,4
+Crucial,Crucial Ballistix Sport AT,N/A,8,DDR4-3200,1
+Crucial,Crucial Ballistix Sport AT,N/A,16,DDR4-3200,1
+Crucial,Crucial Ballistix Sport AT,N/A,64,DDR4-3200,4
+Crucial,Crucial Ballistix Sport AT,N/A,8,DDR4-2666,2
+Crucial,Crucial Ballistix Sport AT,N/A,16,DDR4-3000,2
+Crucial,Crucial Ballistix Sport AT,N/A,32,DDR4-3000,2
+Crucial,Crucial Ballistix Sport AT,32.99,16,DDR4-3000,1
+Crucial,Crucial Ballistix Sport AT,63.99,64,DDR4-3200,4
+Crucial,Crucial Ballistix Sport AT,65.99,64,DDR4-3000,4
+Crucial,Crucial Ballistix Sport AT,131.99,16,DDR4-3200,1
+Crucial,Crucial Ballistix Sport AT,131.99,32,DDR4-3000,4
+Crucial,Crucial Ballistix Sport AT series,N/A,32,DDR4-3000,2
+Crucial,Crucial Ballistix Sport AT series,N/A,8,DDR4-3000,1
+Crucial,Crucial Ballistix Sport AT series,77.99,8,DDR4-3200,1
+Crucial,Crucial Ballistix Sport AT series,303.99,4,DDR4-2400,1
+Ballistix,Crucial Ballistix Sport LT grey DDR4-2666 CL16,N/A,8,DDR4-3000,1
+Crucial,Crucial Ballistix Sport LT Series grey,N/A,16,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series grey,N/A,16,DDR4-3000,1
+Crucial,Crucial Ballistix Sport LT Series grey,N/A,16,DDR4-3000,2
+Crucial,Crucial Ballistix Sport LT series grey,N/A,32,DDR4-3000,2
+Crucial,Crucial Ballistix Sport LT series grey,N/A,32,DDR4-3200,4
+Crucial,Crucial Ballistix Sport LT series grey,N/A,8,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series grey,N/A,8,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT series grey,N/A,16,DDR4-2400,4
+Crucial,Crucial Ballistix Sport LT Series grey,N/A,16,DDR4-2400,4
+Crucial,Crucial Ballistix Sport LT series grey,N/A,16,DDR4-2666,2
+Crucial,Crucial Ballistix Sport LT Series grey,18.99,8,DDR4-2666,1
+Crucial,Crucial Ballistix Sport LT series grey,37.99,16,DDR4-2666,2
+Crucial,Crucial Ballistix Sport LT Series grey,65.99,64,DDR4-3200,4
+Crucial,Crucial Ballistix Sport LT series grey,73.99,8,DDR4-3200,1
+Crucial,Crucial Ballistix Sport LT series grey,74.99,32,DDR4-3200,4
+Crucial,Crucial Ballistix Sport LT series grey,145.99,16,DDR4-3000,2
+Crucial,Crucial Ballistix Sport LT series grey,156.99,8,DDR4-3000,1
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400,34.99,4,DDR4-2666,1
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400,36.99,4,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400,76.99,8,DDR4-2666,1
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2400, CL16 - 16 GB Kit,N/A,8,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2666,N/A,16,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2666,N/A,16,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series grey DDR4-2666,69.99,16,DDR4-2666,1
+Crucial,Crucial Ballistix Sport LT series red,N/A,16,DDR4-2400,4
+Crucial,Crucial Ballistix Sport LT series red,N/A,16,DDR4-3000,1
+Crucial,Crucial Ballistix Sport LT series red,N/A,16,DDR4-3200,1
+Crucial,Crucial Ballistix Sport LT series red,N/A,16,DDR4-2666,4
+Crucial,Crucial Ballistix Sport LT series red,N/A,32,DDR4-3000,4
+Crucial,Crucial Ballistix Sport LT Series red,18.94,32,DDR4-3000,2
+Crucial,Crucial Ballistix Sport LT Series red,19.99,64,DDR4-3000,4
+Crucial,Crucial Ballistix Sport LT Series red,32.99,16,DDR4-2400,4
+Crucial,Crucial Ballistix Sport LT Series red,38.72,8,DDR4-3200,1
+Crucial,Crucial Ballistix Sport LT Series red,63.99,4,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series red,63.99,8,DDR4-3000,1
+Crucial,Crucial Ballistix Sport LT Series red,65.99,16,DDR4-2400,1
+Crucial,Crucial Ballistix Sport LT Series red,68.99,16,DDR4-2666,1
+Crucial,Crucial Ballistix Sport LT series red,73.99,16,DDR4-3000,2
+Crucial,Crucial Ballistix Sport LT series red,74.99,16,DDR4-3000,1
+Crucial,Crucial Ballistix Sport LT Series red,76.99,16,DDR4-3200,1
+Crucial,Crucial Ballistix Sport LT series red,149.99,32,DDR4-3000,4
+Crucial,Crucial Ballistix Sport LT series red,154.99,32,DDR4-3000,2
+Crucial,Crucial Ballistix Sport LT series red,293.26,64,DDR4-3000,4
+Crucial,Crucial Ballistix Sport LT Series red, DDR4-2400, CL16 - 16 GB Kit,68.99,16,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT series white,N/A,8,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT Series white,18.99,32,DDR4-2400,2
+Crucial,Crucial Ballistix Sport LT series white,37.99,8,DDR4-2666,2
+Crucial,Crucial Ballistix Sport LT Series white,62.99,16,DDR4-2400,4
+Crucial,Crucial Ballistix Sport LT Series white,64.99,8,DDR3-1600,2
+Crucial,Crucial Ballistix Sport LT series white,74.99,16,DDR3-1600,2
+Crucial,Crucial Ballistix Sport LT series white,76.99,8,DDR3-1600,2
+Crucial,Crucial Ballistix Sport LT series white,77.99,16,DDR3-1600,4
+Crucial,Crucial Ballistix Sport LT series white,149.99,8,DDR3-2133,1
+Crucial,Crucial Ballistix Sport LT series white,154.99,64,DDR4-2666,4
+Crucial,Crucial Ballistix Sport LT series white,308.99,8,DDR4-3200,1
+Crucial,Crucial Ballistix Sport LT Series white DDR4-2400,N/A,32,DDR4-2666,4
+Crucial,Crucial Ballistix Sport LT Series white DDR4-2400,38.99,32,DDR4-2666,4
+Crucial,Crucial Ballistix Sport LT Series white DDR4-2400,129.95,8,DDR4-3000,2
+Ballistix,Crucial Ballistix Sport LT white DDR4-2666 CL16,38.99,8,DDR4-2133,2
+Crucial,Crucial Ballistix Sport Series DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-2133,4
+Ballistix,Crucial Ballistix Sport XT DDR3-1600 CL9,N/A,16,DDR4-2133,1
+Ballistix,Crucial Ballistix Tactical DDR3-1600 CL8,N/A,32,DDR4-2133,1
+Ballistix,Crucial Ballistix Tactical DDR3-1600 CL8,N/A,32,DDR4-2133,1
+Ballistix,Crucial Ballistix Tactical LP DDR3-1600 CL8,N/A,16,DDR4-2133,2
+Ballistix,Crucial Ballistix Tactical LP DDR3-2133 CL10,N/A,8,DDR4-2133,2
+Crucial,Crucial Ballistix Tactical Tracer RGB,N/A,8,DDR4-2133,1
+Crucial,Crucial Ballistix Tactical Tracer RGB,51.99,16,DDR4-2133,1
+Crucial,Crucial Ballistix Tactical Tracer RGB,172.99,16,DDR4-2133,2
+Crucial,Crucial Ballistix Tactical Tracer RGB,172.99,64,DDR4-2133,4
+Crucial,Crucial Ballistix Tactical, DDR4-3000, CL15 - 8 GB Kit,52.99,4,DDR4-2400,1
+Crucial,Crucial DDR4-2133 CL15,N/A,32,DDR4-2133,4
+Crucial,Crucial DDR4-2133 CL15,N/A,8,DDR4-3200,1
+Crucial,Crucial DDR4-2133 CL15,N/A,16,DDR4-3200,1
+Crucial,Crucial DDR4-2133 CL15,239.99,16,DDR4-2133,4
+Crucial,Crucial DDR4-2133 CL15 Reg. ECC,N/A,16,DDR4-2133,1
+Crucial,Crucial DDR4-2133 CL15 Reg. ECC,N/A,32,DDR4-2133,4
+Crucial,Crucial DDR4-2133 CL15 Reg. ECC,N/A,64,DDR4-2133,4
+Crucial,Crucial DDR4-2133 CL15 Reg. ECC,N/A,8,DDR4-2133,2
+Crucial,Crucial DDR4-2133 CL15 Reg. ECC,219.99,16,DDR4-2400,1
+Crucial,Crucial DDR4-2133 CL15 U,N/A,16,DDR4-2400,4
+Crucial,Crucial Value Series DDR4-2133,N/A,32,DDR4-2400,4
+Crucial,Crucial Value Series DDR4-2400,22.99,8,DDR4-2400,2
+Crucial,Crucial Value Series, DDR4-2133, CL15 - 32 GB Kit,N/A,16,DDR4-2800,2
+G.Skill,G.Skill Aegis,24.99,8,DDR4-2800,1
+G.Skill,G.Skill Aegis,89.99,64,DDR4-2400,4
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 16GB,N/A,16,DDR4-3000,1
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 16GB,34.99,8,DDR4-2400,1
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 32GB,N/A,16,DDR4-3200,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 64GB,183.93,32,DDR4-3000,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2133 8GB,42.99,32,DDR4-3200,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 16GB,84.99,16,DDR4-2400,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 16GB,170.00,16,DDR4-2133,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 32GB,104.99,32,DDR4-2133,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2400 8GB,19.99,32,DDR4-2133,2
+G.Skill,G.Skill Aegis DDR4 DDR4-2800 16GB,N/A,32,DDR4-2133,4
+G.Skill,G.Skill Aegis DDR4 DDR4-2800 8GB,39.99,32,DDR4-2133,4
+G.Skill,G.Skill AEGIS Series,N/A,16,DDR4-2400,2
+G.Skill,G.Skill AEGIS Series,N/A,16,DDR4-2400,2
+G.Skill,G.Skill AEGIS Series,38.99,16,DDR4-2400,2
+G.Skill,G.Skill Aegis Series,41.99,32,DDR4-2400,4
+G.Skill,G.Skill AEGIS Series,63.99,32,DDR4-2400,2
+G.Skill,G.Skill Aegis Series,63.99,32,DDR4-2400,2
+G.Skill,G.Skill AEGIS Series,83.99,64,DDR4-2400,4
+G.Skill,G.Skill Flare X (for AMD) DDR4-2133 16GB,118.34,64,DDR4-2400,4
+G.Skill,G.Skill Flare X (for AMD) DDR4-2133 32GB,N/A,32,DDR4-2400,4
+G.Skill,G.Skill Flare X (for AMD) DDR4-2133 32GB,115.99,32,DDR4-3200,4
+G.Skill,G.Skill Flare X (for AMD) DDR4-2133 32GB,139.99,16,DDR4-2400,2
+G.Skill,G.Skill Flare X (for AMD) DDR4-2133 32GB,451.00,32,DDR4-2400,4
+G.Skill,G.Skill Flare X (for AMD) DDR4-2400 16GB,54.99,64,DDR4-2400,4
+G.Skill,G.Skill Flare X (for AMD) DDR4-2400 16GB,69.99,32,DDR4-2400,2
+G.Skill,G.Skill Flare X (for AMD) DDR4-2400 16GB,72.99,64,DDR4-2400,4
+G.Skill,G.Skill Flare X (for AMD) DDR4-2400 32GB,N/A,32,DDR4-2400,2
+G.Skill,G.Skill Flare X (for AMD) DDR4-2400 32GB,159.99,32,DDR4-2400,4
+G.Skill,G.Skill Flare X Series,104.99,32,DDR4-2133,4
+G.Skill,G.Skill Flare X Series,124.99,16,DDR4-2400,2
+G.Skill,G.Skill Flare X Series,124.99,32,DDR4-2400,4
+G.Skill,G.Skill Flare X Series,124.99,32,DDR4-2400,2
+G.Skill,G.Skill Flare X Series,284.99,64,DDR4-2400,4
+G.Skill,G.Skill Flare X Series red,N/A,16,DDR4-2400,2
+G.Skill,G.Skill Flare X Series red, DDR4-2400 für Ryzen, CL 15 - 32 GB Quad-Kit,N/A,64,DDR4-2400,4
+G.Skill,G.Skill Flare X Series red, DDR4-2400 für Ryzen, CL 15 - 64 GB Quad-Kit,N/A,32,DDR4-2400,2
+G.Skill,G.Skill Flare X Series red, DDR4-2400 für Ryzen, CL 16 - 32 GB Dual-Kit,134.99,32,DDR4-2400,4
+G.Skill,G.Skill Flare X Series red, DDR4-2400 für Ryzen, CL 16 - 64 GB Quad-Kit,N/A,4,DDR3-1600,2
+G.Skill,G.Skill Flare X Series black,N/A,16,DDR4-3000,2
+G.Skill,G.Skill Flare X Series black,N/A,16,DDR4-2133,4
+G.Skill,G.Skill FORTIS (for AMD) DDR4-2133 32GB,164.99,16,DDR4-2133,2
+G.Skill,G.Skill FORTIS (for AMD) DDR4-2400 16GB,69.99,32,DDR4-2133,4
+G.Skill,G.Skill FORTIS (for AMD) DDR4-2400 32GB,N/A,32,DDR4-2133,4
+G.Skill,G.Skill FORTIS (for AMD) DDR4-2400 32GB,124.99,64,DDR4-2133,8
+G.Skill,G.Skill FORTIS (for AMD) DDR4-2400 64GB,269.99,64,DDR4-2133,8
+G.Skill,G.Skill Fortis Series,54.99,8,DDR4-2133,2
+G.Skill,G.Skill Fortis Series,329.99,16,DDR4-2133,4
+G.Skill,G.Skill Fortis Series black, DDR4-2400 für Ryzen, CL 15 - 32 GB Dual-Kit,154.99,64,DDR4-2133,8
+G.Skill,G.Skill Fortis Series black, DDR4-2400 für Ryzen, CL 16 - 32 GB Quad-Kit,134.99,32,DDR4-2133,4
+G. Skill,G.Skill NQ-Red DDR3-1600 CL9,N/A,64,DDR4-2133,8
+G. Skill,G.Skill Ripjaws 4 blue DDR4-3000 CL15,N/A,32,DDR4-2133,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2133 16GB,N/A,16,DDR4-2133,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2133 16GB,123.00,8,DDR4-2133,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2133 32GB,169.99,128,DDR4-2400,8
+G.Skill,G.Skill Ripjaws 4 DDR4-2133 32GB,175.05,16,DDR4-2400,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2133 64GB,N/A,16,DDR4-2400,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2133 64GB,1181.97,16,DDR4-2400,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2133 8GB,147.62,16,DDR4-2400,4
+G. Skill,G.Skill Ripjaws 4 DDR4-2133 CL15,N/A,16,DDR4-2400,2
+G. Skill,G.Skill Ripjaws 4 DDR4-2133 CL15,N/A,32,DDR4-2400,4
+G. Skill,G.Skill Ripjaws 4 DDR4-2133 CL15,N/A,32,DDR4-2400,4
+G. Skill,G.Skill Ripjaws 4 DDR4-2133 CL15,N/A,32,DDR4-2400,4
+G. Skill,G.Skill Ripjaws 4 DDR4-2133 CL15,N/A,64,DDR4-2400,8
+G. Skill,G.Skill Ripjaws 4 DDR4-2133 CL15,N/A,8,DDR4-2400,2
+G. Skill,G.Skill Ripjaws 4 DDR4-2133 CL15,N/A,16,DDR4-2666,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 128GB,5002.53,16,DDR4-2666,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 16GB,N/A,16,DDR4-2666,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 16GB,N/A,32,DDR4-2666,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 16GB,N/A,32,DDR4-2666,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 16GB,69.99,32,DDR4-2666,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 16GB,73.53,64,DDR4-2666,8
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 32GB,129.99,8,DDR4-2666,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 32GB,185.67,128,DDR4-2800,8
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 32GB,318.00,16,DDR4-2800,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 64GB,1289.97,16,DDR4-2800,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2400 8GB,34.99,32,DDR4-2800,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 16GB,104.99,32,DDR4-2800,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 16GB,115.99,64,DDR4-2800,8
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 16GB,171.00,8,DDR4-2800,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 32GB,144.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 32GB,189.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 32GB,1367.97,16,DDR4-3000,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 64GB,2186.97,16,DDR4-3000,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2666 8GB,46.57,32,DDR4-3000,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2800 128GB,N/A,32,DDR4-3000,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2800 16GB,64.99,32,DDR4-3000,8
+G.Skill,G.Skill Ripjaws 4 DDR4-2800 16GB,123.06,8,DDR4-3000,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2800 32GB,N/A,8,DDR4-3000,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2800 32GB,117.38,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws 4 DDR4-2800 64GB,1589.97,16,DDR4-3000,4
+G.Skill,G.Skill Ripjaws 4 DDR4-2800 8GB,53.99,16,DDR4-3000,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 16GB,66.99,8,DDR4-3200,2
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 16GB,99.99,8,DDR4-3200,2
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 16GB,194.90,16,DDR4-3300,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 16GB,851.97,16,DDR4-3300,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 32GB,N/A,16,DDR4-3333,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 32GB,168.54,16,DDR4-3400,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 32GB,391.18,16,DDR4-3200,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 8GB,N/A,8,DDR3-1066,2
+G.Skill,G.Skill Ripjaws 4 DDR4-3000 8GB,N/A,8,DDR3-1600,2
+G. Skill,G.Skill Ripjaws 4 DDR4-3000 CL15,N/A,16,DDR4-3600,2
+G. Skill,G.Skill Ripjaws 4 DDR4-3000 CL15,N/A,32,DDR4-3600,2
+G. Skill,G.Skill Ripjaws 4 DDR4-3000 CL15,230.42,64,DDR4-3600,2
+G.Skill,G.Skill Ripjaws 4 DDR4-3200 8GB,N/A,32,DDR4-3600,2
+G.Skill,G.Skill Ripjaws 4 DDR4-3200 8GB,N/A,128,DDR4-3600,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3300 16GB,N/A,128,DDR4-3600,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3300 16GB,557.97,64,DDR4-3200,2
+G.Skill,G.Skill Ripjaws 4 DDR4-3333 16GB,N/A,64,DDR4-3600,4
+G.Skill,G.Skill Ripjaws 4 DDR4-3400 16GB,284.44,128,DDR4-3200,4
+G.Skill,G.Skill RipJaws 4 Series, DDR4-3200, CL16 - 16 GB Kit,N/A,32,DDR4-2133,2
+G. Skill,G.Skill Ripjaws DDR3-1066 CL7,N/A,32,DDR4-2133,4
+G. Skill,G.Skill Ripjaws DDR3-1600 CL9,N/A,16,DDR4-2400,2
+G.Skill,G.Skill RipJaws V,42.99,16,DDR4-2400,2
+G.Skill,G.Skill RipJaws V,77.99,16,DDR4-2400,2
+G.Skill,G.Skill RipJaws V,142.99,16,DDR4-2400,4
+G.Skill,G.Skill Ripjaws V,194.99,32,DDR4-2400,2
+G.Skill,G.Skill RipJaws V,357.77,32,DDR4-2400,4
+G.Skill,G.Skill RipJaws V,379.99,8,DDR4-2400,2
+G.Skill,G.Skill Ripjaws V,429.99,16,DDR4-2666,2
+G.Skill,G.Skill Ripjaws V,489.99,16,DDR4-2666,2
+G.Skill,G.Skill Ripjaws V,799.99,16,DDR4-2666,2
+G.Skill,G.Skill Ripjaws V DDR4-2133 32GB,140.00,16,DDR4-2666,4
+G.Skill,G.Skill Ripjaws V DDR4-2133 32GB,237.00,32,DDR4-2666,4
+G.Skill,G.Skill Ripjaws V DDR4-2400 16GB,43.99,32,DDR4-2666,2
+G.Skill,G.Skill Ripjaws V DDR4-2400 16GB,43.99,64,DDR4-2666,4
+G.Skill,G.Skill Ripjaws V DDR4-2400 16GB,43.99,8,DDR4-2666,2
+G.Skill,G.Skill Ripjaws V DDR4-2400 16GB,89.99,16,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2400 32GB,72.99,16,DDR4-2800,4
+G.Skill,G.Skill Ripjaws V DDR4-2400 32GB,169.99,16,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2400 8GB,29.99,16,DDR4-2800,1
+G.Skill,G.Skill Ripjaws V DDR4-2666 16GB,46.99,16,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2666 16GB,89.99,16,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2666 16GB,89.99,16,DDR4-2800,4
+G.Skill,G.Skill Ripjaws V DDR4-2666 16GB,117.38,32,DDR4-2800,4
+G.Skill,G.Skill Ripjaws V DDR4-2666 32GB,N/A,32,DDR4-2800,4
+G.Skill,G.Skill Ripjaws V DDR4-2666 32GB,77.99,32,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2666 64GB,339.99,32,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2666 8GB,51.99,64,DDR4-2800,4
+G.Skill,G.Skill Ripjaws V DDR4-2800 16GB,N/A,64,DDR4-2800,4
+G.Skill,G.Skill Ripjaws V DDR4-2800 16GB,N/A,8,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2800 16GB,64.99,8,DDR4-2800,2
+G.Skill,G.Skill Ripjaws V DDR4-2800 16GB,69.99,8,DDR4-2800,1
+G.Skill,G.Skill Ripjaws V DDR4-2800 16GB,76.99,128,DDR4-3000,8
+G.Skill,G.Skill Ripjaws V DDR4-2800 16GB,86.82,128,DDR4-3000,8
+G.Skill,G.Skill Ripjaws V DDR4-2800 16GB,5000.00,16,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-2800 32GB,N/A,16,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-2800 32GB,119.99,16,DDR4-3000,1
+G.Skill,G.Skill Ripjaws V DDR4-2800 32GB,144.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-2800 32GB,144.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-2800 64GB,299.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-2800 64GB,299.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-2800 8GB,39.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-2800 8GB,42.99,32,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-2800 8GB,74.99,32,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-3000 128GB,649.99,32,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 128GB,659.99,32,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,N/A,32,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,N/A,32,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,69.99,32,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,87.99,64,DDR4-3000,8
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,92.99,64,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,94.99,64,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,96.99,64,DDR4-3000,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 16GB,99.99,64,DDR4-3000,8
+G.Skill,G.Skill Ripjaws V DDR4-3000 32GB,159.99,8,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-3000 32GB,164.99,8,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-3000 32GB,169.99,16,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 32GB,169.99,16,DDR4-3200,1
+G.Skill,G.Skill Ripjaws V DDR4-3000 32GB,169.99,32,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 32GB,179.99,32,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 32GB,199.99,32,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 64GB,N/A,32,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 64GB,279.99,32,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 64GB,329.99,64,DDR4-3200,8
+G.Skill,G.Skill Ripjaws V DDR4-3000 64GB,399.99,64,DDR4-3200,8
+G.Skill,G.Skill Ripjaws V DDR4-3000 64GB,447.00,64,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3000 8GB,N/A,64,DDR4-3200,8
+G.Skill,G.Skill Ripjaws V DDR4-3000 8GB,N/A,8,DDR4-3200,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,N/A,16,DDR4-3333,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 16GB,42.99,16,DDR4-3333,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,180.99,32,DDR4-3333,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,199.99,32,DDR4-3333,2
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,249.99,32,DDR4-3333,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,284.99,64,DDR4-3333,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 32GB,299.99,64,DDR4-3333,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 64GB,251.99,32,DDR4-3400,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 64GB,389.99,64,DDR4-3400,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 64GB,469.99,16,DDR4-3466,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 64GB,499.99,32,DDR4-3466,4
+G.Skill,G.Skill Ripjaws V DDR4-3200 8GB,32.99,32,DDR4-3466,4
+G.Skill,G.Skill Ripjaws V DDR4-3333 16GB,94.99,8,DDR4-3466,2
+G.Skill,G.Skill Ripjaws V DDR4-3333 16GB,94.99,16,DDR4-3600,4
+G.Skill,G.Skill Ripjaws V DDR4-3333 32GB,169.99,32,DDR4-3600,4
+G.Skill,G.Skill Ripjaws V DDR4-3333 32GB,174.99,8,DDR4-3600,2
+G.Skill,G.Skill Ripjaws V DDR4-3333 32GB,189.99,8,DDR4-3733,2
+G.Skill,G.Skill Ripjaws V DDR4-3333 64GB,174.99,8,DDR4-3866,2
+G.Skill,G.Skill Ripjaws V DDR4-3333 64GB,617.99,8,DDR4-4000,2
+G.Skill,G.Skill Ripjaws V DDR4-3400 32GB,189.99,32,DDR4-2666,1
+G.Skill,G.Skill Ripjaws V DDR4-3400 64GB,419.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-3466 16GB,N/A,32,DDR4-3200,1
+G.Skill,G.Skill Ripjaws V DDR4-3466 32GB,179.99,64,DDR4-2666,2
+G.Skill,G.Skill Ripjaws V DDR4-3466 32GB,184.99,128,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3466 8GB,1153.04,128,DDR4-2666,4
+G.Skill,G.Skill Ripjaws V DDR4-3600 16GB,N/A,16,DDR4-3200,4
+G.Skill,G.Skill Ripjaws V DDR4-3600 32GB,244.99,16,DDR4-3000,2
+G.Skill,G.Skill Ripjaws V DDR4-3600 8GB,702.00,8,DDR3-1333,1
+G.Skill,G.Skill Ripjaws V DDR4-3733 8GB,N/A,8,DDR3-1600,2
+G.Skill,G.Skill Ripjaws V DDR4-3866 8GB,N/A,32,DDR3-2400,4
+G.Skill,G.Skill Ripjaws V DDR4-4000 8GB,587.97,64,DDR4-3200,4
+G.Skill,G.Skill RipJaws V Series,58.99,32,DDR4-3200,4
+G.Skill,G.Skill RipJaws V Series,74.99,32,DDR4-3200,4
+G.Skill,G.Skill RipJaws V Series,67.99,64,DDR4-3200,4
+G.Skill,G.Skill RipJaws V Series,117.99,32,DDR4-3200,4
+G.Skill,G.Skill RipJaws V Series,274.99,32,DDR4-3200,2
+G.Skill,G.Skill RipJaws V Series,629.99,32,DDR4-2800,2
+G.Skill,G.Skill RipJaws V Series black,N/A,8,DDR4-2800,2
+G.Skill,G.Skill RipJaws V Series black,89.99,32,DDR4-2800,1
+G. Skill,G.Skill RipJaws-X DDR3-1333 CL9,N/A,16,DDR4-2800,2
+G. Skill,G.Skill Ripjaws-X DDR3-1600 CL9,N/A,16,DDR4-3000,2
+G. Skill,G.Skill Ripjaws-X DDR3-2400 CL11,N/A,16,DDR4-3000,2
+G.Skill,G.Skill Sniper X Series,78.99,32,DDR4-3000,4
+G.Skill,G.Skill Sniper X Series,78.99,64,DDR4-3000,8
+G.Skill,G.Skill Sniper X Series,134.99,8,DDR4-3000,2
+G.Skill,G.Skill Sniper X Series,149.99,32,DDR4-3000,1
+G.Skill,G.Skill Sniper X Series,189.99,8,DDR4-3000,2
+G.Skill,G.Skill Trident Z,154.99,128,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-2800 32GB,209.99,128,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-2800 8GB,N/A,128,DDR4-3200,8
+G. Skill,G.Skill Trident Z DDR4-2800 CL14,N/A,128,DDR4-3200,8
+G. Skill,G.Skill Trident Z DDR4-2800 CL15,N/A,128,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3000 16GB,94.99,128,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3000 16GB,105.47,16,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3000 32GB,194.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3000 64GB,359.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3000 8GB,467.97,32,DDR4-3200,4
+G. Skill,G.Skill Trident Z DDR4-3000 CL15,N/A,32,DDR4-3200,4
+G. Skill,G.Skill Trident Z DDR4-3000 CL15,N/A,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 128GB,549.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 128GB,699.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 128GB,699.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 128GB,809.47,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 128GB,989.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 128GB,1199.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 16GB,118.88,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,N/A,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,129.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,179.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,184.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,199.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,199.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,214.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,269.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,319.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,329.99,64,DDR4-3200,8
+G.Skill,G.Skill Trident Z DDR4-3200 32GB,1368.99,8,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,N/A,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,N/A,8,DDR4-3200,2
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,284.99,128,DDR4-3300,8
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,299.99,32,DDR4-3300,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,359.99,32,DDR4-3300,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,359.99,32,DDR4-3300,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,399.99,64,DDR4-3300,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,489.99,64,DDR4-3300,8
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,619.99,64,DDR4-3300,8
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,339.99,64,DDR4-3300,4
+G.Skill,G.Skill Trident Z DDR4-3200 64GB,2453.97,64,DDR4-3300,4
+G.Skill,G.Skill Trident Z DDR4-3200 8GB,350.96,64,DDR4-3300,8
+G. Skill,G.Skill Trident Z DDR4-3200 CL16,N/A,128,DDR4-3333,8
+G. Skill,G.Skill Trident Z DDR4-3200 CL16,N/A,16,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3300 128GB,6887.97,16,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3300 32GB,191.99,16,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3300 32GB,199.99,16,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3300 32GB,204.99,16,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3300 64GB,N/A,32,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3300 64GB,389.99,32,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3300 64GB,459.99,32,DDR4-3333,4
+G.Skill,G.Skill Trident Z DDR4-3300 64GB,851.04,32,DDR4-3333,4
+G.Skill,G.Skill Trident Z DDR4-3300 64GB,2141.97,32,DDR4-3333,4
+G.Skill,G.Skill Trident Z DDR4-3300 64GB,2462.97,32,DDR4-3333,4
+G.Skill,G.Skill Trident Z DDR4-3333 128GB,4313.97,32,DDR4-3333,2
+G.Skill,G.Skill Trident Z DDR4-3333 16GB,89.99,64,DDR4-3333,8
+G.Skill,G.Skill Trident Z DDR4-3333 16GB,99.99,64,DDR4-3333,8
+G.Skill,G.Skill Trident Z DDR4-3333 16GB,506.97,64,DDR4-3333,4
+G.Skill,G.Skill Trident Z DDR4-3333 16GB,877.05,16,DDR4-3400,2
+G.Skill,G.Skill Trident Z DDR4-3333 16GB,953.97,32,DDR4-3400,4
+G.Skill,G.Skill Trident Z DDR4-3333 32GB,N/A,32,DDR4-3400,4
+G.Skill,G.Skill Trident Z DDR4-3333 32GB,144.99,32,DDR4-3400,4
+G.Skill,G.Skill Trident Z DDR4-3333 32GB,154.99,64,DDR4-3400,4
+G.Skill,G.Skill Trident Z DDR4-3333 32GB,179.99,32,DDR4-3400,4
+G.Skill,G.Skill Trident Z DDR4-3333 32GB,399.00,16,DDR4-3466,4
+G.Skill,G.Skill Trident Z DDR4-3333 32GB,1083.00,32,DDR4-3466,4
+G.Skill,G.Skill Trident Z DDR4-3333 32GB,1640.97,32,DDR4-3466,4
+G.Skill,G.Skill Trident Z DDR4-3333 64GB,309.99,32,DDR4-3466,4
+G.Skill,G.Skill Trident Z DDR4-3333 64GB,309.99,64,DDR4-3466,4
+G.Skill,G.Skill Trident Z DDR4-3333 64GB,575.99,64,DDR4-3466,4
+G.Skill,G.Skill Trident Z DDR4-3400 16GB,92.45,64,DDR4-3466,8
+G.Skill,G.Skill Trident Z DDR4-3400 32GB,149.99,64,DDR4-3466,8
+G.Skill,G.Skill Trident Z DDR4-3400 32GB,154.99,64,DDR4-3466,8
+G.Skill,G.Skill Trident Z DDR4-3400 32GB,179.99,16,DDR4-3600,4
+G.Skill,G.Skill Trident Z DDR4-3400 64GB,530.60,32,DDR4-3600,4
+G. Skill,G.Skill Trident Z DDR4-3400 CL16,N/A,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z DDR4-3466 16GB,848.97,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z DDR4-3466 32GB,179.99,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z DDR4-3466 32GB,179.99,8,DDR4-3600,2
+G.Skill,G.Skill Trident Z DDR4-3466 32GB,189.99,16,DDR4-3733,2
+G.Skill,G.Skill Trident Z DDR4-3466 64GB,299.99,16,DDR4-3733,2
+G.Skill,G.Skill Trident Z DDR4-3466 64GB,299.99,16,DDR4-3733,4
+G.Skill,G.Skill Trident Z DDR4-3466 64GB,449.99,8,DDR4-3733,2
+G.Skill,G.Skill Trident Z DDR4-3466 64GB,479.99,16,DDR4-3866,2
+G.Skill,G.Skill Trident Z DDR4-3466 64GB,489.99,16,DDR4-3866,2
+G.Skill,G.Skill Trident Z DDR4-3600 16GB,1560.00,16,DDR4-3866,2
+G.Skill,G.Skill Trident Z DDR4-3600 32GB,259.99,16,DDR4-3866,4
+G.Skill,G.Skill Trident Z DDR4-3600 64GB,420.00,32,DDR4-3866,4
+G.Skill,G.Skill Trident Z DDR4-3600 64GB,449.99,32,DDR4-3866,4
+G.Skill,G.Skill Trident Z DDR4-3600 64GB,449.99,32,DDR4-3866,4
+G.Skill,G.Skill Trident Z DDR4-3600 8GB,N/A,8,DDR4-3866,2
+G.Skill,G.Skill Trident Z DDR4-3733 16GB,127.99,16,DDR4-4000,2
+G.Skill,G.Skill Trident Z DDR4-3733 16GB,134.99,16,DDR4-4000,2
+G.Skill,G.Skill Trident Z DDR4-3733 16GB,1626.00,16,DDR4-4000,2
+G.Skill,G.Skill Trident Z DDR4-3733 8GB,786.00,16,DDR4-4000,2
+G.Skill,G.Skill Trident Z DDR4-3866 16GB,139.99,16,DDR4-4000,2
+G.Skill,G.Skill Trident Z DDR4-3866 16GB,149.99,16,DDR4-4000,2
+G.Skill,G.Skill Trident Z DDR4-3866 16GB,149.99,32,DDR4-4000,4
+G.Skill,G.Skill Trident Z DDR4-3866 16GB,8009.00,32,DDR4-4000,4
+G.Skill,G.Skill Trident Z DDR4-3866 32GB,287.72,32,DDR4-4000,4
+G.Skill,G.Skill Trident Z DDR4-3866 32GB,312.99,8,DDR4-4000,2
+G.Skill,G.Skill Trident Z DDR4-3866 32GB,312.99,16,DDR4-4133,2
+G.Skill,G.Skill Trident Z DDR4-3866 8GB,704.97,16,DDR4-4133,2
+G.Skill,G.Skill Trident Z DDR4-4000 16GB,85.99,16,DDR4-4133,2
+G.Skill,G.Skill Trident Z DDR4-4000 16GB,87.99,16,DDR4-4133,2
+G.Skill,G.Skill Trident Z DDR4-4000 16GB,87.99,8,DDR4-4133,2
+G.Skill,G.Skill Trident Z DDR4-4000 16GB,144.99,16,DDR4-4266,2
+G.Skill,G.Skill Trident Z DDR4-4000 16GB,144.99,16,DDR4-4266,2
+G.Skill,G.Skill Trident Z DDR4-4000 16GB,154.99,16,DDR4-4266,2
+G.Skill,G.Skill Trident Z DDR4-4000 32GB,299.99,8,DDR4-4266,2
+G.Skill,G.Skill Trident Z DDR4-4000 32GB,299.99,64,DDR4-3600,2
+G.Skill,G.Skill Trident Z DDR4-4000 32GB,309.99,32,DDR4-3600,2
+G.Skill,G.Skill Trident Z DDR4-4000 8GB,N/A,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z DDR4-4133 16GB,154.99,16,DDR4-3000,2
+G.Skill,G.Skill Trident Z DDR4-4133 16GB,157.35,32,DDR4-3000,2
+G.Skill,G.Skill Trident Z DDR4-4133 16GB,159.99,32,DDR4-2666,2
+G.Skill,G.Skill Trident Z DDR4-4133 16GB,159.99,32,DDR4-2666,4
+G.Skill,G.Skill Trident Z DDR4-4133 8GB,N/A,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z DDR4-4266 16GB,157.35,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z DDR4-4266 16GB,164.99,16,DDR4-2666,2
+G.Skill,G.Skill Trident Z DDR4-4266 16GB,169.99,32,DDR4-3000,4
+G.Skill,G.Skill Trident Z DDR4-4266 8GB,117.38,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z Neo,159.99,64,DDR4-3000,4
+G.Skill,G.Skill Trident Z Neo,219.99,64,DDR4-2666,4
+G.Skill,G.Skill Trident Z Neo,699.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z Neo Series,63.99,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z Neo Series,189.99,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z Neo Series,199.99,64,DDR4-3200,4
+G.Skill,G.Skill Trident Z Neo Series,229.99,32,DDR4-3866,2
+G.Skill,G.Skill Trident Z Neo Series,239.99,64,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,239.99,32,DDR4-3600,2
+G.Skill,G.Skill Trident Z Neo Series,239.99,64,DDR4-3200,2
+G.Skill,G.Skill Trident Z Neo Series,239.99,128,DDR4-3600,4
+G.Skill,G.Skill Trident Z Neo Series,349.99,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z Neo Series,359.99,128,DDR4-3200,4
+G.Skill,G.Skill Trident Z Neo Series,394.99,16,DDR4-2400,2
+G.Skill,G.Skill Trident Z Neo Series,419.99,32,DDR4-2400,4
+G.Skill,G.Skill Trident Z Neo Series,429.99,64,DDR4-2400,4
+G.Skill,G.Skill Trident Z Neo Series,579.99,16,DDR4-3000,2
+G.Skill,G.Skill Trident Z Neo Series,599.99,16,DDR4-3000,2
+G.Skill,G.Skill Trident Z RGB,N/A,32,DDR4-3000,4
+G.Skill,G.Skill Trident Z RGB,159.99,32,DDR4-3000,4
+G.Skill,G.Skill Trident Z RGB,219.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z RGB,239.99,32,DDR4-3466,4
+G.Skill,G.Skill Trident Z RGB,324.99,32,DDR4-3600,4
+G.Skill,G.Skill Trident Z RGB,484.99,32,DDR4-3600,4
+G.Skill,G.Skill Trident Z RGB,869.99,16,DDR4-3866,2
+G.Skill,G.Skill Trident Z RGB DDR4-2400 16GB,109.99,16,DDR4-4000,2
+G.Skill,G.Skill Trident Z RGB DDR4-2400 32GB,220.99,16,DDR4-4266,2
+G.Skill,G.Skill Trident Z RGB DDR4-2400 64GB,389.99,32,DDR4-3000,4
+G.Skill,G.Skill Trident Z RGB DDR4-3000 16GB,109.99,32,DDR4-2400,2
+G.Skill,G.Skill Trident Z RGB DDR4-3000 16GB,114.99,16,DDR4-3000,2
+G.Skill,G.Skill Trident Z RGB DDR4-3000 32GB,219.99,16,DDR4-4133,2
+G.Skill,G.Skill Trident Z RGB DDR4-3000 32GB,234.99,32,DDR4-3000,2
+G.Skill,G.Skill Trident Z RGB DDR4-3200 32GB,119.99,32,DDR4-3600,4
+G.Skill,G.Skill Trident Z RGB DDR4-3466 32GB,244.99,32,DDR4-3866,4
+G.Skill,G.Skill Trident Z RGB DDR4-3600 32GB,299.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z RGB DDR4-3600 32GB,334.99,64,DDR4-3000,4
+G.Skill,G.Skill Trident Z RGB DDR4-3866 16GB,169.99,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z RGB DDR4-4000 16GB,164.99,32,DDR4-2933,2
+G.Skill,G.Skill Trident Z RGB DDR4-4266 16GB,189.99,32,DDR4-2933,2
+G.Skill,G.Skill Trident Z RGB Series,N/A,16,DDR4-2933,2
+G.Skill,G.Skill Trident Z RGB Series,N/A,64,DDR4-2933,8
+G.Skill,G.Skill Trident Z RGB Series,56.99,16,DDR4-2400,2
+G.Skill,G.Skill Trident Z RGB Series,179.99,16,DDR4-2933,2
+G.Skill,G.Skill Trident Z RGB Series,199.99,32,DDR4-2400,2
+G.Skill,G.Skill Trident Z RGB Series,220.80,32,DDR4-2400,4
+G.Skill,G.Skill Trident Z RGB Series,349.99,32,DDR4-3200,4
+G.Skill,G.Skill Trident Z RGB Series,353.99,64,DDR4-2400,4
+G.Skill,G.Skill Trident Z RGB Series,399.99,32,DDR4-4000,2
+G.Skill,G.Skill Trident Z RGB Series,469.99,32,DDR4-3600,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,N/A,32,DDR4-3600,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,N/A,64,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,N/A,64,DDR4-3200,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,N/A,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,109.99,64,DDR4-3600,4
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,119.99,128,DDR4-3200,4
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,144.99,128,DDR4-3200,4
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,220.99,16,DDR4-3000,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,359.99,16,DDR4-4600,2
+G.Skill,G.Skill Trident Z RGB Series für AMD Ryzen,382.99,16,DDR4-4266,2
+G.Skill,G.Skill Trident Z Royal,116.53,16,DDR4-3000,2
+G.Skill,G.Skill Trident Z Royal,239.99,16,DDR4-4266,2
+G.Skill,G.Skill Trident Z Royal,239.99,16,DDR4-4600,2
+G.Skill,G.Skill Trident Z Royal,274.99,16,DDR4-3200,4
+G.Skill,G.Skill Trident Z Royal,274.99,16,DDR4-3000,2
+G.Skill,G.Skill Trident Z Royal,719.99,32,DDR4-3000,2
+G.Skill,G.Skill Trident Z Royal,729.99,32,DDR5-8000,2
+G.Skill,G.Skill Trident Z Royal,829.99,32,DDR5-8000,2
+G.Skill,G.Skill Trident Z Royal,899.99,64,DDR5-6000,2
+G.Skill,G.Skill Trident Z Royal Series gold,129.99,64,DDR5-6000,2
+G.Skill,G.Skill Trident Z Royal Series gold,199.99,64,DDR5-6000,2
+G.Skill,G.Skill Trident Z Royal Series gold,219.99,64,DDR5-6000,2
+G.Skill,G.Skill Trident Z Royal Series silver,137.99,64,DDR5-6400,2
+G.Skill,G.Skill Trident Z Royal Series silver,214.99,64,DDR5-6400,2
+G.Skill,G.Skill Trident Z Royal Series silver,289.99,32,DDR5-7800,2
+G.Skill,G.Skill Trident Z Series silver/red,N/A,32,DDR5-7800,2
+G.Skill,G.Skill Trident Z Series silver/red,93.99,8,DDR3-2400,2
+G.Skill,G.Skill Trident Z Series silver/red,164.99,16,DDR3-2400,2
+G.Skill,G.Skill Trident Z5 RGB,N/A,2,DDR3-1333,1
+G.Skill,G.Skill Trident Z5 RGB,N/A,8,DDR3-1333,2
+G.Skill,G.Skill Trident Z5 RGB,289.99,4,DDR4-2133,1
+G.Skill,G.Skill Trident Z5 RGB,289.99,16,DDR4-2400,4
+G.Skill,G.Skill Trident Z5 RGB,294.99,32,DDR4-2400,4
+G.Skill,G.Skill Trident Z5 RGB,294.99,16,DDR4-2133,2
+G.Skill,G.Skill Trident Z5 RGB,309.99,4,DDR4-2400,1
+G.Skill,G.Skill Trident Z5 RGB,309.99,8,DDR4-2133,1
+G.Skill,G.Skill Trident Z5 RGB,314.99,8,DDR4-2133,2
+G.Skill,G.Skill Trident Z5 RGB,314.99,8,DDR4-2666,1
+G. Skill,G.Skill TridentX DDR3-2400 CL10,N/A,8,DDR4-2400,2
+G. Skill,G.Skill TridentX DDR3-2400 CL10,N/A,16,DDR4-2400,2
+G. Skill,G.Skill Value DDR3-1333 CL9,N/A,16,DDR4-2400,2
+G. Skill,G.Skill Value DDR3-1333 CL9,N/A,16,DDR4-4400,2
+G.Skill,G.Skill Value DDR4-2133 4GB,N/A,16,DDR4-3333,2
+G.Skill,G.Skill Value DDR4-2400 16GB,66.99,16,DDR4-3733,2
+G.Skill,G.Skill Value DDR4-2400 32GB,153.81,16,DDR4-2666,2
+G.Skill,G.Skill Value Series,35.99,16,DDR4-3600,2
+G.Skill,G.Skill Value Series,35.99,8,DDR3-1333,1
+G.Skill,G.Skill Value Series,35.99,4,DDR3-1333,1
+G.Skill,G.Skill Value Series,35.99,8,DDR3-1333,2
+G.Skill,G.Skill Value Series,42.99,16,DDR3-1333,2
+G.Skill,G.Skill Value Series,43.99,4,DDR3-1333,1
+G.Skill,G.Skill Value Series,79.99,8,DDR3-1333,2
+G.Skill,G.Skill Value Series,81.99,16,DDR3-1333,2
+Gigabyte,Gigabyte Aorus RGB Memory,N/A,4,DDR3-1600,1
+Gigabyte,Gigabyte Aorus RGB Memory,N/A,4,DDR3-1333,1
+Gigabyte,Gigabyte Aorus RGB Memory,103.99,8,DDR3-1333,1
+Gigabyte,Gigabyte Memory,129.99,8,DDR3-1333,2
+Gigabyte,Gigabyte Memory,193.03,16,DDR3-1333,2
+Hynix,HyperX Fury blue DDR3-1333 CL9,N/A,16,DDR4-2400,4
+Hynix,HyperX Fury blue DDR3-1333 CL9,22.99,16,DDR4-2133,2
+HyperX,HyperX Fury blue DDR3-1333 CL9,45.99,8,DDR4-2133,2
+HyperX,HyperX Fury blue DDR3-1333 CL9,76.99,8,DDR4-2666,2
+HyperX,HyperX Fury red DDR3-1333 CL9,43.43,4,DDR3-1333,1
+HyperX,HyperX Fury red DDR3-1333 CL9,46.99,8,DDR3-1333,1
+HyperX,HyperX Fury red DDR3-1333 CL9,76.99,8,DDR3-1333,2
+HyperX,HyperX Fury red DDR3-1600 CL10,23.99,16,DDR3-1333,2
+HyperX,HyperX Fury black DDR3-1333 CL9,32.34,32,DDR3-2133,4
+HyperX,HyperX Fury black DDR3-1333 CL9,44.00,8,DDR3-2133,2
+HyperX,HyperX Fury black DDR3-1333 CL9,49.99,16,DDR3-2133,2
+HyperX,HyperX Fury black DDR3-1333 CL9,76.99,32,DDR3-2400,4
+HyperX,HyperX Fury black DDR4-2400 CL15,106.99,16,DDR3-2400,2
+HyperX,HyperX Fury Series, DDR4-2133, CL14 - 16 GB Kit,124.82,8,DDR3-2400,2
+HyperX,HyperX Fury Series, DDR4-2133, CL14 - 8 GB Kit,323.51,8,DDR4-3000,2
+HyperX,HyperX Fury Series, DDR4-2666, CL15 - 8 GB Kit,47.62,16,DDR4-3000,2
+HyperX,HyperX Fury white DDR3-1333 CL9,23.99,16,DDR4-3000,4
+HyperX,HyperX Fury white DDR3-1333 CL9,38.99,8,DDR4-3200,2
+HyperX,HyperX Fury white DDR3-1333 CL9,46.97,16,DDR4-3200,4
+HyperX,HyperX Fury white DDR3-1333 CL9,79.25,32,DDR4-3200,4
+HyperX,HyperX Predator DDR3-2133 CL11,N/A,8,DDR3-1600,2
+HyperX,HyperX Predator DDR3-2133 CL11,N/A,4,DDR3-1600,1
+HyperX,HyperX Predator DDR3-2133 CL11,157.33,16,DDR3-1600,2
+HyperX,HyperX Predator DDR3-2400 CL11,N/A,8,DDR3-1600,1
+HyperX,HyperX Predator DDR3-2400 CL11,N/A,32,DDR3-2133,4
+HyperX,HyperX Predator DDR3-2400 CL11,N/A,16,DDR3-2133,2
+HyperX,HyperX Predator DDR4-3000 CL15,66.99,8,DDR3-2133,2
+HyperX,HyperX Predator DDR4-3000 CL15,93.99,8,DDR3-2133,1
+HyperX,HyperX Predator DDR4-3000 CL15,133.99,32,DDR3-2400,4
+HyperX,HyperX Predator DDR4-3200 CL16,67.99,16,DDR3-2400,2
+HyperX,HyperX Predator DDR4-3200 CL16,135.99,8,DDR3-2400,1
+HyperX,HyperX Predator DDR4-3200 CL16,161.99,4,DDR3-2400,1
+HyperX,HyperX Savage red DDR3-1600 CL9,N/A,8,DDR3-2400,2
+HyperX,HyperX Savage red DDR3-1600 CL9,N/A,32,DDR4-2133,4
+HyperX,HyperX Savage red DDR3-1600 CL9,N/A,8,DDR4-2133,2
+HyperX,HyperX Savage red DDR3-1600 CL9,N/A,16,DDR4-2133,4
+HyperX,HyperX Savage red DDR3-2133 CL11,N/A,16,DDR4-2133,2
+HyperX,HyperX Savage red DDR3-2133 CL11,N/A,16,DDR4-2400,4
+HyperX,HyperX Savage red DDR3-2133 CL11,N/A,16,DDR4-4000,2
+HyperX,HyperX Savage red DDR3-2133 CL11,313.11,16,DDR3-1600,2
+HyperX,HyperX Savage red DDR3-2400 CL11,N/A,4,DDR3-1600,1
+HyperX,HyperX Savage red DDR3-2400 CL11,N/A,16,DDR4-2133,2
+HyperX,HyperX Savage red DDR3-2400 CL11,N/A,8,DDR4-2133,2
+HyperX,HyperX Savage red DDR3-2400 CL11,N/A,8,DDR3-1333,1
+HyperX,HyperX Savage red DDR3-2400 CL11,N/A,4,DDR3-1333,1
+HyperX,HyperX Savage black DDR4-2133 CL13,N/A,8,DDR3-1333,1
+HyperX,HyperX Savage black DDR4-2133 CL13,N/A,4,DDR3-1600,1
+HyperX,HyperX Savage black DDR4-2133 CL13,N/A,4,DDR3-1600,1
+HyperX,HyperX Savage black DDR4-2133 CL13,N/A,8,DDR3-1600,1
+HyperX,HyperX Savage black DDR4-2400 CL12 XMP,N/A,4,DDR3-1600,1
+INNO3D,INNO3D iChill Memory,N/A,8,DDR3-1600,1
+Intenso,Intenso Desktop Pro DDR3-1600 CL11,N/A,16,DDR3-1600,1
+Intenso,Intenso Desktop Pro DDR3-1600 CL11,N/A,8,DDR4-2133,1
+Intenso,Intenso Desktop Pro DDR4-2133 CL15,N/A,4,DDR4-2133,1
+Intenso,Intenso Desktop Pro DDR4-2133 CL15,N/A,16,DDR3-1333,2
+Kingston,Kingston Branded DDR3-1333 CL9, 1,5 V Systemspeicher,N/A,8,DDR3-1333,1
+Kingston,Kingston Branded DDR3-1333 CL9, 1,5 V Systemspeicher Single Rank,37.53,16,DDR3-1333,1
+Kingston,Kingston Branded DDR3-1333 CL9, 1,5 V Systemspeicher ECC,N/A,16,DDR3-1333,1
+Kingston,Kingston Branded DDR3-1600 CL11, 1,5 V Systemspeicher Single Rank,26.99,8,DDR3-1333,1
+Kingston,Kingston Branded DDR3-1600 CL11, 1,5 V Systemspeicher ECC,N/A,8,DDR3-1333,1
+Kingston,Kingston Branded DDR3-1600 CL11, 1,5 V Systemspeicher ECC,N/A,8,DDR3-1333,1
+Kingston,Kingston Branded DDR3-1600 CL11, 1,5 V Systemspeicher reg. ECC,N/A,16,DDR3-1333,2
+Kingston,Kingston Branded DDR3-1600 CL11, 1,5 V Systemspeicher reg. ECC,N/A,8,DDR3-1600,1
+Kingston,Kingston Branded DDR3-1600 CL11, 1,5 V Systemspeicher reg. ECC,N/A,8,DDR3-1600,1
+Kingston,Kingston Branded DDR4-2133 CL15, 1,2 V Systemspeicher,N/A,8,DDR3-1600,1
+Kingston,Kingston Branded DDR4-2133 CL15, 1,2 V Systemspeicher,N/A,32,DDR3-1600,4
+Kingston,Kingston DDR3-1333 CL9 ECC,N/A,8,DDR4-2133,1
+Kingston,Kingston DDR3-1333 ECC - Lenovo branded,N/A,8,DDR4-2133,1
+Kingston,Kingston DDR3-1333 ECC LV - IBM branded,N/A,16,DDR4-2133,1
+Kingston,Kingston DDR3-1333 ECC Registriert - Lenovo branded,N/A,8,DDR4-2133,1
+Kingston,Kingston DDR3-1333 ECC für ProLiant - HP branded,N/A,32,DDR4-2133,1
+Kingston,Kingston DDR3-1333 reg ECC - Dell branded,N/A,32,DDR4-2400,1
+Kingston,Kingston DDR3-1333 Value CL9,40.99,32,DDR4-2400,1
+Kingston,Kingston DDR3-1333 Value CL9,82.90,16,DDR4-3600,2
+Kingston,Kingston DDR3-1600 ECC - Fujitsu branded,N/A,64,DDR4-3600,2
+Kingston,Kingston DDR3-1600 ECC - HP branded,N/A,32,DDR4-3600,2
+Kingston,Kingston DDR3-1600 ECC - Dell branded,N/A,64,DDR4-3600,2
+Kingston,Kingston DDR3-1600 reg ECC für ProLiant - HP branded,N/A,32,DDR4-3600,2
+Kingston,Kingston DDR4-2133 CL15 reg ECC - Lenovo branded,N/A,16,DDR4-3600,2
+Kingston,Kingston DDR4-2133 ECC - Dell branded PowerEdge R230, R330, T130, T330,N/A,64,DDR4-3000,4
+Kingston,Kingston DDR4-2133 reg ECC - Dell branded,N/A,16,DDR4-2666,1
+Kingston,Kingston DDR4-2133 reg ECC - Dell branded,19.90,32,DDR4-2133,4
+Kingston,Kingston DDR4-2133 reg ECC - Dell branded,225.17,4,DDR3-1333,1
+Kingston,Kingston DDR4-2400 CL17 reg ECC - HP branded,81.99,2,DDR3-1333,1
+Kingston,Kingston DDR4-2400 reg ECC - Dell branded,185.29,4,DDR4-2133,1
+Kingston,Kingston Fury Beast,58.99,8,DDR4-2133,1
+Kingston,Kingston Fury Beast,160.77,16,DDR4-2133,1
+Kingston,Kingston Fury Beast RGB,104.99,8,DDR4-2133,1
+Kingston,Kingston Fury Beast RGB,175.36,4,DDR4-2400,1
+Kingston,Kingston Fury Renegade,N/A,8,DDR4-2133,2
+Kingston,Kingston Fury Renegade,N/A,32,DDR4-2666,1
+Kingston,Kingston HyperX Predator,299.99,16,DDR4-3200,1
+Kingston,Kingston Server DIMM,N/A,128,DDR4-3200,1
+Kingston,Kingston Server DIMM, ECC REG, DDR4-2133, CL15 - 32 GB Kit,N/A,32,DDR4-3200,1
+Kingston,Kingston Value DDR3-1333 CL9,23.99,8,DDR4-3200,1
+Kingston,Kingston Value DDR3-1333 CL9 Memory,8.59,64,DDR4-3200,1
+Kingston,Kingston Value DDR4-2133 CL15 reg. ECC,N/A,32,DDR4-2666,1
+Kingston,Kingston Value DDR4-2133 CL15 reg. ECC,N/A,16,DDR4-3866,2
+Kingston,Kingston Value DDR4-2133 CL15 reg. ECC,106.65,16,DDR4-3200,2
+Kingston,Kingston Value DDR4-2133 CL15 ECC, registriert,N/A,8,DDR4-3000,2
+Kingston,Kingston Value DDR4-2400 CL17,N/A,16,DDR4-3000,4
+Kingston,Kingston Value DDR4-2133 CL15,N/A,32,DDR4-2800,4
+SAMSUNG,Samsung DDR4-2666,176.99,32,DDR4-2400,2
+SAMSUNG,Samsung RDIMM,N/A,32,DDR4-3000,2
+SAMSUNG,Samsung RDIMM,N/A,16,DDR4-2133,4
+SAMSUNG,Samsung RDIMM,N/A,32,DDR4-2400,4
+SAMSUNG,Samsung RDIMM,N/A,8,DDR4-2133,2
+SAMSUNG,Samsung RDIMM,182.99,16,DDR4-2400,2
+SAMSUNG,Samsung Server DIMM,N/A,8,DDR4-2400,2
+Team Group,Team Group Dark Pro "8Pack Edition",N/A,16,DDR4-2400,4
+Team Group,Team Group Dark Pro "8Pack Edition",N/A,16,DDR4-2400,1
+Team Group,Team Group Dark Pro Series grey, DDR4-3000, CL15 - 8 GB Kit,N/A,8,DDR4-3000,2
+Team Group,Team Group Dark Series black,N/A,16,DDR4-3000,2
+Team Group,Team Group Dark Series black, DDR4-2800, CL16 - 32 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group Delta Series rote LED,N/A,8,DDR4-3000,2
+Team Group,Team Group Delta Series rote LED,N/A,16,DDR4-2666,2
+Team Group,Team Group Elite Plus Series black,N/A,16,DDR4-3200,2
+Team Group,Team Group Elite Plus Series black,N/A,32,DDR4-3000,2
+Team Group,Team Group Elite Plus Series black,N/A,32,DDR4-3000,2
+Team Group,Team Group Elite Plus Series black,N/A,32,DDR4-3000,2
+Team Group,Team Group Elite Plus Series black,N/A,16,DDR4-2400,1
+Team Group,Team Group Elite Plus Series black, DDR4-2400, CL16 - 16 GB Kit,N/A,16,DDR4-3000,2
+Team Group,Team Group Elite Series black,N/A,16,DDR4-2400,1
+Team Group,Team Group T-Force Dark grey, DDR4-3000, CL16 - 8 GB Kit,N/A,32,DDR4-4000,2
+Team Group,Team Group T-Force Dark ROG grey,N/A,32,DDR4-3600,2
+Team Group,Team Group T-Force Dark ROG red, DDR4-3000, CL 16 - 16 GB Dual-Kit,N/A,32,DDR4-4000,2
+Team Group,Team Group T-Force Dark red, DDR4-3000, CL16 - 8 GB Kit,N/A,16,DDR4-3600,2
+Team Group,Team Group T-Force Nighthawk,N/A,32,DDR4-3200,2
+Team Group,Team Group T-Force Nighthawk,N/A,16,DDR4-3600,2
+Team Group,Team Group T-Force Nighthawk, blaue LED, DDR4-3000, CL16 - 32 GB Kit,N/A,32,DDR4-3600,2
+Team Group,Team Group T-Force Nighthawk, rote LED, DDR4-3000, CL16 - 32 GB Kit,N/A,16,DDR4-3200,2
+Team Group,Team Group T-Force Nighthawk, weiße LED, DDR4-3000, CL16 - 32 GB Kit,N/A,16,DDR4-4000,2
+Team Group,Team Group T-Force Vulcan Series grey,N/A,64,DDR4-3600,2
+Team Group,Team Group T-Force Vulcan Series red,N/A,16,DDR4-4000,2
+Team Group,Team Group T-Force Vulcan Series red,N/A,64,DDR4-3600,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,16,DDR4-3200,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,32,DDR4-3200,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,16,DDR4-3600,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,32,DDR4-3200,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,64,DDR4-3200,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,16,DDR4-3200,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,32,DDR4-3600,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,64,DDR4-3200,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,8,DDR4-3866,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,16,DDR4-4133,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,16,DDR4-4500,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,32,DDR4-3600,4
+Team Group,Team Group T-Force Xtreem ARGB,N/A,32,DDR4-4000,4
+Team Group,Team Group T-Force Xtreem ARGB,N/A,16,DDR4-4000,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,32,DDR4-3200,4
+Team Group,Team Group T-Force Xtreem ARGB,N/A,8,DDR4-3866,2
+Team Group,Team Group T-Force Xtreem ARGB,N/A,16,DDR4-3000,2
+Team Group,Team Group T-Force Xtreem ARGB,59.99,16,DDR4-4000,2
+Team Group,Team Group T-Force Xtreem ARGB,84.99,16,DDR4-4400,2

@@ -1,0 +1,934 @@
+Seasonic,Seasonic Core GM 80 Plus Gold, semi-modular,94.99,ATX,650
+Aerocool,Aerocool Project 7,N/A,ATX,750
+Aerocool,Aerocool Project 7,N/A,ATX,650
+be quiet!,be quiet! Dark Power Pro P11 modular,N/A,ATX,750
+be quiet!,be quiet! Dark Power Pro P11 modular,N/A,ATX,1200
+be quiet!,be quiet! Dark Power Pro P11 modular,N/A,ATX,1000
+be quiet!,be quiet! Dark Power Pro P11 modular,N/A,ATX,850
+be quiet!,be quiet! Pure Power 11 80 PLUS Bronze,N/A,ATX,300
+be quiet!,be quiet! Pure Power 11 80 PLUS Gold,N/A,ATX,500
+be quiet!,be quiet! Pure Power 11 80 PLUS Gold,N/A,ATX,400
+be quiet!,be quiet! Pure Power 11 80 PLUS Gold,N/A,ATX,600
+be quiet!,be quiet! Pure Power 11 80 PLUS Gold,N/A,ATX,700
+be quiet!,be quiet! Pure Power 11 CM 80 PLUS Gold,N/A,ATX,500
+be quiet!,be quiet! Pure Power 11 CM 80 PLUS Gold,N/A,ATX,400
+be quiet!,be quiet! Pure Power 11 CM 80 PLUS Gold,N/A,ATX,600
+be quiet!,be quiet! Pure Power 11 CM 80 PLUS Gold,N/A,ATX,700
+be quiet!,be quiet! Pure Power 12M,N/A,ATX,850
+be quiet!,be quiet! Pure Power 12M,N/A,ATX,550
+be quiet!,be quiet! Pure Power 12M,N/A,ATX,750
+be quiet!,be quiet! Pure Power 12M,N/A,ATX,650
+be quiet!,be quiet! Straight Power 11,N/A,ATX,850
+be quiet!,be quiet! Straight Power 11,N/A,ATX,1000
+BitFenix,BitFenix Formula 80 PLUS Gold,N/A,ATX,550
+BitFenix,BitFenix Formula 80 PLUS Gold,N/A,ATX,650
+BitFenix,BitFenix Formula 80 PLUS Gold,71.18,ATX,450
+BitFenix,BitFenix Whisper M 80 PLUS Gold,N/A,ATX,650
+BitFenix,BitFenix Whisper M 80 PLUS Gold,N/A,ATX,850
+BitFenix,BitFenix Whisper M 80 PLUS Gold,83.25,ATX,450
+BitFenix,BitFenix Whisper M 80 PLUS Gold,95.31,ATX,550
+Cooler Master,Cooler Master MasterWatt,N/A,ATX,450
+Corsair,Corsair CX450,54.99,ATX,450
+Corsair,Corsair CX450M,69.99,ATX,450
+Corsair,Corsair CX550,69.99,ATX,550
+Corsair,Corsair RM Series RM1000i,N/A,ATX,1000
+Corsair,Corsair RM Series RM650,114.98,ATX,650
+Corsair,Corsair RM Series RM750,129.95,ATX,750
+Corsair,Corsair RM Series RM850,114.99,ATX,850
+Corsair,Corsair RM Series RM850i,N/A,ATX,850
+Corsair,Corsair RM550x,109.99,ATX,550
+Corsair,Corsair RM750x,129.99,ATX,750
+Corsair,Corsair RMX Series RM1000x,199.99,ATX,1000
+Corsair,Corsair RMX Series RM750x,134.99,ATX,750
+Corsair,Corsair RMX Series RM850x,149.99,ATX,850
+Corsair,Corsair RMX Series RMX550,N/A,ATX,550
+Corsair,Corsair RMX Series RMX550x,N/A,ATX,550
+Corsair,Corsair RMX Series RMX650,N/A,ATX,650
+Corsair,Corsair RMX Series RMX650x,N/A,ATX,650
+Corsair,Corsair RMX Series RMX750,N/A,ATX,750
+Corsair,Corsair RMX Series RMX850,N/A,ATX,850
+Corsair,Corsair SF Series SF450 80 PLUS Gold SFX,N/A,SFX,450
+Corsair,Corsair TX550M,99.99,ATX,550
+Corsair,Corsair TX550M Series Modular,N/A,ATX,550
+Corsair,Corsair TX650M,94.99,ATX,650
+Corsair,Corsair TX650M Series Modular,N/A,ATX,650
+Corsair,Corsair TX750M,109.99,ATX,750
+Corsair,Corsair TX750M Series Modular,N/A,ATX,750
+Corsair,Corsair TX850M,109.99,ATX,850
+Corsair,Corsair TX850M Series Modular,N/A,ATX,850
+Corsair,Corsair Vengeance Series V500,N/A,ATX,500
+Corsair,Corsair Vengeance Series V550M,N/A,ATX,550
+Cougar,Cougar VTX,N/A,ATX,450
+EVGA,EVGA 450B,N/A,ATX,450
+EVGA,EVGA 500B,N/A,ATX,500
+EVGA,EVGA SuperNOVA 550 G3,79.99,ATX,550
+EVGA,EVGA SuperNOVA 650 G3,89.99,ATX,650
+EVGA,EVGA Supernova 750 G2L,N/A,ATX,750
+EVGA,EVGA SuperNOVA 750 G3,133.98,ATX,750
+EVGA,EVGA SuperNOVA 850 G2,146.69,ATX,850
+EVGA,EVGA SuperNOVA G2,N/A,ATX,1600
+EVGA,EVGA SuperNOVA G2,N/A,ATX,1300
+EVGA,EVGA SuperNOVA G2,N/A,ATX,1000
+EVGA,EVGA SuperNOVA G2,N/A,ATX,650
+EVGA,EVGA SuperNOVA G2,N/A,ATX,750
+EVGA,EVGA SuperNOVA G2,N/A,ATX,550
+EVGA,EVGA SuperNOVA G3,N/A,ATX,1000
+EVGA,EVGA SuperNOVA G3,N/A,ATX,750
+EVGA,EVGA SuperNOVA P2,N/A,ATX,850
+EVGA,EVGA SuperNOVA P2,N/A,ATX,1000
+EVGA,EVGA SuperNOVA P2,N/A,ATX,750
+EVGA,EVGA SuperNOVA P2 80 PLUS Platinum,N/A,ATX,650
+Kolink,Kolink Enclave 80 PLUS Gold,N/A,ATX,500
+Kolink,Kolink SFX-250,N/A,SFX,250
+Kolink,Kolink SFX-350,N/A,SFX,350
+PHANTEKS,PHANTEKS AMP 80 PLUS Gold,96.99,ATX,550
+PHANTEKS,PHANTEKS AMP 80 PLUS Gold,105.99,ATX,650
+Seasonic,Seasonic Core GC 80 Plus Gold,N/A,ATX,650
+Seasonic,Seasonic Core GC 80 PLUS Gold,N/A,ATX,500
+Seasonic,Seasonic Core GM 80 PLUS Gold,79.99,ATX,500
+Seasonic,Seasonic FOCUS 550 GOLD,79.99,ATX,550
+Seasonic,Seasonic Focus GX 80 Plus Gold,107.99,ATX,550
+Seasonic,Seasonic Focus GX 80 Plus Gold,119.99,ATX,750
+Seasonic,Seasonic Focus GX 80 Plus Gold,124.99,ATX,650
+Seasonic,Seasonic Focus GX 80 PLUS Gold,159.99,ATX,850
+Seasonic,Seasonic Focus PX 80 Plus Platinum 750 Watt,149.00,ATX,750
+Seasonic,Seasonic P-Series, Fanless 80 PLUS Platinum,117.10,ATX,400
+Seasonic,Seasonic PRIME 650 GOLD,104.93,ATX,650
+Seasonic,Seasonic PRIME 750 W Platinum,149.90,ATX,750
+Seasonic,Seasonic Prime PX 80 PLUS Platinum,N/A,ATX,650
+Seasonic,Seasonic Prime Ultra 80 PLUS Platinum,134.99,ATX,650
+Seasonic,Seasonic Snow Silent,N/A,ATX,1050
+Silverstone,Silverstone SST-ST45SF V2.0 Strider Series SFX,79.99,SFX,450
+Silverstone,Silverstone SST-SX500-LG v2.0 SFX-L 80 PLUS Gold,N/A,L,500
+Silverstone,Silverstone SST-SX600-G Strider Gold Series,122.14,SFX,600
+Silverstone,Silverstone SST-SX800-LTI SFX-L 80 PLUS Titanium,217.99,L,800
+Super Flower,Super Flower Golden Green HX,N/A,ATX,450
+Super Flower,Super Flower Golden Green HX,N/A,ATX,550
+Super Flower,Super Flower Leadex 80 PLUS Platinum, black,N/A,ATX,650
+Super Flower,Super Flower Leadex II,N/A,ATX,750
+Super Flower,Super Flower Leadex II,N/A,ATX,650
+Super Flower,Super Flower Leadex II,N/A,ATX,750
+Super Flower,Super Flower Leadex II,N/A,ATX,650
+Super Flower,Super Flower Leadex III 80 PLUS Gold,N/A,ATX,550
+Super Flower,Super Flower Leadex III 80 PLUS Gold,N/A,ATX,650
+Super Flower,Super Flower Leadex III 80 PLUS Gold,N/A,ATX,750
+Super Flower,Super Flower Leadex III 80 PLUS Gold,N/A,ATX,850
+Super Flower,Super Flower Leadex III ARGB 80 PLUS Gold,N/A,ATX,850
+Super Flower,Super Flower Leadex III ARGB 80 PLUS Gold,N/A,ATX,750
+Super Flower,Super Flower Leadex III ARGB 80 PLUS Gold,N/A,ATX,650
+Super Flower,Super Flower Leadex III ARGB 80 PLUS Gold,N/A,ATX,550
+Super Flower,Super Flower Platinum King,N/A,ATX,650
+Super Flower,Super Flower Platinum King,N/A,ATX,450
+Super Flower,Super Flower Platinum King,N/A,ATX,550
+Aerocool,Aerocool Aero Bronze 500W 80 PLUS Bronze,N/A,ATX,500
+Aerocool,Aerocool Aero Bronze 550M 80 PLUS Bronze,N/A,ATX,550
+Aerocool,Aerocool Aero Bronze 550W 80 PLUS Bronze,N/A,ATX,550
+Aerocool,Aerocool Aero Bronze 600W 80 PLUS Bronze,N/A,ATX,600
+Aerocool,Aerocool Aero Bronze 650M 80 PLUS Bronze,N/A,ATX,650
+Aerocool,Aerocool Aero Bronze 650W 80 PLUS Bronze,N/A,ATX,650
+Aerocool,Aerocool Aero Bronze 700W 80 PLUS Bronze,N/A,ATX,700
+Aerocool,Aerocool Aero Bronze 750M 80 PLUS Bronze,N/A,ATX,750
+Aerocool,Aerocool Aero Bronze 750W 80 PLUS Bronze,N/A,ATX,750
+Aerocool,Aerocool Aero Bronze 850M 80 PLUS Bronze,N/A,ATX,850
+Aerocool,Aerocool Aero Cylon 400W 80 PLUS,N/A,ATX,400
+Aerocool,Aerocool Aero White 500 80 PLUS,N/A,ATX,500
+Aerocool,Aerocool Aero White 550 80 PLUS,N/A,ATX,550
+Aerocool,Aerocool Aero White 600 80 PLUS,N/A,ATX,600
+Aerocool,Aerocool Aero White 650 80 PLUS,N/A,ATX,650
+Aerocool,Aerocool Aero White 700 80 PLUS,N/A,ATX,700
+Aerocool,Aerocool Cylon RGB 500W 80 PLUS,N/A,ATX,500
+Aerocool,Aerocool Cylon RGB 600W 80 PLUS,N/A,ATX,600
+Aerocool,Aerocool Cylon RGB 700W 80 PLUS,N/A,ATX,700
+Aerocool,Aerocool Project 7,179.99,ATX,850
+Aerocool,Aerocool Xpredator 400 80 PLUS Bronze,N/A,ATX,400
+Aerocool,Aerocool Xpredator 500,N/A,ATX,500
+Aerocool,Aerocool Xpredator 600,N/A,ATX,600
+Aerocool,Aerocool Xpredator 700,N/A,ATX,700
+Aerocool,Aerocool Xpredator 750M,N/A,ATX,750
+Aerocool,Aerocool Xpredator Gold 650GM,N/A,ATX,650
+Akasa,Akasa,N/A,ITX,90
+Akasa,Akasa 80 Watt DC-DC-Wandlerplatine, 12 V,N/A,external,84
+Akasa,Akasa externes für Mini-ITX Systeme 12V,N/A,sonstige,150
+Akasa,Akasa PD150-02K externes,N/A,ATX,550
+Antec,Antec EAG Pro 550W 80 PLUS Gold,N/A,ATX,650
+Antec,Antec EAG Pro 650W 80 PLUS Gold,N/A,ATX,750
+Antec,Antec EAG Pro 750W 80 PLUS Gold,N/A,ATX,550
+Antec,Antec EDGE EDG550,N/A,ATX,650
+Antec,Antec EDGE EDG650,N/A,ATX,750
+Antec,Antec EDGE EDG750,N/A,ATX,520
+Antec,Antec High Current Gamer,99.99,ATX,620
+Antec,Antec High Current Gamer,99.99,ATX,620
+Antec,Antec High Current Gamer HCG-620M,N/A,ATX,750
+Antec,Antec High Current Gamer HCG-750M,N/A,ATX,850
+Antec,Antec High Current Gamer HCG-850M,N/A,ATX,650
+Antec,Antec High Current Gamer HCG650 80 PLUS Gold,N/A,ATX,750
+Antec,Antec High Current Gamer HCG750 80 PLUS Gold,N/A,ATX,850
+Antec,Antec High Current Gamer HCG850 80Plus Gold,N/A,ATX,1000
+Antec,Antec High Current Pro HCP-1000 Platinum,N/A,ATX,1300
+Antec,Antec High Current Pro HCP-1300 Platinum,N/A,ATX,850
+Antec,Antec High Current Pro HCP-850 Platinum,N/A,ATX,450
+Antec,Antec NE450M EC Semi Modular,N/A,ATX,550
+Antec,Antec NE550M EC Semi Modular,N/A,ATX,650
+Antec,Antec NE650M EC Semi Modular,N/A,ATX,550
+Antec,Antec True Power TP550C,N/A,ATX,650
+Antec,Antec True Power TP650C,N/A,ATX,750
+Antec,Antec True Power TP750C,N/A,ATX,450
+Antec,Antec VP Strictly Power,N/A,L,750
+ASUS,ASUS ROG Loki SFX-L 80 PLUS Platinum netzteil,N/A,ATX,1000
+ASUS,ASUS ROG Strix 1000G,N/A,ATX,550
+ASUS,ASUS ROG Strix 550G 80 PLUS Gold,N/A,ATX,650
+ASUS,ASUS ROG Strix 650G 80 PLUS Gold,N/A,ATX,750
+ASUS,ASUS ROG Strix 750G 80 PLUS Gold,N/A,ATX,850
+ASUS,ASUS ROG Thor 80 PLUS Platinum,N/A,ATX,1200
+ASUS,ASUS ROG Thor 80 PLUS Platinum,N/A,ATX,850
+ASUS,ASUS ROG Thor 850W Platinum II,N/A,ATX,650
+ASUS,ASUS TUF Gaming 650B 80 PLUS Bronze,N/A,ATX,1000
+be quiet!,be quiet! Dark Power 12,N/A,ATX,850
+be quiet!,be quiet! Dark Power 12,N/A,ATX,750
+be quiet!,be quiet! Dark Power 12,N/A,ATX,750
+be quiet!,be quiet! Dark Power 13,N/A,ATX,1200
+be quiet!,be quiet! Dark Power Pro 12,N/A,ATX,1500
+be quiet!,be quiet! Dark Power Pro 12,N/A,ATX,650
+be quiet!,be quiet! Dark Power Pro P11 modular,N/A,ATX,550
+be quiet!,be quiet! Dark Power Pro P11 modular,N/A,ATX,1000
+be quiet!,be quiet! Power Zone,N/A,ATX,850
+be quiet!,be quiet! Power Zone,N/A,ATX,650
+be quiet!,be quiet! Power Zone, 80 PLUS Bronze,N/A,ATX,750
+be quiet!,be quiet! Power Zone, 80 PLUS Bronze,N/A,ATX,700
+be quiet!,be quiet! Pure Power 10,N/A,ATX,600
+be quiet!,be quiet! Pure Power 10,N/A,ATX,400
+be quiet!,be quiet! Pure Power 10,N/A,ATX,350
+be quiet!,be quiet! Pure Power 10,N/A,ATX,300
+be quiet!,be quiet! Pure Power 10,N/A,ATX,500
+be quiet!,be quiet! Pure Power 10,N/A,ATX,700
+be quiet!,be quiet! Pure Power 10 CM,N/A,ATX,600
+be quiet!,be quiet! Pure Power 10 CM,N/A,ATX,400
+be quiet!,be quiet! Pure Power 10 CM,N/A,ATX,500
+be quiet!,be quiet! Pure Power 10 CM,N/A,ATX,1000
+be quiet!,be quiet! Pure Power 11 FM,N/A,ATX,850
+be quiet!,be quiet! Pure Power 11 FM,N/A,ATX,650
+be quiet!,be quiet! Pure Power 11 FM,N/A,ATX,550
+be quiet!,be quiet! Pure Power 11 FM,N/A,ATX,750
+be quiet!,be quiet! Pure Power 11 FM,N/A,ATX,1000
+be quiet!,be quiet! Pure Power 12M,N/A,SFX,300
+be quiet!,be quiet! SFX Power 2 80 PLUS Bronze,N/A,SFX,400
+be quiet!,be quiet! SFX Power 2 80 PLUS Bronze,N/A,SFX,300
+be quiet!,be quiet! SFX Power 3,N/A,SFX,450
+be quiet!,be quiet! SFX Power 3,N/A,L,600
+be quiet!,be quiet! SFX-L Power,N/A,L,500
+be quiet!,be quiet! SFX-L Power,N/A,L,500
+be quiet!,be quiet! SFX-L Power 80 PLUS Gold,N/A,L,600
+be quiet!,be quiet! SFX-L Power 80 PLUS Gold,N/A,ATX,700
+be quiet!,be quiet! Straight Power 10,N/A,ATX,600
+be quiet!,be quiet! Straight Power 10,N/A,ATX,500
+be quiet!,be quiet! Straight Power 10,N/A,ATX,400
+be quiet!,be quiet! Straight Power 10,N/A,ATX,600
+be quiet!,be quiet! Straight Power 10 CM,N/A,ATX,700
+be quiet!,be quiet! Straight Power 10 CM,N/A,ATX,800
+be quiet!,be quiet! Straight Power 10 CM,N/A,ATX,500
+be quiet!,be quiet! Straight Power 10 CM,N/A,ATX,850
+be quiet!,be quiet! Straight Power 11,N/A,ATX,1200
+be quiet!,be quiet! Straight Power 11,N/A,ATX,1000
+be quiet!,be quiet! Straight Power 11,N/A,ATX,750
+be quiet!,be quiet! Straight Power 11,N/A,ATX,650
+be quiet!,be quiet! Straight Power 11,N/A,ATX,550
+be quiet!,be quiet! Straight Power 11,N/A,ATX,450
+be quiet!,be quiet! Straight Power 11, 80 PLUS Gold,N/A,ATX,650
+be quiet!,be quiet! Straight Power 11, 80 PLUS Gold,N/A,ATX,550
+be quiet!,be quiet! Straight Power 11, 80 PLUS Gold,N/A,ATX,750
+be quiet!,be quiet! Straight Power 11, 80 PLUS Gold,132.99,ATX,600
+be quiet!,be quiet! System Power 8,N/A,ATX,400
+be quiet!,be quiet! System Power 8,N/A,ATX,500
+be quiet!,be quiet! System Power 8,N/A,ATX,400
+be quiet!,be quiet! System Power 9 80 PLUS Bronze,N/A,ATX,500
+be quiet!,be quiet! System Power 9 80 PLUS Bronze,N/A,ATX,600
+be quiet!,be quiet! System Power 9 80 PLUS Bronze,N/A,ATX,700
+be quiet!,be quiet! System Power 9 80 PLUS Bronze,N/A,ATX,600
+be quiet!,be quiet! System Power 9 CM,N/A,ATX,700
+be quiet!,be quiet! System Power 9 CM,N/A,ATX,500
+be quiet!,be quiet! System Power 9 CM,N/A,ATX,400
+be quiet!,be quiet! System Power 9 CM,N/A,ATX,300
+be quiet!,be quiet! System Power B8,N/A,ATX,550
+be quiet!,be quiet! System Power B8,N/A,ATX,450
+be quiet!,be quiet! System Power B8,N/A,ATX,350
+be quiet!,be quiet! System Power B8,N/A,ATX,300
+be quiet!,be quiet! System Power B9 80 PLUS Bronze,N/A,ATX,350
+be quiet!,be quiet! System Power B9 80 PLUS Bronze,N/A,ATX,450
+be quiet!,be quiet! System Power B9 80 PLUS Bronze,N/A,ATX,600
+be quiet!,be quiet! System Power B9 80 PLUS Bronze,N/A,TFX,300
+be quiet!,be quiet! TFX Power 2 80 PLUS Bronze,N/A,TFX,300
+be quiet!,be quiet! TFX Power 2 80 PLUS Gold,N/A,TFX,300
+be quiet!,be quiet! TFX Power 3,N/A,TFX,300
+be quiet!,be quiet! TFX Power 3,N/A,ATX,750
+BitFenix,BitFenix Formula 80 PLUS Gold,67.07,ATX,750
+BitFenix,BitFenix Whisper M 80 PLUS Gold,N/A,ATX,550
+Chieftec,Chieftec A-90 Serie GDP-550C 90 Plus Gold,N/A,ATX,650
+Chieftec,Chieftec A-90 Serie GDP-650C 90 Plus Gold,N/A,ATX,750
+Chieftec,Chieftec A-90 Serie GDP-750C 90 Plus Gold,N/A,external,120
+Chieftec,Chieftec CDP-085ITX 85 Watt AC-DC Adapter inkl. Wandlerplatine,N/A,SFX,550
+Chieftec,Chieftec CDP-120ITX 120 Watt AC-DC Adapter inkl. Wandlerplatine,N/A,SFX,650
+Chieftec,Chieftec CSN-550C SFX,N/A,ATX,400
+Chieftec,Chieftec CSN-650C SFX,N/A,ATX,500
+Chieftec,Chieftec Force CPS-400S,N/A,ATX,650
+Chieftec,Chieftec Force CPS-500S,N/A,ATX,750
+Chieftec,Chieftec Force CPS-650S,N/A,ATX,350
+Chieftec,Chieftec Force CPS-750S,N/A,ATX,350
+Chieftec,Chieftec IArena Serie GPA-350B8,N/A,ATX,400
+Chieftec,Chieftec IArena Serie GPA-350S8,N/A,ATX,400
+Chieftec,Chieftec IArena Serie GPA-400B8,N/A,ATX,450
+Chieftec,Chieftec IArena Serie GPA-400S8,N/A,ATX,450
+Chieftec,Chieftec IArena Serie GPA-450B8,N/A,ATX,500
+Chieftec,Chieftec IArena Serie GPA-450S8,N/A,ATX,300
+Chieftec,Chieftec IArena Serie GPA-500S8,N/A,ATX,350
+Chieftec,Chieftec IArena Serie GPB-300S,N/A,ATX,400
+Chieftec,Chieftec IArena Serie GPB-350S,N/A,ATX,450
+Chieftec,Chieftec IArena Serie GPB-400S,N/A,ATX,500
+Chieftec,Chieftec IArena Serie GPB-450S,N/A,redundant,800
+Chieftec,Chieftec IArena Serie GPB-500S,N/A,redundant,500
+Chieftec,Chieftec MRG-5800V redundantes 80 PLUS - 2x 800 Watt,N/A,redundant,320
+Chieftec,Chieftec MRG-6500P - 2x 500 Watt,N/A,ATX,1250
+Chieftec,Chieftec MRT-5320G redundantes 80 PLUS Gold - 2x 320 Watt,N/A,ATX,1000
+Chieftec,Chieftec Navitas,N/A,ATX,450
+Chieftec,Chieftec Navitas 80 PLUS Gold,N/A,ATX,550
+Chieftec,Chieftec Navitas Serie GPM-450S,N/A,ATX,650
+Chieftec,Chieftec Navitas Serie GPM-550S,N/A,ATX,750
+Chieftec,Chieftec Navitas Serie GPM-650S,N/A,ATX,1250
+Chieftec,Chieftec Navitas Serie GPM-750S,N/A,ATX,1450
+Chieftec,Chieftec Power Smart 80 PLUS Gold,N/A,ATX,1350
+Chieftec,Chieftec Power Smart 80 PLUS Gold,N/A,ATX,400
+Chieftec,Chieftec Power Smart 80 PLUS Gold,N/A,ATX,400
+Chieftec,Chieftec PSF-400B 80 PLUS Bronze,N/A,ATX,500
+Chieftec,Chieftec Smart Serie GPS-400A8,N/A,ATX,600
+Chieftec,Chieftec Smart Serie GPS-500A8,N/A,ATX,700
+Chieftec,Chieftec Smart Serie GPS-600A8,N/A,SFX,350
+Chieftec,Chieftec Smart Serie GPS-700A8,N/A,SFX,450
+Chieftec,Chieftec Smart Serie SFX-350BS,N/A,L,500
+Chieftec,Chieftec Smart Serie SFX-450BS,N/A,TFX,250
+Chieftec,Chieftec Smart Serie SFX-500GD-C,N/A,ATX,550
+Chieftec,Chieftec Smart Series TFX 250P 80 PLUS Bronze,N/A,ATX,750
+Cooler Master,Cooler Master MasterWatt,N/A,ATX,650
+Cooler Master,Cooler Master MasterWatt, 80 PLUS-Bronze,N/A,ATX,1000
+Cooler Master,Cooler Master MasterWatt, 80 PLUS-Bronze,N/A,ATX,1500
+Corsair,Corsair AX1000 High Performance,N/A,ATX,760
+Corsair,Corsair AX1500i Digital ATX Power Supply,449.99,ATX,850
+Corsair,Corsair AX760i Digital ATX Power Supply,229.99,ATX,450
+Corsair,Corsair AX850 High Performance,N/A,ATX,450
+Corsair,Corsair Builder Series CX450,N/A,ATX,500
+Corsair,Corsair Builder Series CX450M Modular,N/A,ATX,550
+Corsair,Corsair Builder Series CX500,N/A,ATX,550
+Corsair,Corsair Builder Series CX550,N/A,ATX,600
+Corsair,Corsair Builder Series CX550M Modular,N/A,ATX,650
+Corsair,Corsair Builder Series CX600,N/A,ATX,650
+Corsair,Corsair Builder Series CX650,N/A,ATX,750
+Corsair,Corsair Builder Series CX650M Modular,N/A,ATX,750
+Corsair,Corsair Builder Series CX750,N/A,ATX,750
+Corsair,Corsair Builder Series CX750 Rev. 2,N/A,ATX,850
+Corsair,Corsair Builder Series CX750M Modular,N/A,ATX,550
+Corsair,Corsair Builder Series CX850M Modular,N/A,ATX,650
+Corsair,Corsair CS-M Series CS550M Modular,N/A,ATX,750
+Corsair,Corsair CS-M Series CS650M Modular,N/A,ATX,850
+Corsair,Corsair CS-M Series CS750M Modular,N/A,ATX,450
+Corsair,Corsair CS-M Series CS850M Modular,N/A,ATX,550
+Corsair,Corsair CV Series CV450,N/A,ATX,650
+Corsair,Corsair CV Series CV550,N/A,ATX,650
+Corsair,Corsair CV Series CV650,N/A,ATX,550
+Corsair,Corsair CV Series CV650 Dual EPS,N/A,ATX,550
+Corsair,Corsair CX550F RGB,N/A,ATX,550
+Corsair,Corsair CX550F RGB,N/A,ATX,650
+Corsair,Corsair CX550M,72.93,ATX,650
+Corsair,Corsair CX650,77.18,ATX,650
+Corsair,Corsair CX650F RGB,N/A,ATX,650
+Corsair,Corsair CX650F RGB,N/A,ATX,750
+Corsair,Corsair CX650M,47.99,ATX,750
+Corsair,Corsair CX750,87.66,ATX,750
+Corsair,Corsair CX750F RGB,N/A,ATX,750
+Corsair,Corsair CX750F RGB,N/A,ATX,850
+Corsair,Corsair CX750M,52.99,ATX,1000
+Corsair,Corsair CX850M,87.99,ATX,1000
+Corsair,Corsair HX1000,254.99,ATX,1000
+Corsair,Corsair HX1000 High Performance,N/A,ATX,1000
+Corsair,Corsair HX1000i High Performance,N/A,ATX,1200
+Corsair,Corsair HX1000i High-Performance ATX Power Supply,262.92,ATX,1200
+Corsair,Corsair HX1200 High Performance,N/A,ATX,750
+Corsair,Corsair HX1200i High Performance,N/A,ATX,750
+Corsair,Corsair HX750,144.99,ATX,750
+Corsair,Corsair HX750 High Performance,N/A,ATX,750
+Corsair,Corsair HX750i High Performance,N/A,ATX,850
+Corsair,Corsair HX750i High-Performance ATX Power Supply,194.99,ATX,850
+Corsair,Corsair HX850,159.99,ATX,850
+Corsair,Corsair HX850 High Performance,N/A,ATX,850
+Corsair,Corsair HX850i High Performance,N/A,2,1000
+Corsair,Corsair HX850i High-Performance ATX Power Supply,224.99,2,1500
+Corsair,Corsair HXi Series HX1000i,N/A,ATX,1200
+Corsair,Corsair HXi Series HX1500i,N/A,ATX,1500
+Corsair,Corsair Professional Platinum Series AX1200i,N/A,ATX,1600
+Corsair,Corsair Professional Platinum Series AX1500i,N/A,ATX,760
+Corsair,Corsair Professional Platinum Series AX1600i,N/A,ATX,860
+Corsair,Corsair Professional Platinum Series AX760,N/A,ATX,860
+Corsair,Corsair Professional Platinum Series AX860,N/A,ATX,650
+Corsair,Corsair Professional Platinum Series AX860I,N/A,ATX,750
+Corsair,Corsair RM Series RM650i,N/A,ATX,750
+Corsair,Corsair RM Series RM750 (2021),N/A,ATX,850
+Corsair,Corsair RM Series RM750i,N/A,ATX,1000
+Corsair,Corsair RM Series RM850 (2021),N/A,ATX,1000
+Corsair,Corsair RM1000,199.99,ATX,650
+Corsair,Corsair RM1000x,204.99,ATX,650
+Corsair,Corsair RM650i,97.99,ATX,850
+Corsair,Corsair RM650x,99.99,ATX,850
+Corsair,Corsair RM850i,159.99,ATX,850
+Corsair,Corsair RM850x,149.99,ATX,750
+Corsair,Corsair RM850x,169.99,ATX,1000
+Corsair,Corsair RMe Series RM750e,N/A,ATX,550
+Corsair,Corsair RMX Series (2021) RM1000x,N/A,ATX,650
+Corsair,Corsair RMX Series (2021) RM550x,34.42,ATX,750
+Corsair,Corsair RMX Series (2021) RM650x,N/A,ATX,750
+Corsair,Corsair RMX Series (2021) RM750x,N/A,ATX,850
+Corsair,Corsair RMX Series 2018 RMX750 - white,N/A,ATX,750
+Corsair,Corsair RMX Series 2018 RMX850,N/A,ATX,850
+Corsair,Corsair RMX Series RMX750 - white,N/A,2,750
+Corsair,Corsair RMX Series RMX850,N/A,SFX,450
+Corsair,Corsair RMx Shift Series RM750x,N/A,SFX,600
+Corsair,Corsair SF Series SF450 80 PLUS Platinum SFX,N/A,SFX,600
+Corsair,Corsair SF Series SF600 80 PLUS Gold SFX,N/A,SFX,750
+Corsair,Corsair SF Series SF600 80 PLUS Platinum SFX,N/A,SFX,450
+Corsair,Corsair SF Series SF750 80 PLUS Platinum SFX,N/A,SFX,600
+Corsair,Corsair SF450,111.80,ATX,650
+Corsair,Corsair SF600,119.99,ATX,350
+Corsair,Corsair Vengeance Series V650M,N/A,ATX,450
+Corsair,Corsair VS Series VS350,N/A,ATX,450
+Corsair,Corsair VS Series VS450,N/A,ATX,550
+Corsair,Corsair VS Series VS450,N/A,ATX,550
+Corsair,Corsair VS Series VS550,54.96,ATX,650
+Corsair,Corsair VS Series VS550,54.96,ATX,650
+Corsair,Corsair VS Series VS650,N/A,ATX,400
+Corsair,Corsair VS Series VS650,N/A,ATX,500
+Corsair,Corsair VS400,29.99,ATX,600
+Corsair,Corsair VS500,39.99,ATX,500
+Corsair,Corsair VS600,49.99,ATX,600
+Cougar,Cougar CMD 500 digitales,N/A,ATX,1050
+Cougar,Cougar CMD 600 digitales,N/A,ATX,600
+Cougar,Cougar GX 1050 V3,N/A,ATX,800
+Cougar,Cougar GX 600 V3,N/A,ATX,750
+Cougar,Cougar GX 800 V3,N/A,ATX,650
+Cougar,Cougar GX-F,N/A,ATX,550
+Cougar,Cougar GX-F,N/A,ATX,750
+Cougar,Cougar GX-F,119.26,ATX,650
+Cougar,Cougar GX-S,N/A,ATX,550
+Cougar,Cougar GX-S,N/A,ATX,450
+Cougar,Cougar GX-S,N/A,ATX,500
+Cougar,Cougar GX-S,N/A,ATX,600
+Cougar,Cougar LX500,N/A,ATX,750
+Cougar,Cougar LX600,N/A,ATX,550
+Cougar,Cougar STX,N/A,ATX,650
+Cougar,Cougar STX,N/A,ATX,450
+Cougar,Cougar STX,N/A,ATX,350
+Cougar,Cougar STX,N/A,ATX,700
+Cougar,Cougar STX,N/A,ATX,600
+Cougar,Cougar VTX,N/A,ATX,500
+Cougar,Cougar VTX,N/A,ATX,400
+Cougar,Cougar VTX,N/A,ATX,550
+Cougar,Cougar VTX,N/A,ATX,500
+Enermax,Enermax Digifanless digitales,229.99,ATX,750
+Enermax,Enermax Maxpro,N/A,ATX,1000
+Enermax,Enermax Platimax,N/A,ATX,1700
+Enermax,Enermax Platimax,N/A,ATX,850
+Enermax,Enermax Platimax,N/A,ATX,600
+Enermax,Enermax Platimax,121.29,ATX,500
+Enermax,Enermax Platimax D.F.,82.79,ATX,850
+Enermax,Enermax Platimax D.F. 80 PLUS Platin,N/A,ATX,430
+Enermax,Enermax Revolution87+,N/A,ATX,1000
+EVGA,EVGA,89.99,ATX,400
+EVGA,EVGA 1000GQ,129.99,ATX,430
+EVGA,EVGA 400 N1,36.19,ATX,450
+EVGA,EVGA 430 W1,48.03,ATX,450
+EVGA,EVGA 450 B3,59.99,ATX,450
+EVGA,EVGA 450 BT,54.99,ATX,500
+EVGA,EVGA 450 BV,42.32,ATX,500
+EVGA,EVGA 500 B1,44.99,ATX,500
+EVGA,EVGA 500 BQ,49.99,ATX,500
+EVGA,EVGA 500 BV,54.09,ATX,550
+EVGA,EVGA 500 W1,34.99,ATX,550
+EVGA,EVGA 550 B3,77.19,ATX,600
+EVGA,EVGA 550 N1,44.99,ATX,600
+EVGA,EVGA 600 B1,52.77,ATX,600
+EVGA,EVGA 600 BQ,54.99,ATX,650
+EVGA,EVGA 600 W1,62.99,ATX,650
+EVGA,EVGA 650 B3,89.99,ATX,650
+EVGA,EVGA 650 BQ,84.99,ATX,650
+EVGA,EVGA 650 GQ,95.99,ATX,700
+EVGA,EVGA 650 N1,49.99,ATX,700
+EVGA,EVGA 700 B1,79.99,ATX,750
+EVGA,EVGA 700B,N/A,ATX,750
+EVGA,EVGA 750 B3,89.99,ATX,750
+EVGA,EVGA 750 GQ,69.99,ATX,850
+EVGA,EVGA 750 N1,54.99,ATX,850
+EVGA,EVGA 850 B3,109.95,ATX,850
+EVGA,EVGA 850 BQ,64.99,ATX,850
+EVGA,EVGA 850 GQ,104.99,ATX,750
+EVGA,EVGA B3,N/A,ATX,650
+EVGA,EVGA B3,N/A,ATX,550
+EVGA,EVGA B3,N/A,ATX,450
+EVGA,EVGA B3,N/A,ATX,850
+EVGA,EVGA B3,N/A,ATX,750
+EVGA,EVGA BQ,N/A,ATX,650
+EVGA,EVGA BQ,N/A,ATX,600
+EVGA,EVGA BQ,N/A,ATX,500
+EVGA,EVGA BQ,N/A,ATX,1000
+EVGA,EVGA BQ,N/A,ATX,1000
+EVGA,EVGA SuperNOVA 1000 G2,159.00,ATX,1000
+EVGA,EVGA SuperNOVA 1000 P2,169.99,ATX,1000
+EVGA,EVGA SuperNOVA 1000 PS,N/A,ATX,1050
+EVGA,EVGA SuperNOVA 1000 T2,229.99,ATX,1200
+EVGA,EVGA SuperNOVA 1050 GS,69.99,ATX,1300
+EVGA,EVGA SuperNOVA 1200 P2,249.99,ATX,1600
+EVGA,EVGA SuperNOVA 1300 G2,99.99,ATX,1600
+EVGA,EVGA SuperNOVA 1600 G2,352.37,ATX,1600
+EVGA,EVGA SuperNOVA 1600 P2,414.90,ATX,550
+EVGA,EVGA SuperNOVA 1600 T2,479.99,ATX,550
+EVGA,EVGA SuperNOVA 550 G2,74.52,ATX,650
+EVGA,EVGA SuperNOVA 550 GS,82.54,ATX,650
+EVGA,EVGA SuperNOVA 650 G1,108.11,ATX,650
+EVGA,EVGA SuperNOVA 650 G2,119.99,ATX,750
+EVGA,EVGA SuperNOVA 650 P2,173.99,ATX,750
+EVGA,EVGA SuperNOVA 750 B1,64.99,ATX,750
+EVGA,EVGA SuperNOVA 750 B2,79.99,ATX,750
+EVGA,EVGA SuperNOVA 750 G1,109.99,ATX,750
+EVGA,EVGA SuperNOVA 750 G2,114.99,ATX,750
+EVGA,EVGA SuperNOVA 750 P2,159.99,ATX,850
+EVGA,EVGA SuperNOVA 750 T2,176.98,ATX,850
+EVGA,EVGA SuperNOVA 850 B2,N/A,ATX,850
+EVGA,EVGA Supernova 850 G2L,91.75,ATX,850
+EVGA,EVGA SuperNOVA 850 G3,179.99,ATX,850
+EVGA,EVGA SuperNOVA 850 GS,126.00,ATX,850
+EVGA,EVGA SuperNOVA 850 P2,230.80,ATX,1000
+EVGA,EVGA SuperNOVA 850 T2,229.99,ATX,650
+EVGA,EVGA SuperNOVA G1,N/A,ATX,850
+EVGA,EVGA SuperNOVA G1,N/A,ATX,850
+EVGA,EVGA SuperNOVA G2,N/A,ATX,750
+EVGA,EVGA SuperNOVA G2L,N/A,ATX,550
+EVGA,EVGA SuperNOVA G2L 80 PLUS Gold,N/A,ATX,650
+EVGA,EVGA SuperNOVA G3,N/A,ATX,850
+EVGA,EVGA SuperNOVA G3,95.19,ATX,1000
+EVGA,EVGA SuperNOVA G3,129.99,ATX,850
+EVGA,EVGA SuperNOVA GQ,N/A,ATX,750
+EVGA,EVGA SuperNOVA GQ,N/A,ATX,650
+EVGA,EVGA SuperNOVA GQ,N/A,ATX,550
+EVGA,EVGA SuperNOVA GQ,N/A,ATX,1200
+EVGA,EVGA SuperNOVA GS 550,N/A,ATX,1600
+EVGA,EVGA SuperNOVA P2,N/A,ATX,1600
+EVGA,EVGA SuperNOVA P2,N/A,ATX,1000
+EVGA,EVGA SuperNOVA T2,N/A,ATX,850
+EVGA,EVGA SuperNOVA T2,N/A,ATX,600
+EVGA,EVGA SuperNOVA T2,N/A,L,650
+EVGA,EVGA W1,N/A,L,500
+Fractal Design,Fractal Design Ion SFX,89.99,ATX,660
+Fractal Design,Fractal Design Ion SFX,89.99,ATX,760
+Fractal Design,Fractal Design Ion+ Platinum,N/A,ATX,560
+Fractal Design,Fractal Design Ion+ Platinum,N/A,ATX,860
+Fractal Design,Fractal Design Ion+ Platinum,N/A,ATX,750
+Fractal Design,Fractal Design Ion+ Platinum,N/A,ATX,850
+Gigabyte,Gigabyte Aorus P750W,159.99,ATX,700
+Gigabyte,Gigabyte Aorus P850W,179.99,ATX,750
+Gigabyte,Gigabyte B700H 80 PLUS Bronze,69.99,ATX,450
+Gigabyte,Gigabyte G750H 80 PLUS Gold,65.99,ATX,550
+Gigabyte,Gigabyte P450B,39.99,ATX,850
+Gigabyte,Gigabyte P550B,69.99,ATX,500
+Gigabyte,Gigabyte P850GM,113.99,ATX,400
+Gigabyte,Gigabyte PB500,48.99,ATX,1000
+Gigabyte,Gigabyte PW400,44.99,ATX,1000
+Gigabyte,Gigabyte UD1000GM PG5,N/A,ATX,850
+Gigabyte,Gigabyte UD1000GM PG5 2.0,N/A,ATX,1200
+Gigabyte,Gigabyte UD850GM PG5 2.0,N/A,external,65
+Gigabyte,Gigabyte XP1200M,279.99,external,84
+Impactics,Impactics 65 Watt AC-DC Adapter für D1NU-Serie,N/A,ATX,750
+Impactics,Impactics 84 Watt AC-DC Adapter inkl. 130 Watt Wandlerplatine,N/A,ATX,900
+IN WIN,IN WIN Classic C750 80Plus Platinum,N/A,ATX,750
+IN WIN,IN WIN Classic C900 80Plus Platinum,N/A,ATX,550
+IN WIN,IN WIN GreenMe,N/A,ATX,650
+IN WIN,IN WIN GreenMe,N/A,ATX,1000
+IN WIN,IN WIN GreenMe,N/A,ATX,1200
+IN WIN,IN WIN Power Man IP-P1K0BK7-2,N/A,ATX,600
+IN WIN,IN WIN Power Man IP-P1K2BK7-2,N/A,ITX,180
+IN WIN,InWin DESERT FOX Commander III 80 PLUS Gold,118.55,ATX,550
+InWin,InWin IP-AD180-2 H 80 Plus Bronze,N/A,ATX,650
+IN WIN,InWin Power Man IP-S550HQ3-2, 80 PLUS Bronze,N/A,ATX,700
+IN WIN,InWin Power Man IP-S650HQ3-2, 80 PLUS Bronze,N/A,ATX,600
+Kolink,Kolink Classic Power 80 PLUS Bronze,N/A,ATX,500
+Kolink,Kolink Classic Power 80 PLUS Bronze,N/A,ATX,400
+Kolink,Kolink Classic Power 80 PLUS Bronze,N/A,ATX,1200
+Kolink,Kolink Classic Power 80 PLUS Bronze,N/A,ATX,1050
+Kolink,Kolink Continuum 80 PLUS Platinum,N/A,ATX,1500
+Kolink,Kolink Continuum 80 PLUS Platinum,N/A,ATX,850
+Kolink,Kolink Continuum 80 PLUS Platinum,N/A,ATX,1050
+Kolink,Kolink Continuum 80 PLUS Platinum,N/A,ATX,1200
+Kolink,Kolink Continuum 80 PLUS Platinum,N/A,ATX,400
+Kolink,Kolink Continuum 80 PLUS Platinum,N/A,ATX,500
+Kolink,Kolink Core 80 PLUS,N/A,ATX,300
+Kolink,Kolink Core 80 PLUS,N/A,ATX,600
+Kolink,Kolink Core 80 PLUS,N/A,ATX,700
+Kolink,Kolink Core 80 PLUS,N/A,ATX,1000
+Kolink,Kolink Core 80 PLUS,N/A,ATX,850
+Kolink,Kolink Core 80 PLUS,N/A,ATX,500
+Kolink,Kolink Core 80 PLUS,N/A,ATX,700
+Kolink,Kolink Core RGB 80 PLUS,N/A,ATX,600
+Kolink,Kolink Core S Series 80 PLUS,N/A,ATX,500
+Kolink,Kolink Core S Series 80 PLUS,N/A,ATX,600
+Kolink,Kolink Core S Series 80 PLUS,N/A,ATX,700
+Kolink,Kolink Enclave 80 PLUS Gold,N/A,ATX,1000
+Kolink,Kolink Enclave 80 PLUS Gold,N/A,ATX,400
+Kolink,Kolink KL-1000M,N/A,ATX,500
+Kolink,Kolink KL-400 80 PLUS Bronze 400 Watt,N/A,ATX,500
+Kolink,Kolink KL-500,N/A,ATX,600
+Kolink,Kolink KL-500M,N/A,ATX,600
+Kolink,Kolink KL-600,N/A,ATX,700
+Kolink,Kolink KL-600M,N/A,ATX,700
+Kolink,Kolink KL-700,N/A,ATX,850
+Kolink,Kolink KL-700M,N/A,ATX,600
+Kolink,Kolink KL-850M,N/A,ATX,700
+Kolink,Kolink Modular Power 80 PLUS Bronze,N/A,ATX,500
+Kolink,Kolink Modular Power 80 PLUS Bronze,N/A,ATX,850
+Kolink,Kolink Modular Power 80 PLUS Bronze,N/A,SFX,450
+Kolink,Kolink Modular Power 80 PLUS Bronze,N/A,L,550
+Kolink,Kolink SFX-450,N/A,L,750
+Lian Li,Lian Li PE-550B SFX-L,N/A,SFX,750
+Lian Li,Lian Li PE-750B SFX-L,N/A,SFX,750
+Lian Li,Lian Li SP750,N/A,SFX,850
+Lian Li,Lian Li SP750,129.99,SFX,850
+Lian Li,Lian Li SP850,N/A,ATX,1000
+Lian Li,Lian Li SP850,N/A,ATX,1200
+Montech,Montech Titan 1000W - 80 PLUS & Cybenetics Gold,164.99,ATX,850
+Montech,Montech Titan 1200W - 80 PLUS & Cybenetics Gold,199.00,ATX,1300
+Montech,Montech Titan 850W - 80 PLUS & Cybenetics Gold,N/A,ATX,1000
+MSI,MSI MEG Ai1300P PCIe5,310.00,ATX,850
+MSI,MSI MPG A1000G PCIe5,169.99,ATX,500
+MSI,MSI MPG A850G PCIe5,134.99,ATX,650
+NZXT,NZXT E500 Modular,N/A,ATX,850
+NZXT,NZXT E650 Modular,N/A,ATX,750
+NZXT,NZXT E850 Modular,149.99,ATX,850
+PHANTEKS,PHANTEKS AMP 80 PLUS Gold,119.99,ATX,1000
+PHANTEKS,PHANTEKS AMP 80 PLUS Gold,129.99,ATX,1000
+PHANTEKS,PHANTEKS AMP 80 PLUS Gold,159.99,ATX,1000
+PHANTEKS,PHANTEKS AMP v2 80 PLUS Gold,150.14,ATX,850
+PHANTEKS,PHANTEKS AMP v2 80 PLUS Gold,159.99,ATX,1000
+PHANTEKS,PHANTEKS Revolt Pro 80 PLUS Gold,139.99,SFX,650
+PHANTEKS,PHANTEKS Revolt Pro 80 PLUS Gold,259.89,SFX,750
+PHANTEKS,PHANTEKS Revolt SFX 80 PLUS Gold,N/A,SFX,750
+PHANTEKS,PHANTEKS Revolt SFX 80 PLUS Gold,N/A,SFX,850
+PHANTEKS,PHANTEKS Revolt SFX 80 PLUS Platinum,139.99,ATX,1000
+PHANTEKS,PHANTEKS Revolt SFX 80 PLUS Platinum,196.31,ATX,1200
+PHANTEKS,PHANTEKS Revolt X 80 PLUS Platinum,231.91,ATX,750
+PHANTEKS,PHANTEKS Revolt X 80 PLUS Platinum,259.99,ATX,430
+Seasonic,Seasonic CONNECT 750 Gold,183.99,ATX,650
+Seasonic,Seasonic Eco 80 PLUS Bronze,N/A,ATX,750
+Seasonic,Seasonic FOCUS 650 GOLD,99.99,ATX,450
+Seasonic,Seasonic FOCUS 750 GOLD,103.99,SFX,750
+Seasonic,Seasonic Focus 80 PLUS Gold,64.90,SFX,650
+Seasonic,Seasonic Focus 80 PLUS Gold,169.99,ATX,1000
+Seasonic,Seasonic Focus 80 PLUS Platinum,N/A,ATX,850
+Seasonic,Seasonic Focus GX 80 PLUS Gold,N/A,ATX,550
+Seasonic,Seasonic Focus Plus,114.99,ATX,650
+Seasonic,Seasonic Focus Plus Gold,94.48,ATX,750
+Seasonic,Seasonic Focus Plus Gold,117.99,ATX,1000
+Seasonic,Seasonic Focus Plus Gold,99.99,ATX,550
+Seasonic,Seasonic Focus Plus Gold,179.99,ATX,550
+Seasonic,Seasonic Focus Plus PCGH Edition,N/A,ATX,550
+Seasonic,Seasonic Focus Plus Platinum,107.99,ATX,850
+Seasonic,Seasonic Focus PX 80 PLUS Platinum,109.99,ATX,650
+Seasonic,Seasonic Focus PX 80 PLUS Platinum,189.99,L,450
+Seasonic,Seasonic Focus PX 80 Plus Platinum 650 Watt,145.99,L,650
+Seasonic,Seasonic Focus SGX 80 PLUS Gold SFX,84.99,L,500
+Seasonic,Seasonic Focus SGX 80 PLUS Gold SFX,129.99,ATX,650
+Seasonic,Seasonic Focus SGX 80 PLUS Gold SFX-L,117.99,ATX,750
+Seasonic,Seasonic Focus+,125.99,ATX,850
+Seasonic,Seasonic Focus+,139.99,ATX,360
+Seasonic,Seasonic Focus+,154.99,ATX,450
+Seasonic,Seasonic G-360,N/A,ATX,550
+Seasonic,Seasonic G-450,123.61,ATX,650
+Seasonic,Seasonic G-550,69.00,ATX,550
+Seasonic,Seasonic G-Series,N/A,ATX,550
+Seasonic,Seasonic G-Series,N/A,ATX,450
+Seasonic,Seasonic G-Series,N/A,ATX,360
+Seasonic,Seasonic G-Series,N/A,ATX,750
+Seasonic,Seasonic G-Series,N/A,ATX,750
+Seasonic,Seasonic G-Series,123.99,ATX,650
+Seasonic,Seasonic G12 80 PLUS Gold,N/A,ATX,550
+Seasonic,Seasonic G12 80 PLUS Gold,N/A,ATX,550
+Seasonic,Seasonic G12 80 PLUS Gold,N/A,ATX,650
+Seasonic,Seasonic G12-GC-550 Gold,N/A,ATX,850
+Seasonic,Seasonic G12-GC-650 Gold,N/A,ATX,620
+Seasonic,Seasonic M12II 850,89.90,ATX,520
+Seasonic,Seasonic M12II EVO 620,79.99,ATX,620
+Seasonic,Seasonic M12II Evo 80 PLUS Bronze,53.48,ATX,750
+Seasonic,Seasonic M12II Evo, AM2 80 PLUS Bronze,79.99,ATX,860
+Seasonic,Seasonic M12II-750 EVO,N/A,ATX,520
+Seasonic,Seasonic P-Series,N/A,ATX,760
+Seasonic,Seasonic P-Series,N/A,ATX,660
+Seasonic,Seasonic P-Series,N/A,ATX,1050
+Seasonic,Seasonic P-Series,N/A,ATX,1000
+Seasonic,Seasonic P-Series,249.99,ATX,460
+Seasonic,Seasonic Platinum 1000,N/A,ATX,520
+Seasonic,Seasonic Platinum 460 Fanless,125.34,ATX,660
+Seasonic,Seasonic Platinum 520 Fanless,152.79,ATX,760
+Seasonic,Seasonic PLATINUM 660,N/A,ATX,860
+Seasonic,Seasonic Platinum 760,35.18,ATX,850
+Seasonic,Seasonic PLATINUM 860,125.34,ATX,650
+Seasonic,Seasonic Prime,N/A,ATX,750
+Seasonic,Seasonic Prime,N/A,ATX,550
+Seasonic,Seasonic Prime,N/A,ATX,850
+Seasonic,Seasonic Prime,119.99,ATX,1000
+Seasonic,Seasonic Prime,219.99,ATX,1000
+Seasonic,Seasonic Prime,259.90,ATX,1000
+Seasonic,Seasonic Prime,269.63,ATX,1200
+Seasonic,Seasonic PRIME 1200 PLATINUM,229.90,ATX,750
+Seasonic,Seasonic PRIME 1200 W Gold,N/A,ATX,1300
+Seasonic,Seasonic PRIME 750 GOLD,N/A,ATX,1300
+Seasonic,Seasonic Prime 80 PLUS Gold,219.99,ATX,600
+Seasonic,Seasonic Prime 80 PLUS Platinum,264.48,ATX,450
+Seasonic,Seasonic Prime Fanless 80 PLUS Titanium,219.99,ATX,500
+Seasonic,Seasonic Prime Fanless PX,149.99,ATX,700
+Seasonic,Seasonic Prime Fanless PX,155.99,sonstige,600
+Seasonic,Seasonic Prime Fanless TX,249.99,ATX,650
+Seasonic,Seasonic PRIME Fanless TX-600,N/A,ATX,1000
+Seasonic,Seasonic Prime GX 80 PLUS Gold,N/A,ATX,550
+Seasonic,Seasonic Prime PX 80 PLUS Platinum,248.99,ATX,650
+Seasonic,Seasonic Prime Snow Silent 80 PLUS Gold,94.99,ATX,750
+Seasonic,Seasonic Prime Snow Silent 80 PLUS Platinum,149.90,ATX,650
+Seasonic,Seasonic Prime Snow Silent 80 PLUS Titanium,196.48,ATX,750
+Seasonic,Seasonic Prime TX 80 PLUS Titanium,N/A,ATX,850
+Seasonic,Seasonic Prime TX 80 PLUS Titanium,205.99,ATX,650
+Seasonic,Seasonic Prime TX 80 PLUS Titanium,230.99,ATX,550
+Seasonic,Seasonic Prime Ultra,114.99,ATX,1000
+Seasonic,Seasonic Prime Ultra 80 PLUS Gold,104.99,ATX,850
+Seasonic,Seasonic Prime Ultra 80 PLUS Gold,173.85,ATX,750
+Seasonic,Seasonic Prime Ultra 80 PLUS Platinum,N/A,ATX,1000
+Seasonic,Seasonic Prime Ultra 80 PLUS Platinum,159.99,ATX,850
+Seasonic,Seasonic Prime Ultra 80 PLUS Platinum,234.99,ATX,550
+Seasonic,Seasonic PRIME ULTRA 850 GOLD,N/A,ATX,750
+Seasonic,Seasonic S12G,N/A,ATX,430
+Seasonic,Seasonic S12G-750,N/A,ATX,430
+Seasonic,Seasonic S12II,N/A,ATX,620
+Seasonic,Seasonic S12II 430,60.98,ATX,520
+Seasonic,Seasonic S12II 620,75.24,ATX,620
+Seasonic,Seasonic S12II, GB 80 PLUS Bronze,51.99,ATX,550
+Seasonic,Seasonic S12II, GB 80 PLUS Bronze,56.99,ATX,650
+Seasonic,Seasonic S12III 80 PLUS Bronze,52.99,ATX,500
+Seasonic,Seasonic S12III 80 PLUS Bronze,69.00,ATX,750
+Seasonic,Seasonic S12III 80 PLUS Bronze,53.99,ATX,350
+Seasonic,Seasonic Snow Silent,149.99,ATX,400
+Seasonic,Seasonic SS-350ES 80 PLUS Bronze, bulk,N/A,ATX,850
+Seasonic,Seasonic SS-400ES,N/A,ATX,1000
+Seasonic,Seasonic Vertex GX 80 PLUS Gold,194.99,ATX,1200
+Seasonic,Seasonic Vertex GX 80 PLUS Gold,216.36,ATX,1050
+Seasonic,Seasonic Vertex GX 80 PLUS Gold,229.99,ATX,1250
+Seasonic,Seasonic X-1050,125.34,ATX,650
+Seasonic,Seasonic X-1250,N/A,ATX,850
+Seasonic,Seasonic X-650,109.17,ATX,850
+Seasonic,Seasonic X-850,99.90,ATX,650
+Seasonic,Seasonic X-Series,N/A,ATX,750
+Seasonic,Seasonic X-Series,N/A,ATX,500
+Seasonic,Seasonic X-Series,105.21,ATX,850
+Silentmaxx,Silentmaxx Fanless II,N/A,external,120
+Silverstone,Silverstone DA850-G,157.99,ATX,700
+Silverstone,Silverstone externes für Mini-STX Systeme 19V,39.99,ATX,1650
+Silverstone,SilverStone NJ700 80 PLUS Titanium,N/A,ATX,500
+Silverstone,SilverStone SST-DA1650-G Decathalon Series 80 PLUS Gold,N/A,ATX,550
+Silverstone,Silverstone SST-ET500-ARGB,N/A,ATX,650
+Silverstone,Silverstone SST-ET550-B v1.2 ATX,51.02,ATX,750
+Silverstone,SilverStone SST-ET650-B v1.4 Strider Essential Series 80 PLUS Bronze,N/A,SFX,500
+Silverstone,SilverStone SST-ET750-B v1.1 Strider Essential Series 80 PLUS Bronze,N/A,SFX,850
+Silverstone,SilverStone SST-EX500-B Extreme SFX,N/A,ATX,350
+Silverstone,SilverStone SST-EX850R-PM Extreme SFX,N/A,ATX,600
+Silverstone,SilverStone SST-FX350-G Flex Series 80 PLUS Gold,101.88,ATX,1000
+Silverstone,SilverStone SST-FX600-PT FX600 Platinum,N/A,Netzteil,400
+Silverstone,Silverstone SST-GM1000-2UG V2 redundantes 2HE-,N/A,redundant,400
+Silverstone,SilverStone SST-GM400-1UB Gemini Series - 2x 400 Watt,N/A,redundant,500
+Silverstone,Silverstone SST-GM400-S Gemini Series redundantes,N/A,redundant,600
+Silverstone,Silverstone SST-GM500-G Gemini Series redundantes,N/A,ATX,600
+Silverstone,Silverstone SST-GM600-2UG - 2x 600 Watt,531.08,redundant,600
+Silverstone,Silverstone SST-GM600-2UG V2 redundantes 2HE-,N/A,redundant,800
+Silverstone,Silverstone SST-GM600-G Gemini Series redundantes,528.99,ATX,800
+Silverstone,Silverstone SST-GM800-2UG - 2x 800 Watt,568.05,ATX,850
+Silverstone,Silverstone SST-GM800-2UG V2 redundantes 2HE-,N/A,L,450
+Silverstone,SilverStone SST-HA850R-PM - Cybenetics Platinum,N/A,ATX,520
+Silverstone,Silverstone SST-NJ450-SXL Nightjar-Series,172.28,ATX,1000
+Silverstone,Silverstone SST-NJ520 Nightjar-Series,N/A,ATX,1000
+Silverstone,Silverstone SST-ST1000-G Strider Evolution v2.0 Gold Series,N/A,ATX,1000
+Silverstone,Silverstone SST-ST1000-P Strider,N/A,ATX,1000
+Silverstone,Silverstone SST-ST1000-PT Strider 80 PLUS Platinum,N/A,ATX,1100
+Silverstone,SilverStone SST-ST1000-PTS Strider Platinum Series 80 PLUS Platinum,212.99,ATX,1200
+Silverstone,Silverstone SST-ST1100-TI Strider 80 PLUS Titanium modular - 1.100 Watt,329.99,ATX,1200
+Silverstone,Silverstone SST-ST1200-G Strider Evolution Gold Series,N/A,ATX,1200
+Silverstone,Silverstone SST-ST1200-PT Strider 80 PLUS Platinum,N/A,ATX,1300
+Silverstone,SilverStone SST-ST1200-PTS Strider Platinum Series 80 PLUS Platinum,269.99,ATX,1300
+Silverstone,Silverstone SST-ST1300-TI Strider 80 PLUS Titanium modular - 1.300 Watt,351.99,ATX,1500
+Silverstone,Silverstone SST-ST1300-TI v 2.0 Strider 80 PLUS Titanium,N/A,ATX,1500
+Silverstone,Silverstone SST-ST1500-GS Strider Gold Series vollmodular,N/A,ATX,1500
+Silverstone,Silverstone SST-ST1500-TI Strider 80 PLUS Titanium modular,N/A,SFX,300
+Silverstone,Silverstone SST-ST1500-TI v1.1,326.46,ATX,400
+Silverstone,Silverstone SST-ST30SF V2.0 Strider SFX Bronze,N/A,ATX,400
+Silverstone,Silverstone SST-ST40F-ES230 Strider Essential Series,N/A,SFX,450
+Silverstone,Silverstone SST-ST40F-ESB Strider Essential Series Bronze,N/A,SFX,450
+Silverstone,Silverstone SST-ST45SF V3.0 80 PLUS Bronze SFX,80.99,ATX,500
+Silverstone,Silverstone SST-ST45SF-G V2.0 Strider Serie SFX Gold,95.47,ATX,500
+Silverstone,Silverstone SST-ST50F-ES230 v2.0 Strider Essential Series,N/A,ATX,500
+Silverstone,Silverstone SST-ST50F-ESB Strider Essential Series Bronze,N/A,ATX,500
+Silverstone,Silverstone SST-ST50F-ESG Strider Essential Series Gold,N/A,ATX,550
+Silverstone,Silverstone SST-ST50F-PB Strider Plus Bronze modular,N/A,ATX,550
+Silverstone,Silverstone SST-ST55F-G V2.0 Strider Gold Series,N/A,ATX,550
+Silverstone,SilverStone SST-ST55F-PB Strider Plus Series 80 PLUS Bronze,N/A,redundant,550
+Silverstone,Silverstone SST-ST55F-PT Strider 80 PLUS Platinum,103.39,ATX,600
+Silverstone,Silverstone SST-ST55GF,N/A,ATX,600
+Silverstone,Silverstone SST-ST60F-ES230 Strider Essential Series,N/A,ATX,600
+Silverstone,Silverstone SST-ST60F-ESB Strider Essential Series Bronze,N/A,ATX,600
+Silverstone,Silverstone SST-ST60F-ESG Strider Essential Series Gold,N/A,ATX,600
+Silverstone,Silverstone SST-ST60F-PB modular, Strider 80 PLUS Bronze,N/A,ATX,650
+Silverstone,Silverstone SST-ST60F-TI Strider 80 PLUS Titanium modular,N/A,ATX,650
+Silverstone,SilverStone SST-ST65F-ES230 Strider Essential Series 80 PLUS,N/A,ATX,650
+Silverstone,Silverstone SST-ST65F-G Strider Gold Series,N/A,ATX,650
+Silverstone,SilverStone SST-ST65F-GS v 1.1 Strider Gold S Series 80 PLUS Gold,N/A,ATX,650
+Silverstone,SilverStone SST-ST65F-PB Strider Plus Series 80 PLUS Bronze,N/A,ATX,700
+Silverstone,Silverstone SST-ST65F-PT Strider 80 PLUS Platinum,N/A,ATX,700
+Silverstone,Silverstone SST-ST70F-ES230 Strider Essential Series,N/A,ATX,700
+Silverstone,Silverstone SST-ST70F-ESB Strider Essential Series Bronze,N/A,ATX,700
+Silverstone,Silverstone SST-ST70F-ESG Strider Essential Series Gold,N/A,ATX,700
+Silverstone,Silverstone SST-ST70F-PB modular, Strider 80 PLUS Bronze,N/A,ATX,750
+Silverstone,Silverstone SST-ST70F-TI Strider 80 PLUS Titanium modular,N/A,ATX,750
+Silverstone,Silverstone SST-ST75F-GS Strider Gold Series,N/A,ATX,750
+Silverstone,Silverstone SST-ST75F-GS v 3.1 Strider,N/A,ATX,750
+Silverstone,Silverstone SST-ST75F-P Strider Plus,312.30,ATX,750
+Silverstone,SilverStone SST-ST75F-PB Strider Plus Series 80 PLUS Bronze,N/A,ATX,800
+Silverstone,Silverstone SST-ST75F-PT Strider 80 PLUS Platinum,N/A,ATX,850
+Silverstone,Silverstone SST-ST80F-TI Strider 80 PLUS Titanium modular,164.99,ATX,850
+Silverstone,Silverstone SST-ST85F-GS Strider Gold Series,N/A,ATX,850
+Silverstone,Silverstone SST-ST85F-P Strider Plus,N/A,SFX,300
+Silverstone,Silverstone SST-ST85F-PT Strider 80 PLUS Platinum,N/A,SFX,450
+Silverstone,Silverstone SST-SX300-B SFX,N/A,SFX,500
+Silverstone,SilverStone SST-SX450-B SFX Series,N/A,SFX,500
+Silverstone,Silverstone SST-SX500-G SFX 80 PLUS Gold,102.99,L,500
+Silverstone,Silverstone SST-SX500-G v1.1 SFX,95.36,SFX,550
+Silverstone,Silverstone SST-SX500-LG v2.1 SFX-L,197.03,SFX,650
+Silverstone,Silverstone SST-SX550 SFX 80 PLUS Gold,N/A,SFX,700
+Silverstone,Silverstone SST-SX650-G SFX 80 PLUS Gold,126.99,L,700
+Silverstone,Silverstone SST-SX700-G v1.1 SFX,N/A,L,700
+Silverstone,Silverstone SST-SX700-LPT SFX-L 80 PLUS Platinum,N/A,SFX,700
+Silverstone,Silverstone SST-SX700-LPT v1.1 SFX-L,125.37,SFX,750
+Silverstone,Silverstone SST-SX700-PT SFX,N/A,SFX,750
+Silverstone,SilverStone SST-SX750-G 80 PLUS Gold,139.70,TFX,300
+Silverstone,Silverstone SST-SX750-PT V.1.1 SFX,N/A,TFX,500
+Silverstone,Silverstone SST-TX300 TFX, 80 PLUS Bronze,68.99,TFX,700
+Silverstone,SilverStone SST-TX500-G TFX,145.97,ATX,500
+Silverstone,Silverstone SST-TX700-G TFX,N/A,ATX,600
+Silverstone,SilverStone ST500P,N/A,ATX,700
+Silverstone,Silverstone ST600P,N/A,external,120
+Silverstone,Silverstone ST700P,N/A,external,160
+Streacom,Streacom ST-NANO120,N/A,sonstige,90
+Streacom,Streacom ST-NANO150,N/A,misc,240
+Streacom,Streacom ST-NANO160,N/A,ATX,750
+Streacom,Streacom ST-NANO90 HTPC-,N/A,ATX,650
+Streacom,Streacom ZeroFlex 240,N/A,ATX,350
+Super Flower,Super Flower Golden Green HX,N/A,ATX,500
+Super Flower,Super Flower Golden Green HX,N/A,ATX,1300
+Super Flower,Super Flower Golden Green HX,N/A,ATX,1000
+Super Flower,Super Flower Golden Silent,N/A,ATX,1000
+Super Flower,Super Flower Leadex,N/A,ATX,1200
+Super Flower,Super Flower Leadex,N/A,ATX,850
+Super Flower,Super Flower Leadex,N/A,ATX,1000
+Super Flower,Super Flower Leadex,N/A,ATX,850
+Super Flower,Super Flower Leadex,N/A,ATX,550
+Super Flower,Super Flower Leadex,N/A,ATX,550
+Super Flower,Super Flower Leadex,N/A,ATX,750
+Super Flower,Super Flower Leadex,N/A,ATX,850
+Super Flower,Super Flower Leadex,N/A,ATX,1000
+Super Flower,Super Flower Leadex,N/A,ATX,550
+Super Flower,Super Flower Leadex,N/A,ATX,550
+Super Flower,Super Flower Leadex,N/A,ATX,550
+Super Flower,Super Flower Leadex,N/A,ATX,750
+Super Flower,Super Flower Leadex,N/A,ATX,1600
+Super Flower,Super Flower Leadex,N/A,ATX,1200
+Super Flower,Super Flower Leadex,N/A,ATX,1600
+Super Flower,Super Flower Leadex 80 PLUS Gold,N/A,ATX,2000
+Super Flower,Super Flower Leadex 80 PLUS Platinum,N/A,ATX,750
+Super Flower,Super Flower Leadex 80 PLUS Platinum,N/A,ATX,1000
+Super Flower,Super Flower Leadex 80 PLUS Platinum 8Pack Edt.,N/A,ATX,850
+Super Flower,Super Flower Leadex 80 PLUS Titanium,N/A,ATX,1600
+Super Flower,Super Flower Leadex 80 PLUS Titanium,N/A,ATX,1000
+Super Flower,Super Flower Leadex 80 PLUS Titanium,N/A,ATX,850
+Super Flower,Super Flower Leadex 80 PLUS Titanium,N/A,ATX,850
+Super Flower,Super Flower Leadex II,N/A,ATX,1200
+Super Flower,Super Flower Leadex II,N/A,ATX,1000
+Super Flower,Super Flower Leadex II,N/A,ATX,1200
+Super Flower,Super Flower Leadex II 80 PLUS Gold,N/A,ATX,1000
+Super Flower,Super Flower Leadex II 80 PLUS Gold,N/A,ATX,1200
+Super Flower,Super Flower Leadex II 80 PLUS Gold,N/A,ATX,630
+Super Flower,Super Flower Leadex Platinum Special Edition,N/A,ATX,730
+Super Flower,Super Flower Leadex Platinum Special Edition 80 PLUS Platin,N/A,ATX,830
+Thermaltake,Thermaltake Berlin,N/A,ATX,530
+Thermaltake,Thermaltake Cologne,N/A,ATX,550
+Thermaltake,Thermaltake Frankfurt,N/A,ATX,850
+Thermaltake,Thermaltake Hamburg,N/A,ATX,430
+Thermaltake,Thermaltake London,N/A,ATX,650
+Thermaltake,Thermaltake Madrid,N/A,ATX,750
+Thermaltake,Thermaltake Munich,N/A,ATX,750
+Thermaltake,Thermaltake Paris,N/A,ATX,650
+Thermaltake,Thermaltake Rome,N/A,ATX,850
+Thermaltake,Thermaltake Smart Pro RGB 80Plus Bronze modular,N/A,ATX,630
+Thermaltake,Thermaltake Smart Pro RGB 80Plus Bronze modular,81.53,ATX,530
+Thermaltake,Thermaltake Smart Pro RGB 80Plus Bronze modular,89.92,ATX,1200
+Thermaltake,Thermaltake Smart SE,47.99,ATX,850
+Thermaltake,Thermaltake Smart SE,47.99,ATX,750
+Thermaltake,Thermaltake Toughpower DPS G 80 PLUS Platinum,N/A,ATX,650
+Thermaltake,Thermaltake Toughpower DPS G RGB 80Plus Gold,N/A,ATX,650
+Thermaltake,Thermaltake Toughpower DPS G RGB 80Plus Gold,N/A,ATX,750
+Thermaltake,Thermaltake Toughpower DPS G RGB 80Plus Gold,N/A,ATX,850
+Thermaltake,Thermaltake Toughpower GF1 A-RGB 80 Plus Gold,N/A,ATX,650
+Thermaltake,Thermaltake Toughpower GF1 A-RGB 80 Plus Gold,N/A,ATX,750
+Thermaltake,Thermaltake Toughpower GF1 A-RGB 80 Plus Gold,N/A,ATX,850
+Thermaltake,Thermaltake Toughpower Grand RGB 80 PLUS Gold modular,84.77,ATX,1200
+Thermaltake,Thermaltake Toughpower Grand RGB 80 PLUS Gold modular,114.99,ATX,1050
+Thermaltake,Thermaltake Toughpower Grand RGB 80 PLUS Gold modular,184.10,ATX,1250
+Thermaltake,Thermaltake Toughpower iRGB 80 PLUS Platinum,N/A,ATX,850
+Thermaltake,Thermaltake Toughpower iRGB 80 PLUS Platinum,N/A,ATX,1200
+Thermaltake,Thermaltake Toughpower iRGB 80 PLUS Titanium,499.99,ATX,1050
+Thermaltake,Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum,N/A,ATX,600
+Thermaltake,Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum,N/A,ATX,700
+Thermaltake,Thermaltake Toughpower PF1 A-RGB 80 Plus Platinum,N/A,ATX,500
+Thermaltake,Thermaltake TR2 S,N/A,ATX,1050
+Thermaltake,Thermaltake TR2 S,89.99,ATX,750
+Thermaltake,Thermaltake TR2 S 80 PLUS,N/A,ATX,850
+XFX,XFX Black Edition,N/A,ATX,450
+XFX,XFX Black Edition,N/A,ATX,1000
+XFX,XFX Black Edition,N/A,ATX,750
+XFX,XFX Core Edition PRO V2,N/A,ATX,550
+XFX,XFX PRO1000W Black Edition Full Modular,N/A,ATX,650
+XFX,XFX TS-Series Single Rail,N/A,ATX,600
+XFX,XFX TS-Series Single Rail,N/A,ATX,500
+XFX,XFX TS-Series Single Rail,N/A,ATX,400
+XFX,XFX XT,N/A,ATX,550
+XFX,XFX XT,N/A,ATX,520
+XFX,XFX XT,N/A,ATX,460
+XFX,XFX XTR Series,N/A,ATX,850
+XFX,XFX XTS Fanless Series,N/A,ATX,400
+XFX,XFX XTS Fanless Series,N/A,ATX,830
+XFX,XFX XXX Edition Pro,N/A,ATX,530
+Xigmatek,Xigmatek Maverick,N/A,ATX,730
+Xilence,Xilence Performance A+,N/A,ATX,430
+Xilence,Xilence Performance A+,N/A,ATX,630
+Xilence,Xilence Performance A+,N/A,ATX,300
+Xilence,Xilence Performance A+,N/A,ATX,350
+Xilence,Xilence Performance A+,N/A,ATX,450
+Xilence,Xilence Performance C Series XP400,N/A,ATX,550
+Xilence,Xilence Performance C Series XP500,N/A,ATX,1000
+Xilence,Xilence Performance C Series XP600,N/A,ATX,1200
+Xilence,Xilence Performance C Series XP700,N/A,ATX,500
+Zalman,Zalman 1000EBT,N/A,ATX,500
+Zalman,Zalman 1200EBT 80 PLUS Gold,N/A,ATX,600
+Zalman,Zalman 500GVM,N/A,ATX,600
+Zalman,Zalman 500TX,N/A,ATX,650
+Zalman,Zalman 600GVM,N/A,ATX,700
+Zalman,Zalman 600TX,N/A,ATX,700
+Zalman,Zalman 650EBT,N/A,ATX,750
+Zalman,Zalman 700GVM,N/A,ATX,850
+Zalman,Zalman 700TX,N/A,ATX,1000
+Zalman,Zalman 750EBT 80 PLUS Gold,N/A,ATX,1200
+Zalman,Zalman 850EBT,N/A,ATX,700
+Zalman,Zalman ZM1000-EBTII 80 PLUS Gold,N/A,ATX,800
