@@ -6,4 +6,4 @@ classes.py
 moreOptions.py
 scraper.py
 
-The program can be ran by downloading the files and launching main.exe
+The program can be ran by downloading the files and launching main.exe, however scraper will be ran seperately, with scraper.exe
